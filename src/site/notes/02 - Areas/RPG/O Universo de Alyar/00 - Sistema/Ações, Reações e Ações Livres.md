@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Ações, Reações e Ações Livres.md","permalink":"/00 - Sistema/Ações, Reações e Ações Livres/","tags":["mecânica","#alyar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-09T17:17:15.793+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Ações, Reações e Ações Livres.md","permalink":"/00 - Sistema/Ações, Reações e Ações Livres/","tags":["mecânica","#alyar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-09T23:44:50.995+00:00"}
 ---
 
 ## Overall
@@ -34,12 +34,12 @@ Existem ainda <span style="color:rgb(146, 208, 80)">Ações Livres</span>, açõ
 
 
 ### Executar <span style="color:rgb(230, 90, 25)">Ações</span> fora do turno:
-É possível que um personagem execute uma <span style="color:rgb(230, 90, 25)">Ação</span> fora do seu turno, gastando 🟪 🟪 🟪 por cada 🟠 da <span style="color:rgb(230, 90, 25)">Ação</span> que quer realizar. No entanto, isto apenas pode ser feito no fim de um turno, ou então durante o turno de outro player, se esse player permitir. (ex: Um player usa o feitiço "Cloud of Daggers 🟠🟠" durante o turno de outro membro da party, gastando <span style="color:rgb(163, 126, 196)">6</span>🟪)
+É possível que um personagem execute uma <span style="color:rgb(230, 90, 25)">Ação</span> fora do seu turno, gastando 🟪🟪🟪 por cada 🟠 da <span style="color:rgb(230, 90, 25)">Ação</span> que quer realizar. No entanto, isto apenas pode ser feito no fim de um turno, ou então durante o turno de outro player, se esse player permitir. (ex: Um player usa o feitiço "Cloud of Daggers 🟠🟠" durante o turno de outro membro da party, gastando <span style="color:rgb(163, 126, 196)">6</span>🟪)
 
 
 ## <span style="color:rgb(163, 126, 196)">Reações</span><span style="color:rgb(163, 126, 196)">:</span>
 ### Esquiva:
-**Custo:** 🟪 🟪
+**Custo:** 🟪🟪
 **Acerto:** 1d20+DEX contra a rolagem de ataque do inimigo
 **Efeito:** Caso acerte não leva dano, caso falhe leva metade do dano
 **Efeito Secundário:** Caso acerte, é possível fazer um ataque de acerto garantido, que conta como uma ação fora de turno

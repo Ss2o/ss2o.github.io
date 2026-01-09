@@ -1,7 +1,7 @@
 [
 {
 		"title": "O Universo de Aylar",
-		"date":"Fri Jan 09 2026 22:37:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jan 09 2026 22:38:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "O Universo de Aylar\nBem vindos ao Universo de Aylar, um lugar onde terão acesso direto a uma parte do meu Vault do Obsidian, organizado num formato de Wiki, para fácil acesso a informações sobre o Sistema e o Universo dos TTRPGs que (ocasionalmente) jogamos.\nCampanhas Passadas: O Ataque à Câmara dos Nobres\nCampanhas Ativas: Trieto Caótico\nO Universo de Alyar:\nDivindades:\n\nFile\nTítulos\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/Divindades/Superiores/Aeonir/\">Aeonir</a>\nDeus do TempoO Último FilhoO Grande NeutralizadorO Único e Verdadeiro Deus\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/Divindades/Superiores/Durnovar/\">Durnovar</a>\nDeus da TerraDeus da ProduçãoDeus do MagmaDeus da MineraçãoDeus da ExperiênciaDeus da Velhice\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/Divindades/Superiores/Helisara/\">Helisara</a>\nDeusa do SolDeusa da LuzDeusa do DiaDeusa da Ordem\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/Divindades/Superiores/Sylara/\">Sylara</a>\nDeusa da VidaDeusa das FloresDeusa da NaturezaDeusa da PuberdadeDeusa do Crescimento\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/Divindades/Superiores/Vaelion/\">Vaelion</a>\nPai dos DeusesDeus do EquilíbrioDeus da Neutralidade\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/Divindades/Superiores/Vaelthor/\">Vaelthor</a>\nDeus da LuaDeus da NoiteDeus da EscuridãoDeus do CaosDeus da Liberdade\n\nA Região de Khilian:\n\nCidades\n\nFile\nRegião\nReligião\nCultura\nSituação Geográfica\nEtnia Principal\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/A Região de Khilian/Cidades/Ekhalis/\">Ekhalis</a>\nEkhalis\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Generalismo Pós Reconstituição</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Ekhaliana</a>\nBeira Rio\nAntropomórfica (Pós Reconstituição)HumanaÉlfica\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/A Região de Khilian/Cidades/Fizora/\">Fizora</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Khishuri</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Aeonismo</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Khishuriana</a>\nFloresta\nAnimais Antropomorfos\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/A Região de Khilian/Cidades/Portis/\">Portis</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Khishuri</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Aeonismo</a>\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Ekhaliana</a><a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Khishuriana</a>\nFoz do Rio\nHumanaAnimais Antropomorfos\n\nSistema:\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/00 - Sistema/Ações, Reações e Ações Livres/\">Ações, Reações e Ações Livres</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/00 - Sistema/Criação de Spells/\">Criação de Spells</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/00 - Sistema/Critical Hits/\">Critical Hits</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/00 - Sistema/Forçar Dados/\">Forçar Dados</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/00 - Sistema/Stat - Sorte (LUK)/\">Stat - Sorte (LUK)</a>\n\nChangelogs:\n\nFile\nVersão\nÚltima Modificação\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/00 - Sistema/Changelogs/Changelog v0.2.0/\">Changelog v0.2.0</a>\nv0.2.0\n09/01/2026 18:27\n\n(Já agora, para os curiosos, para fazer o site, usei este recurso: https://github.com/foxblock/digitalgarden_gh-pages)",
 		"tags": [ "note","gardenEntry"]
@@ -9,7 +9,7 @@
 
 {
 		"title": "Ações, Reações e Ações Livres",
-		"date":"Fri Jan 09 2026 22:37:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jan 09 2026 22:38:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/00 - Sistema/Ações, Reações e Ações Livres/",
 		"content": "Overall\nTipo: Mecânica\nCusto: 🟠 ou 🟪\nDescrição:\nAções e Reações realizadas durante um combate (ou outro momento à base de turnos) são baseadas em Action Points 🟠 e Reaction Points 🟪. Cada personagem possui uma certa quantidade de 🟠 e 🟪, restaurados automaticamente no início do seu turno. 🟠 servem única e exclusivamente para realizar ações durante o turno de um personagem, enquanto que 🟪 servem apenas para realizar ações fora do mesmo.\nA tabela de Action Points e Reaction Points ganhos por nível e por classe está disponível em: https://docs.google.com/spreadsheets/d/135td4z67mIF97yf017IjGqWDp2RunHq9Ak-WN8X0kVI/edit?usp=sharing\nExistem ainda Ações Livres, ações específicas sem custo, que podem ser executadas a qualquer altura, inclusive durante o combate, desde que se reúnam as condições descritas no texto das mesmas (ex: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/00 - Sistema/Forçar Dados/\">Forçar Dados</a> é uma Ação Livre, mas só pode ser usada quando um dado for rodado).\nAções específicas de cada personagem, como spells ou ataques, têm o seu custo visível à frente do nome da Ação (ex: &quot;Cloud of Daggers 🟠🟠&quot; é um spell com um custo de 2 Action Points). Note-se que 🟠 e 🟪 não substituem os outros custos potencialmente associados a uma Ação (Spell Slots, componentes, etc...). As restantes Ações e Reações genéricas, que todos os personagens podem realizar, ficam aqui sumarizadas:\nAções:\nAtaques desarmados:\nCusto: 🟠\nAcerto: Garantido\nDano: 1d4 + STR\nMovimento:\nCusto: 🟠 por cada 30ft\nPulo:\nCusto: 🟠 (adicionado ao movimento)\nFugir:\nCusto: 🟠\nEfeito: Permite que o personagem se afaste da área imediata de um inimigo sem ativar um Oportunity Attack\nEquipar itens:\nCusto: 🟠\nUsar Consumíveis:\nCusto: 🟠\nExecutar Ações fora do turno:\nÉ possível que um personagem execute uma Ação fora do seu turno, gastando 🟪 🟪 🟪 por cada 🟠 da Ação que quer realizar. No entanto, isto apenas pode ser feito no fim de um turno, ou então durante o turno de outro player, se esse player permitir. (ex: Um player usa o feitiço &quot;Cloud of Daggers 🟠🟠&quot; durante o turno de outro membro da party, gastando 6🟪)\nReações:\nEsquiva:\nCusto: 🟪 🟪\nAcerto: 1d20+DEX contra a rolagem de ataque do inimigo\nEfeito: Caso acerte não leva dano, caso falhe leva metade do dano\nEfeito Secundário: Caso acerte, é possível fazer um ataque de acerto garantido, que conta como uma ação fora de turno\nBlock:\nCusto: 🟪\nAcerto: Garantido\nEfeito: 3d4+STR de defesa contra o dano\nMagical Block:\nCusto: 🟪\nAcerto: Garantido\nEfeito: 3d4+INT de defesa contra o dano\nOportunity Attack:\nCusto: 🟪 por cada 🟠 do ataque\nAcerto: Garantido\nCondição: Pode ser ativado contra um inimigo que saia da área imediata do personagem",
 		"tags": [ "note","mecânica","#alyar"]
@@ -17,7 +17,7 @@
 
 {
 		"title": "Changelog v0.2.0",
-		"date":"Fri Jan 09 2026 22:37:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jan 09 2026 22:38:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/00 - Sistema/Changelogs/Changelog v0.2.0/",
 		"content": "",
 		"tags": [ "note","#changelog","alyar"]
@@ -25,7 +25,7 @@
 
 {
 		"title": "Criação de Spells",
-		"date":"Fri Jan 09 2026 22:37:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jan 09 2026 22:38:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/00 - Sistema/Criação de Spells/",
 		"content": "Overall\nTipo: Ação\nCusto: 🟠 (ou mais) + Spell Slot equivalente ao nível do feitiço (decidido pelo DM)\nDescrição:\nUma vez por cada turno, alguns dos players (é preciso melhorar depois para depender da classe, talvez) podem gastar 🟠 para criar um feitiço. O player deve utilizar no máximo 3 palavras para definir o título do feitiço, além de rodar 1d20+X (sendo X = 2 x 🟠 extra) para ver o quão bem sucedida é a criação do feitiço. Os efeitos deste feitiço serão definidos pelo DM com base no valor do dado. Com base nos efeitos o DM decide também o nível do feitiço.\nÉ possível ainda usar o dobro da quantidade de Spell Slots para tornar o feitiço permanentemente executável.\nExemplos:\n&quot;Explodir Goblin&quot; 🟠, Dado (1d20): 1\nEfeito: Cria uma explosão à volta de um goblin aleatório, mas todos os goblins são imunes a essa explosão\nNível: 1\n&quot;Iluminar Todas Salas&quot; 🟠🟠🟠, Dado (1d20+4): 24\nEfeito: Ilumina todas as salas de uma dungeon com uma luz tão forte que torna todos os inimigos cegos temporariamente.\nNível: 3\n&quot;Abrir Porta&quot; 🟠🟠, Dado (1d20+2): 15\nEfeito: Abre qualquer porta que esteja à frente do caster, desde que esta não esteja trancada com um feitiço de nível superior (&gt;1).\nNível: 1\n&quot;Matar&quot; 6🟠, Dado (1d20+10): 30\nEfeito: Mata instantaneamente qualquer criatura desejada.\nNível: 9",
 		"tags": [ "note","mecânica","alyar"]
@@ -33,7 +33,7 @@
 
 {
 		"title": "Critical Hits",
-		"date":"Fri Jan 09 2026 22:37:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jan 09 2026 22:38:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/00 - Sistema/Critical Hits/",
 		"content": "Overall\nTipo: Mecânica\nDescrição:\nQuando um player roda um crítico e mata um inimigo, todo o dano extra dos dados que não for usado para matar o inimigo pode passar para outro inimigo próximo de nível semelhante ou menor.\nExemplos:\n\nUma flechada que mata e trespassa múltiplos goblins;\nUm dano mágico massivo que mata ao mesmo tempo o boss e muitos dos seus minions.",
 		"tags": [ "note","mecânica","alyar"]
@@ -41,7 +41,7 @@
 
 {
 		"title": "Forçar Dados",
-		"date":"Fri Jan 09 2026 22:37:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jan 09 2026 22:38:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/00 - Sistema/Forçar Dados/",
 		"content": "Overall\nTipo: Ação Livre\nDescrição:\nOs players podem abdicar permanentemente de 1 ponto de <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/00 - Sistema/Stat - Sorte (LUK)/\">Sorte</a> para ganhar +1 num dado qualquer lançado por si. Não há limite de pontos que podem ser gastos de uma só vez. A decisão de forçar os dados pode ser tomada antes ou depois do dado ser lançado (desde que a atenção da party não tenha já sido redirecionada para outro lado).",
 		"tags": [ "note","mecânica","alyar"]
@@ -49,7 +49,7 @@
 
 {
 		"title": "Stat - Sorte (LUK)",
-		"date":"Fri Jan 09 2026 22:37:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jan 09 2026 22:38:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/00 - Sistema/Stat - Sorte (LUK)/",
 		"content": "Overall\nTipo: Stat\nDescrição:\nOs players ganham um stat novo, Sorte (LUK), que pode ser usado na rolagem de dados cujo outcome não seja dependente de nenhuma habilidade do personagem, como por exemplo para determinar se uma loja tem ou não um determinado produto que o personagem procura, ou se um NPC conhece ou não um determinado artefacto ou pessoa.\nComo os outros stats, este é definido por um número de 1 a 20, com um modificador calculado com base nesse número, usado para rodar os dados.",
 		"tags": [ "note","mecânica","alyar"]
@@ -57,7 +57,7 @@
 
 {
 		"title": "Ekhalis",
-		"date":"Fri Jan 09 2026 22:37:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jan 09 2026 22:38:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/A Região de Khilian/Cidades/Ekhalis/",
 		"content": "Overview\n\n[!NOTE|float-right]+ Ekhalis\n\nCapital da Região, a Grã-Cidade de Ekhalis é composta por oito terrenos distintos, chamados Octantes, cada um governado por um Nobre. Todas as decisões sobre a governação da cidade são tomadas na Câmara dos Nobres, na sala mais alta da Torre Central, que marca o centro geodésico da cidade, e o ponto de encontro de todos os oito Octantes. No Ano da Reconstituição, os Grandes Heróis assistiram a um Conselho na Câmara dos Nobres, no qual ocorreu o Assassinato do Nobre do Sul, que levou os Heróis numa campanha que levaria à derrota de <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/Divindades/Superiores/Vaelthor/\">Vodhulkir</a> e, subsequentemente, à Reconstituição. Deve o seu nome ao Rio Khali, ao qual são adjacentes os seus Octantes Norte e Noroeste.\nOs Octantes tendem a impulsionar diferentes tipos de indústrias, pela sua diferença de recursos naturais, sendo o Octante Sudeste, por exemplo, dedicado principalmente à indústria madeireira, enquanto que o Octante Sul se preocupa primariamente com a extração de pedra para construção, o Octante Sudoeste com a extração dos poucos minérios preciosos ali descobertos depois d'<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">A Reconstituição</a> e o Octante Oeste se dedica à construção residencial. Além destes, o Octante Noroeste dedica-se à pesca, os Octantes Norte e Nordeste dedicam-se à agricultura, e o Octante Leste dedica-se à agro-pecuária.",
 		"tags": [ "note","cidade","khilian","alyar"]
@@ -65,7 +65,7 @@
 
 {
 		"title": "Fizora",
-		"date":"Fri Jan 09 2026 22:37:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jan 09 2026 22:38:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/A Região de Khilian/Cidades/Fizora/",
 		"content": "Overview\n\n[!NOTE|float-right]+ Fizora",
 		"tags": [ "note","cidade","khilian","alyar"]
@@ -73,15 +73,15 @@
 
 {
 		"title": "Portis",
-		"date":"Fri Jan 09 2026 22:37:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jan 09 2026 22:38:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/A Região de Khilian/Cidades/Portis/",
-		"content": "Overview\n\n[!NOTE|float-right]+ Portis\n\nPortis é uma cidade-fortaleza construída na foz do Rio Khali, inicialmente apenas como uma fortaleza para albergar uma nobre família e os seus servos. Após a queda de Slewell e Vadis na obscuridade de <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/Divindades/Superiores/Vaelthor/\">Vodhulkir</a>, todo o comércio que ordinariamente se dirigiria para os Rios Thur e Ithur, começou a passar pelo Rio Khali, trasnformando Portis e <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/A Região de Khilian/Cidades/Ekhalis/\">Ekhalis</a> em grandes núcleos de comércio, deixando o Rio Dis à mercê da pirataria e do contrabando.\nTeste",
+		"content": "Overview\n\n[!NOTE|float-right]+ Portis\n\nPortis é uma cidade-fortaleza construída na foz do Rio Khali, inicialmente apenas como uma fortaleza para albergar uma nobre família e os seus servos. Após a queda de Slewell e Vadis na obscuridade de <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/Divindades/Superiores/Vaelthor/\">Vodhulkir</a>, todo o comércio que ordinariamente se dirigiria para os Rios Thur e Ithur, começou a passar pelo Rio Khali, trasnformando Portis e <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/A Região de Khilian/Cidades/Ekhalis/\">Ekhalis</a> em grandes núcleos de comércio, deixando o Rio Dis à mercê da pirataria e do contrabando.",
 		"tags": [ "note","cidade","khilian","alyar"]
 },
 
 {
 		"title": "Aeonir",
-		"date":"Fri Jan 09 2026 22:37:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jan 09 2026 22:38:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/Divindades/Superiores/Aeonir/",
 		"content": "Overview\n\n[!NOTE|float-right]+ Aparência Verdadeira\n\nAeonir\n\nDeus do Tempo, o Último Filho, o Último Neutralizador. Em <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Khilian</a> é o alvo de admiração da corrente religiosa denominada <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Aeonismo</a>.\nHistória\nAparência\nNotas Importantes",
 		"tags": [ "note","divindade","alyar"]
@@ -89,7 +89,7 @@
 
 {
 		"title": "Durnovar",
-		"date":"Fri Jan 09 2026 22:37:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jan 09 2026 22:38:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/Divindades/Superiores/Durnovar/",
 		"content": "Overview\n\n[!NOTE|float-right]+ Aparência Verdadeira\n\nDurnovar\n\nDeus da Terra, da Produção, do Magma, da Mineração, da Experiência e da Velhice. Em <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Khilian</a> é o alvo de admiração da corrente religiosa denominada <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Durnovarismo</a>.\nHistória\nAparência\nNotas Importantes",
 		"tags": [ "note","divindade","alyar"]
@@ -97,7 +97,7 @@
 
 {
 		"title": "Helisara",
-		"date":"Fri Jan 09 2026 22:37:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jan 09 2026 22:38:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/Divindades/Superiores/Helisara/",
 		"content": "Overview\n\n[!NOTE|float-right]+ Aparência Verdadeira\n\nHelisara\n\nDeusa do Sol, da Luz, do Dia e da Ordem. Em <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Khilian</a> é o alvo de admiração da corrente religiosa denominada <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Solismo</a>.\nHistória\nAparência\nNotas Importantes",
 		"tags": [ "note","divindade","alyar"]
@@ -105,7 +105,7 @@
 
 {
 		"title": "Sylara",
-		"date":"Fri Jan 09 2026 22:37:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jan 09 2026 22:38:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/Divindades/Superiores/Sylara/",
 		"content": "Overview\n\n[!NOTE|float-right]+ Aparência Verdadeira\n\nSylara\n\nDeusa da Vida, das Flores, da Natureza, da Puberdade e do Crescimento. Em <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Khilian</a> é o alvo de admiração da corrente religiosa denominada <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Sylarismo</a>.\nHistória\nAparência\nNotas Importantes",
 		"tags": [ "note","divindade","alyar"]
@@ -113,7 +113,7 @@
 
 {
 		"title": "Vaelion",
-		"date":"Fri Jan 09 2026 22:37:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jan 09 2026 22:38:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/Divindades/Superiores/Vaelion/",
 		"content": "Overview\n\n[!NOTE|float-right]+ Aparência Verdadeira\n\nVaelion\n\nVaelion era o Pai dos Deuses, o primeiro de todos. Era o Deus do Equilíbrio e da Neutralidade. Em <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Khilian</a> é o alvo de admiração da corrente religiosa denominada <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Paternalismo</a>.\nHistória\nAparência\nNotas Importantes",
 		"tags": [ "note","divindade","alyar"]
@@ -121,7 +121,7 @@
 
 {
 		"title": "Vaelthor",
-		"date":"Fri Jan 09 2026 22:37:01 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jan 09 2026 22:38:58 GMT+0000 (Coordinated Universal Time)",
 		"url":"/Divindades/Superiores/Vaelthor/",
 		"content": "Overview\n\n[!NOTE|float-right]+ Aparência Verdadeira\n\nVaelthor\n\nVaelthor é o Deus da Escuridão e do Caos, por oposição à sua irmã, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/Divindades/Superiores/Helisara/\">Helisara</a>. Mas também por oposição a <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/Divindades/Superiores/Helisara/\">Helisara</a>, que é Deusa da Ordem, Vaelthor é também visto por muitos como o Deus da Verdadeira Liberdade.\nHistória\nAparência\nNotas Importantes",
 		"tags": [ "note","divindade","alyar"]

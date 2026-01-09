@@ -11,4 +11,6 @@
 
 Portis é uma cidade-fortaleza construída na foz do Rio Khali, inicialmente apenas como uma fortaleza para albergar uma nobre família e os seus servos. Após a queda de Slewell e Vadis na obscuridade de [[02 - Areas/RPG/O Universo de Alyar/Divindades/Superiores/Vaelthor\|Vodhulkir]], todo o comércio que ordinariamente se dirigiria para os Rios Thur e Ithur, começou a passar pelo Rio Khali, transformando Portis e [[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]] em grandes núcleos de comércio, deixando o Rio Dis à mercê da pirataria e do contrabando.
 
-
+:::hidden
+Portis foi construída sobre uma pequena ilha, que é na verdade um gigante Colosso adormecido
+:::

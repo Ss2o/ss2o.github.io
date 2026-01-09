@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Criação de Spells.md","permalink":"/00 - Sistema/Criação de Spells/","tags":["mecânica","alyar"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-09T23:50:57.591+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Criação de Spells.md","permalink":"/00 - Sistema/Criação de Spells/","tags":["mecânica","alyar"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-09T23:52:23.118+00:00"}
 ---
 
 ## Overall
@@ -8,9 +8,7 @@
 **Custo:** 🟠 (ou mais) + Spell Slot equivalente ao nível do feitiço (decidido pelo DM)
 ## Descrição:
 
-Uma vez por cada turno, alguns dos players <span style="color:rgb(0, 176, 240)">
-(é preciso melhorar depois para depender da classe, talvez)
-</span> podem gastar 🟠 para criar um feitiço. O player deve utilizar no máximo 3 palavras para definir o título do feitiço, além de rodar 1d20+X (sendo X = 2 x 🟠 extra) para ver o quão bem sucedida é a criação do feitiço. Os efeitos deste feitiço serão definidos pelo DM com base no valor do dado. Com base nos efeitos o DM decide também o nível do feitiço.
+Uma vez por cada turno, alguns dos players <span style="color:rgb(0, 176, 240)">(é preciso melhorar depois para depender da classe, talvez)</span> podem gastar 🟠 para criar um feitiço. O player deve utilizar no máximo 3 palavras para definir o título do feitiço, além de rodar 1d20+X (sendo X = 2 x 🟠 extra) para ver o quão bem sucedida é a criação do feitiço. Os efeitos deste feitiço serão definidos pelo DM com base no valor do dado. Com base nos efeitos o DM decide também o nível do feitiço.
 
 É possível ainda usar o dobro da quantidade de Spell Slots para tornar o feitiço permanentemente executável.
 

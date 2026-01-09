@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Sistema/Ações, Reações e Ações Livres.md","permalink":"/Sistema/Ações, Reações e Ações Livres/","tags":["mecânica","khilian"],"created":"2026-01-09T05:01:50.498+00:00","updated":"2026-01-09T04:46:40.163+00:00"}
+{"dg-publish":true,"dg-path":"01 - Sistema/Ações, Reações e Ações Livres.md","permalink":"/01 - Sistema/Ações, Reações e Ações Livres/","tags":["mecânica","khilian"],"created":"2026-01-09T05:01:50.498+00:00","updated":"2026-01-09T04:46:40.163+00:00"}
 ---
 
 ## Overall

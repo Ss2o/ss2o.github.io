@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Sistema/Critical Hits.md","permalink":"/Sistema/Critical Hits/","tags":["mecânica","khilian"],"created":"2026-01-09T05:01:51.538+00:00","updated":"2026-01-09T04:46:43.453+00:00"}
+{"dg-publish":true,"dg-path":"01 - Sistema/Critical Hits.md","permalink":"/01 - Sistema/Critical Hits/","tags":["mecânica","khilian"],"created":"2026-01-09T05:01:51.538+00:00","updated":"2026-01-09T04:46:43.453+00:00"}
 ---
 
 ## Overall

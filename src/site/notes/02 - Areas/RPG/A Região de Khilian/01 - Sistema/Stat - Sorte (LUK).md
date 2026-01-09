@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"01 - Sistema/Stat - Sorte (LUK).md","permalink":"/01 - Sistema/Stat - Sorte (LUK)/","tags":["mecânica","khilian"],"created":"2026-01-09T05:01:52.050+00:00","updated":"2026-01-09T04:46:47.050+00:00"}
+{"dg-publish":true,"dg-path":"Sistema/Stat - Sorte (LUK).md","permalink":"/Sistema/Stat - Sorte (LUK)/","tags":["mecânica","khilian"],"created":"2026-01-09T01:00:44.594+00:00","updated":"2026-01-09T04:46:47.051+00:00"}
 ---
 
 ## Overall

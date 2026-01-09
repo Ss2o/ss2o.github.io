@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","pinned":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-09T17:58:17.699+00:00"}
+{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","pinned":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-09T18:11:49.016+00:00"}
 ---
 
 # Homepage
@@ -43,4 +43,4 @@ Bem vindos à minha Dungeon, um lugar onde terão acesso direto a uma parte do m
 
 { .block-language-dataview}
 
-Finalmente, para os mais curiosos
+(Já agora, para os curiosos, usei isto para fazer o site: https://github.com/foxblock/digitalgarden_gh-pages)

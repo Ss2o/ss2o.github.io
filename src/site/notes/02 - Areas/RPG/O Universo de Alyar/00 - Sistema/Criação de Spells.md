@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Criação de Spells/","tags":["mecânica","alyar"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-09T17:17:21.120+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Criação de Spells.md","permalink":"/00 - Sistema/Criação de Spells/","tags":["mecânica","alyar"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-09T17:17:21.120+00:00"}
 ---
 
 ## Overall

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Forçar Dados/","tags":["mecânica","alyar"],"created":"2026-01-06T20:34:07.617+00:00","updated":"2026-01-09T17:17:32.932+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Forçar Dados.md","permalink":"/00 - Sistema/Forçar Dados/","tags":["mecânica","alyar"],"created":"2026-01-06T20:34:07.617+00:00","updated":"2026-01-09T17:17:32.932+00:00"}
 ---
 
 ## Overall

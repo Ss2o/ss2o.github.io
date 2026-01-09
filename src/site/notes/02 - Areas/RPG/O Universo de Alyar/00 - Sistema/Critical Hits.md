@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Critical Hits/","tags":["mecânica","alyar"],"created":"2026-01-09T00:54:23.592+00:00","updated":"2026-01-09T17:17:27.976+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Critical Hits.md","permalink":"/00 - Sistema/Critical Hits/","tags":["mecânica","alyar"],"created":"2026-01-09T00:54:23.592+00:00","updated":"2026-01-09T17:17:27.976+00:00"}
 ---
 
 ## Overall

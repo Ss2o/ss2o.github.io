@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Stat - Sorte (LUK)/","tags":["mecânica","alyar"],"created":"2026-01-09T01:00:44.594+00:00","updated":"2026-01-09T17:17:37.813+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Stat - Sorte (LUK).md","permalink":"/00 - Sistema/Stat - Sorte (LUK)/","tags":["mecânica","alyar"],"created":"2026-01-09T01:00:44.594+00:00","updated":"2026-01-09T17:17:37.813+00:00"}
 ---
 
 ## Overall

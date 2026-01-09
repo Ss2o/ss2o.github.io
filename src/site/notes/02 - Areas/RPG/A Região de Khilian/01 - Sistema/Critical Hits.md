@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Sistema/Critical Hits.md","permalink":"/Sistema/Critical Hits/","tags":["mecânica","khilian"],"created":"2026-01-09T00:54:23.592+00:00","updated":"2026-01-09T04:46:43.454+00:00"}
+{"dg-publish":true,"dg-path":"01 - A Região de Khilian /01 - Sistema/Critical Hits.md","permalink":"/01 - A Região de Khilian /01 - Sistema/Critical Hits/","tags":["mecânica","khilian"],"created":"2026-01-09T00:54:23.592+00:00","updated":"2026-01-09T04:46:43.454+00:00"}
 ---
 
 ## Overall

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Sistema/Criação de Spells.md","permalink":"/Sistema/Criação de Spells/","tags":["mecânica","khilian"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-09T04:46:41.964+00:00"}
+{"dg-publish":true,"dg-path":"01 - A Região de Khilian /01 - Sistema/Criação de Spells.md","permalink":"/01 - A Região de Khilian /01 - Sistema/Criação de Spells/","tags":["mecânica","khilian"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-09T04:46:41.964+00:00"}
 ---
 
 ## Overall

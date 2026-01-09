@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","pinned":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-09T17:38:26.582+00:00"}
+{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","pinned":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-09T17:58:17.699+00:00"}
 ---
 
 # Homepage
@@ -42,3 +42,5 @@ Bem vindos à minha Dungeon, um lugar onde terão acesso direto a uma parte do m
 | [[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Cidades/Portis\|Portis]]   | [[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khishuri\|Khishuri]] | [[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Correntes religiosas/Aeonismo\|Aeonismo]]                                                                | <ul><li>[[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Culturas/Ekhaliana.md\\|Ekhaliana]]</li><li>[[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Culturas/Khishuriana.md\\|Khishuriana]]</li></ul> | Foz do Rio          | <ul><li>Humana</li><li>Animais Antropomorfos</li></ul>                              |
 
 { .block-language-dataview}
+
+Finalmente, para os mais curiosos

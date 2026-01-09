@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","pinned":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-09T18:20:05.937+00:00"}
+{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","pinned":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-09T18:27:26.281+00:00"}
 ---
 
 # Homepage
@@ -8,17 +8,6 @@ Bem vindos ao Universo de Aylar, um lugar onde terão acesso direto a uma parte 
 
 Campanhas Passadas: **O Ataque à Câmara dos Nobres**
 Campanhas Ativas: **Trieto Caótico**
-
-## Sistema: 
-| File                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------- |
-| [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Ações, Reações e Ações Livres\|Ações, Reações e Ações Livres]] |
-| [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Criação de Spells\|Criação de Spells]]                         |
-| [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Critical Hits\|Critical Hits]]                                 |
-| [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Forçar Dados\|Forçar Dados]]                                   |
-| [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Stat - Sorte (LUK)\|Stat - Sorte (LUK)]]                       |
-
-{ .block-language-dataview}
 
 ## O Universo de Alyar:
 
@@ -43,6 +32,24 @@ Campanhas Ativas: **Trieto Caótico**
 | [[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]] | Ekhalis                                                                                                            | <ul><li>[[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Correntes religiosas/Generalismo Pós Reconstituição.md\\|Generalismo Pós Reconstituição]]</li></ul> | [[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Culturas/Ekhaliana\|Ekhaliana]]                                                                                                                             | Beira Rio           | <ul><li>Antropomórfica (Pós Reconstituição)</li><li>Humana</li><li>Élfica</li></ul> |
 | [[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Cidades/Fizora\|Fizora]]   | [[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khishuri\|Khishuri]] | [[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Correntes religiosas/Aeonismo\|Aeonismo]]                                                                | [[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Culturas/Khishuriana\|Khishuriana]]                                                                                                                         | Floresta            | Animais Antropomorfos                                                               |
 | [[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Cidades/Portis\|Portis]]   | [[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khishuri\|Khishuri]] | [[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Correntes religiosas/Aeonismo\|Aeonismo]]                                                                | <ul><li>[[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Culturas/Ekhaliana.md\\|Ekhaliana]]</li><li>[[02 - Areas/RPG/O Universo de Alyar/A Região de Khilian/Culturas/Khishuriana.md\\|Khishuriana]]</li></ul> | Foz do Rio          | <ul><li>Humana</li><li>Animais Antropomorfos</li></ul>                              |
+
+{ .block-language-dataview}
+
+## Sistema: 
+| File                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------- |
+| [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Ações, Reações e Ações Livres\|Ações, Reações e Ações Livres]] |
+| [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Criação de Spells\|Criação de Spells]]                         |
+| [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Critical Hits\|Critical Hits]]                                 |
+| [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Forçar Dados\|Forçar Dados]]                                   |
+| [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Stat - Sorte (LUK)\|Stat - Sorte (LUK)]]                       |
+
+{ .block-language-dataview}
+
+### Changelogs:
+| File                                                                                                 | Versão | Última Modificação |
+| ---------------------------------------------------------------------------------------------------- | ------ | ------------------ |
+| [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Changelogs/Changelog v0.2.0\|Changelog v0.2.0]] | v0.2.0 | 09/01/2026 18:27   |
 
 { .block-language-dataview}
 

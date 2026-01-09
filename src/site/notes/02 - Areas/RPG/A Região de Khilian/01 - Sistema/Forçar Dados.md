@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"01 - Sistema/Forçar Dados.md","permalink":"/01 - Sistema/Forçar Dados/","tags":["mecânica","khilian"],"created":"2026-01-06T20:34:07.617+00:00","updated":"2026-01-09T04:46:45.081+00:00"}
+{"dg-publish":true,"dg-path":"Sistema/Forçar Dados.md","permalink":"/Sistema/Forçar Dados/","tags":["mecânica","khilian"],"created":"2026-01-09T05:01:51.714+00:00","updated":"2026-01-09T04:46:45.081+00:00"}
 ---
 
 ## Overall

@@ -1,1 +1,17 @@
-[]
+[
+{
+		"title": "RPG - A Região de Khilian",
+		"date":"Fri Jan 09 2026 04:42:28 GMT+0000 (Coordinated Universal Time)",
+		"url":"/notes/00 - Maps of Content/RPG - A Região de Khilian/",
+		"content": "![[Mapa de Khilian.png]]\nCidades:\nTABLE region AS &quot;Região&quot;, cover, religion AS &quot;Religião&quot;, culture AS &quot;Cultura&quot;, geography AS &quot;Situação Geográfica&quot;, main-ethnicity AS &quot;Etnia Principal&quot; FROM #khilian and #cidade\nSORT file.link ASC\n\n//Settings\npreset: square\ncolumns: 4\nfontSize: small\nimageProperty: cover\nscrollableProperties: true\ncontentHeight: 250px\nmobilePreset: square\n\nPersonagens:\nTABLE cover, status, race AS &quot;Raça&quot;, class AS &quot;Classe&quot;, birthplace AS &quot;Local de Nascimento&quot;, religion AS &quot;Religião&quot;, campanha, player FROM #khilian and #player-character\nSORT file.link ASC\n\n//Settings\npreset: square\ncolumns: 5\nfontSize: small\nimageProperty: cover\nscrollableProperties: true\ncontentHeight: 250px\nmobilePreset: square\n\nNPCs:\nTABLE cover, status, race AS &quot;Raça&quot;, class AS &quot;Classe&quot;, birthplace AS &quot;Local de Nascimento&quot;, religion AS &quot;Religião&quot; FROM #khilian and #NPC\nSORT file.link ASC\n\n//Settings\npreset: square\ncolumns: 5\nfontSize: small\nimageProperty: cover\nscrollableProperties: true\ncontentHeight: 250px\nmobilePreset: square\n\nDivindades:\nTABLE cover, titles AS &quot;Títulos&quot; FROM #khilian and #divindade\nSORT file.link ASC\n\n//Settings\npreset: square\ncolumns: 4\nfontSize: small\nimageProperty: cover\nimageFit: contain\nscrollableProperties: true\ncontentHeight: 250px\nmobilePreset: square\n\nCorrentes Religiosas:\nTABLE divindade-principal AS &quot;Divindade(s) Principa(is)&quot; FROM #khilian and #religião\nSORT file.link ASC\n\nEspécies\nTABLE cover, culture AS &quot;Cultura&quot;, religion AS &quot;Religião&quot; FROM #khilian and #species\nSORT file.link ASC\n\n//Settings\npreset: square\ncolumns: 4\nfontSize: small\nimageProperty: cover\nimageFit: contain\nscrollableProperties: true\ncontentHeight: 250px\nmobilePreset: square\n\nDocumentos Históricos:\nTABLE author AS &quot;Autor&quot;, publishing-date AS &quot;Data de Publicação&quot; FROM #khilian and #doc-histórico\nSORT publishing-date ASC\n\nMarcos Geográficos:\nTABLE cover, tipo, cidades FROM #khilian and #marco-geográfico\nSORT file.link ASC\n\n//Settings\npreset: square\ncolumns: 4\nfontSize: small\nimageProperty: cover\nscrollableProperties: true\ncontentHeight: 250px\nmobilePreset: square",
+		"tags": ["khilian", "cidade", "khilian", "player-character", "khilian", "NPC", "khilian", "divindade", "khilian", "religião", "khilian", "species", "khilian", "doc-histórico", "khilian", "marco-geográfico", "note"]
+},
+
+{
+		"title": "RPG Repo Home Page",
+		"date":"Fri Jan 09 2026 04:42:28 GMT+0000 (Coordinated Universal Time)",
+		"url":"/notes/00 - Maps of Content/RPG Repo Home Page/",
+		"content": "Homepage do garden hahaahaha",
+		"tags": [ "note"]
+}
+]

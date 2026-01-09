@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","pinned":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-09T18:27:26.281+00:00"}
+{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","title":"O Universo de Aylar","pinned":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-09T22:25:10.915+00:00"}
 ---
 
-# Homepage
+# O Universo de Aylar
 
 Bem vindos ao Universo de Aylar, um lugar onde terão acesso direto a uma parte do meu Vault do Obsidian, organizado num formato de Wiki, para fácil acesso a informações sobre o Sistema e o Universo dos TTRPGs que (ocasionalmente) jogamos.
 
@@ -19,6 +19,7 @@ Campanhas Ativas: **Trieto Caótico**
 | [[02 - Areas/RPG/O Universo de Alyar/Divindades/Superiores/Helisara\|Helisara]] | <ul><li>Deusa do Sol</li><li>Deusa da Luz</li><li>Deusa do Dia</li><li>Deusa da Ordem</li></ul>                                                              |
 | [[02 - Areas/RPG/O Universo de Alyar/Divindades/Superiores/Sylara\|Sylara]]     | <ul><li>Deusa da Vida</li><li>Deusa das Flores</li><li>Deusa da Natureza</li><li>Deusa da Puberdade</li><li>Deusa do Crescimento</li></ul>                   |
 | [[02 - Areas/RPG/O Universo de Alyar/Divindades/Superiores/Vaelion\|Vaelion]]   | <ul><li>Pai dos Deuses</li><li>Deus do Equilíbrio</li><li>Deus da Neutralidade</li></ul>                                                                     |
+| [[02 - Areas/RPG/O Universo de Alyar/Divindades/Superiores/Vaelthor\|Vaelthor]] | <ul><li>Deus da Lua</li><li>Deus da Noite</li><li>Deus da Escuridão</li><li>Deus do Caos</li><li>Deus da Liberdade</li></ul>                                 |
 
 { .block-language-dataview}
 
@@ -36,13 +37,11 @@ Campanhas Ativas: **Trieto Caótico**
 { .block-language-dataview}
 
 ## Sistema: 
-| File                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------- |
-| [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Ações, Reações e Ações Livres\|Ações, Reações e Ações Livres]] |
-| [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Criação de Spells\|Criação de Spells]]                         |
-| [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Critical Hits\|Critical Hits]]                                 |
-| [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Forçar Dados\|Forçar Dados]]                                   |
-| [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Stat - Sorte (LUK)\|Stat - Sorte (LUK)]]                       |
+- [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Ações, Reações e Ações Livres\|Ações, Reações e Ações Livres]]
+- [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Criação de Spells\|Criação de Spells]]
+- [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Critical Hits\|Critical Hits]]
+- [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Forçar Dados\|Forçar Dados]]
+- [[02 - Areas/RPG/O Universo de Alyar/00 - Sistema/Stat - Sorte (LUK)\|Stat - Sorte (LUK)]]
 
 { .block-language-dataview}
 
@@ -53,4 +52,6 @@ Campanhas Ativas: **Trieto Caótico**
 
 { .block-language-dataview}
 
-(Já agora, para os curiosos, usei isto para fazer o site: https://github.com/foxblock/digitalgarden_gh-pages)
+
+
+(Já agora, para os curiosos, para fazer o site, usei este recurso: https://github.com/foxblock/digitalgarden_gh-pages)

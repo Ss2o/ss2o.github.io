@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis/","tags":["cidade","khilian","aylar"],"created":"2025-02-08T13:30:49.467+00:00","updated":"2026-01-10T02:51:19.460+00:00"}
+{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis/","tags":["cidade","khilian","aylar"],"created":"2025-02-08T13:30:49.467+00:00","updated":"2026-01-10T13:48:36.253+00:00"}
 ---
 
 ## Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/Changelog v0.2.0/","tags":["#changelog","aylar"],"created":"2026-01-09T18:22:54.916+00:00","updated":"2026-01-10T03:42:22.772+00:00"}
+{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/Changelog v0.2.0/","tags":["#changelog","aylar"],"created":"2026-01-09T18:22:54.916+00:00","updated":"2026-01-10T03:43:48.610+00:00"}
 ---
 
 ## Stats:

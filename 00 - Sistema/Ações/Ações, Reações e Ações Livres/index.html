@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>O Universo de Aylar</title>
+<title>Ações, Reações e Ações Livres</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -95,7 +95,7 @@ CTRL + K
 <span class="foldername">Ações</span>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/00 - Sistema/Ações/Ações, Reações e Ações Livres/">Ações, Reações e Ações Livres </a>
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/00 - Sistema/Ações/Ações, Reações e Ações Livres/">Ações, Reações e Ações Livres </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -396,146 +396,54 @@ CTRL + K
 <script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2026-01-10T03:51:16.824Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2026-01-10T03:51:16.824Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2026-01-10T03:51:16.824Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
-<h1></h1>
+<h1 data-note-icon="">Ações, Reações e Ações Livres</h1>
 <div class="header-meta">
-</div>
+<div class="timestamps"><div><i icon-name="calendar-plus"></i> <span class="human-date" data-date="2026-01-09T01:12:26.157+00:00"></span></div><div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="2026-01-10T01:47:34.615+00:00"></span></div></div></div>
 </header>
-<h1 id="o-universo-de-aylar" tabindex="-1">O Universo de Aylar</h1>
-<p>Bem vindos ao Universo de Aylar, um lugar onde terão acesso direto a uma parte do meu Vault do Obsidian, organizado num formato de Wiki, para fácil acesso a informações sobre o Sistema e o Universo dos TTRPGs que (ocasionalmente) jogamos.</p>
-<p>Campanhas Passadas: <strong>O Ataque à Câmara dos Nobres</strong><br>
-Campanhas Ativas: <strong>Trieto Caótico</strong></p>
-<h2 id="o-universo-de-aylar-1" tabindex="-1">O Universo de Aylar:</h2>
-<h3 id="divindades" tabindex="-1">Divindades:</h3>
-<div class="block-language-dataview table-wrapper"><table class="dataview table-view-table">
-<thead class="table-view-thead">
-<tr class="table-view-tr-header">
-<th class="table-view-th">Forma Verdadeira</th>
-<th class="table-view-th">Divindade</th>
-<th class="table-view-th">Títulos</th>
-<th class="table-view-th">Correntes Associadas</th>
-</tr>
-</thead>
-<tbody class="table-view-tbody">
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">75</a></td>
-<td><a class="internal-link" target="" data-note-icon="" href="/Divindades/Superiores/Aeonir/">Aeonir</a></td>
-<td><ul><li>Deus do Tempo</li><li>O Último Filho</li><li>O Grande Neutralizador</li><li>O Único e Verdadeiro Deus</li></ul></td>
-<td><ul><li><a class="internal-link" target="" data-note-icon="" href="/A Região de Khilian/Correntes religiosas/Aeonismo/">Aeonismo</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Generalismo Clássico</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Generalismo Pós Reconstituição</a></li></ul></td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">75</a></td>
-<td><a class="internal-link" target="" data-note-icon="" href="/Divindades/Superiores/Durnovar/">Durnovar</a></td>
-<td><ul><li>Deus da Terra</li><li>Deus da Produção</li><li>Deus do Magma</li><li>Deus da Mineração</li><li>Deus da Experiência</li><li>Deus da Velhice</li></ul></td>
-<td><ul><li><a class="internal-link" target="" data-note-icon="" href="/A Região de Khilian/Correntes religiosas/Durnovarismo/">Durnovarismo</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Generalismo Clássico</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Generalismo Pós Reconstituição</a></li></ul></td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">75</a></td>
-<td><a class="internal-link" target="" data-note-icon="" href="/Divindades/Superiores/Helisara/">Helisara</a></td>
-<td><ul><li>Deusa do Sol</li><li>Deusa da Luz</li><li>Deusa do Dia</li><li>Deusa da Ordem</li></ul></td>
-<td><ul><li><a class="internal-link" target="" data-note-icon="" href="/A Região de Khilian/Correntes religiosas/Solismo/">Solismo</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Generalismo Clássico</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Generalismo Pós Reconstituição</a></li></ul></td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">75</a></td>
-<td><a class="internal-link" target="" data-note-icon="" href="/Divindades/Superiores/Sylara/">Sylara</a></td>
-<td><ul><li>Deusa da Vida</li><li>Deusa das Flores</li><li>Deusa da Natureza</li><li>Deusa da Puberdade</li><li>Deusa do Crescimento</li></ul></td>
-<td><ul><li><a class="internal-link" target="" data-note-icon="" href="/A Região de Khilian/Correntes religiosas/Sylarismo/">Sylarismo</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Generalismo Clássico</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Generalismo Pós Reconstituição</a></li></ul></td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">75</a></td>
-<td><a class="internal-link" target="" data-note-icon="" href="/Divindades/Superiores/Vaelion/">Vaelion</a></td>
-<td><ul><li>Pai dos Deuses</li><li>Deus do Equilíbrio</li><li>Deus da Neutralidade</li></ul></td>
-<td><ul><li><a class="internal-link" target="" data-note-icon="" href="/A Região de Khilian/Correntes religiosas/Paternalismo/">Paternalismo</a></li></ul></td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">75</a></td>
-<td><a class="internal-link" target="" data-note-icon="" href="/Divindades/Superiores/Vaelthor/">Vaelthor</a></td>
-<td><ul><li>Deus da Lua</li><li>Deus da Noite</li><li>Deus da Escuridão</li><li>Deus do Caos</li><li>Deus da Liberdade</li></ul></td>
-<td><ul><li><a class="internal-link" target="" data-note-icon="" href="/A Região de Khilian/Correntes religiosas/Libercaoticismo/">Libercaoticismo</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Generalismo Clássico</a></li></ul></td>
-</tr>
-</tbody>
-</table></div>
-<h3 id="a-regiao-de-khilian" tabindex="-1">A Região de Khilian:</h3>
-<p><picture src="/img/user/02%20-%20Areas/RPG/O%20Universo%20de%20Aylar/A%20Regi%C3%A3o%20de%20Khilian/Mapas/Mapa%20de%20Khilian.png" alt="Mapa de Khilian.png"><source media="(max-width:480px)" srcset="/img/optimized/Km6PBbdxHx-500.webp" type="image/webp">
-<source media="(max-width:480px)" srcset="/img/optimized/Km6PBbdxHx-500.jpeg">
-<source media="(max-width:1920px)" srcset="/img/optimized/Km6PBbdxHx-700.webp" type="image/webp"><source media="(max-width:1920px)" srcset="/img/optimized/Km6PBbdxHx-700.jpeg"><img class="" src="/img/user/02%20-%20Areas/RPG/O%20Universo%20de%20Aylar/A%20Regi%C3%A3o%20de%20Khilian/Mapas/Mapa%20de%20Khilian.png" alt="Mapa de Khilian.png" width=""></picture></p>
-<h4 id="cidades" tabindex="-1">Cidades</h4>
-<div class="block-language-dataview table-wrapper"><table class="dataview table-view-table">
-<thead class="table-view-thead">
-<tr class="table-view-tr-header">
-<th class="table-view-th">Backdrop</th>
-<th class="table-view-th">Cidade</th>
-<th class="table-view-th">Região</th>
-<th class="table-view-th">Religião</th>
-<th class="table-view-th">Cultura</th>
-<th class="table-view-th">Situação Geográfica</th>
-<th class="table-view-th">Etnias Principais</th>
-</tr>
-</thead>
-<tbody class="table-view-tbody">
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">100</a></td>
-<td><a class="internal-link" target="" data-note-icon="" href="/A Região de Khilian/Cidades/Ekhalis/">Ekhalis</a></td>
-<td>Ekhalis</td>
-<td><ul><li><a class="internal-link is-unresolved" href="/404" target="">Generalismo Pós Reconstituição</a></li></ul></td>
-<td><a class="internal-link" target="" data-note-icon="" href="/A Região de Khilian/Culturas/Cultura Ekhaliana/">Cultura Ekhaliana</a></td>
-<td>Beira Rio</td>
-<td><ul><li>Antropomórfica (Pós Reconstituição)</li><li>Humana</li><li>Élfica</li></ul></td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">100</a></td>
-<td><a class="internal-link" target="" data-note-icon="" href="/A Região de Khilian/Cidades/Fizora/">Fizora</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Khishuri</a></td>
-<td><a class="internal-link" target="" data-note-icon="" href="/A Região de Khilian/Correntes religiosas/Aeonismo/">Aeonismo</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Cultura Khishuriana</a></td>
-<td>Floresta</td>
-<td>Animais Antropomorfos</td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">100</a></td>
-<td><a class="internal-link" target="" data-note-icon="" href="/A Região de Khilian/Cidades/Portis/">Portis</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Khishuri</a></td>
-<td><a class="internal-link" target="" data-note-icon="" href="/A Região de Khilian/Correntes religiosas/Aeonismo/">Aeonismo</a></td>
-<td><ul><li><a class="internal-link is-unresolved" href="/404" target="">Cultura Ekhaliana</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Cultura Khishuriana</a></li></ul></td>
-<td>Foz do Rio</td>
-<td><ul><li>Humana</li><li>Animais Antropomorfos</li></ul></td>
-</tr>
-<tr>
-<td>!<a class="internal-link is-unresolved" href="/404" target="">100</a></td>
-<td><a class="internal-link" target="" data-note-icon="" href="/A Região de Khilian/Cidades/Slewell/">Slewell</a></td>
-<td><a class="internal-link is-unresolved" href="/404" target="">Nosferatu</a></td>
-<td><ul><li><a class="internal-link" target="" data-note-icon="" href="/A Região de Khilian/Correntes religiosas/Libercaoticismo/">Libercaoticismo</a></li><li><a class="internal-link is-unresolved" href="/404" target="">Generalismo Clássico</a></li></ul></td>
-<td><ul><li><a class="internal-link is-unresolved" href="/404" target="">Cultura Nosferatum</a></li></ul></td>
-<td>Beira Rio</td>
-<td><ul><li>Humana</li></ul></td>
-</tr>
-</tbody>
-</table></div>
-<h2 id="sistema" tabindex="-1">Sistema:</h2>
-<ul class="block-language-dataview">
-<li><a class="internal-link" target="" data-note-icon="" href="/00 - Sistema/Ações/Ações, Reações e Ações Livres/">Ações, Reações e Ações Livres</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/00 - Sistema/Ações/Criação de Spells/">Criação de Spells</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/00 - Sistema/Ações/Critical Hits/">Critical Hits</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/00 - Sistema/Ações/Forçar Dados/">Forçar Dados</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/00 - Sistema/Stats/Sorte (LUK)/">Sorte (LUK)</a></li>
-</ul>
-<h3 id="changelogs" tabindex="-1">Changelogs:</h3>
-<div class="block-language-dataview table-wrapper"><table class="dataview table-view-table">
-<thead class="table-view-thead">
-<tr class="table-view-tr-header">
-<th class="table-view-th">Changelog</th>
-<th class="table-view-th">Versão</th>
-<th class="table-view-th">Data de Publicação</th>
-</tr>
-</thead>
-<tbody class="table-view-tbody">
-<tr>
-<td><a class="internal-link" target="" data-note-icon="" href="/00 - Sistema/00 - Changelogs/Changelog v0.2.0/">Changelog v0.2.0</a></td>
-<td>v0.2.0</td>
-<td>09/01/2026 18:22</td>
-</tr>
-</tbody>
-</table></div>
-<p>(Já agora, para os curiosos, para fazer o site, usei este recurso: <a href="https://github.com/foxblock/digitalgarden_gh-pages" target="_blank" class="external-link">https://github.com/foxblock/digitalgarden_gh-pages</a>)</p>
+<h2 id="overview" tabindex="-1">Overview</h2>
+<p><strong>Tipo:</strong> Mecânica<br>
+<strong>Custo:</strong> 🟠 ou 🟪</p>
+<h2 id="descricao" tabindex="-1">Descrição:</h2>
+<p><span style="color:#e65a19">Ações</span> e <span style="color:#a37ec4">Reações</span> realizadas durante um combate (ou outro momento à base de turnos) são baseadas em <span style="color:#e65a19">Action Points</span> 🟠 e <span style="color:#a37ec4">Reaction Points</span> 🟪. Cada personagem possui uma certa quantidade de 🟠 e 🟪, restaurados automaticamente no início do seu turno. 🟠 servem única e exclusivamente para realizar ações durante o turno de um personagem, enquanto que 🟪 servem apenas para realizar ações fora do mesmo.</p>
+<p>A tabela de <span style="color:#e65a19">Action Points</span> e <span style="color:#a37ec4">Reaction Points</span> ganhos por nível e por classe está disponível em: <a href="https://docs.google.com/spreadsheets/d/135td4z67mIF97yf017IjGqWDp2RunHq9Ak-WN8X0kVI/edit?usp=sharing" target="_blank" class="external-link">https://docs.google.com/spreadsheets/d/135td4z67mIF97yf017IjGqWDp2RunHq9Ak-WN8X0kVI/edit?usp=sharing</a></p>
+<p>Existem ainda <span style="color:#92d050">Ações Livres</span>, ações específicas sem custo, que podem ser executadas a qualquer altura, inclusive durante o combate, desde que se reúnam as condições descritas no texto das mesmas (ex: <a class="internal-link" target="" data-note-icon="" href="/00 - Sistema/Ações/Forçar Dados/">Forçar Dados</a> é uma <span style="color:#92d050">Ação Livre</span>, mas só pode ser usada quando um dado for rodado).</p>
+<p><span style="color:#e65a19">Ações</span> específicas de cada personagem, como spells ou ataques, têm o seu custo visível à frente do nome da <span style="color:#e65a19">Ação</span> (ex: &quot;Cloud of Daggers 🟠🟠&quot; é um spell com um custo de <span style="color:#e65a19">2</span> <span style="color:#e65a19">Action Points</span>). Note-se que 🟠 e 🟪 não substituem os outros custos potencialmente associados a uma <span style="color:#e65a19">Ação</span> (Spell Slots, componentes, etc...). As restantes <span style="color:#e65a19">Ações</span> e <span style="color:#a37ec4">Reações</span> genéricas, que todos os personagens podem realizar, ficam aqui sumarizadas:</p>
+<h2 id="span-style-color-rgb-230-90-25-acoes-span" tabindex="-1"><span style="color:#e65a19">Ações:</span></h2>
+<h3 id="ataques-desarmados" tabindex="-1">Ataques desarmados:</h3>
+<p><strong>Custo:</strong> 🟠<br>
+<strong>Acerto:</strong> Garantido<br>
+<strong>Dano:</strong> 1d4 + STR</p>
+<h3 id="movimento" tabindex="-1">Movimento:</h3>
+<p><strong>Custo:</strong> 🟠 por cada 30ft</p>
+<h3 id="pulo" tabindex="-1">Pulo:</h3>
+<p><strong>Custo:</strong> 🟠 (adicionado ao movimento)</p>
+<h3 id="fugir" tabindex="-1">Fugir:</h3>
+<p><strong>Custo:</strong> 🟠<br>
+<strong>Efeito:</strong> Permite que o personagem se afaste da área imediata de um inimigo sem ativar um Oportunity Attack</p>
+<h3 id="equipar-itens" tabindex="-1">Equipar itens:</h3>
+<p><strong>Custo:</strong> 🟠</p>
+<h3 id="usar-consumiveis" tabindex="-1">Usar Consumíveis:</h3>
+<p><strong>Custo:</strong> 🟠</p>
+<h3 id="executar-span-style-color-rgb-230-90-25-acoes-span-fora-do-turno" tabindex="-1">Executar <span style="color:#e65a19">Ações</span> fora do turno:</h3>
+<p>É possível que um personagem execute uma <span style="color:#e65a19">Ação</span> fora do seu turno, gastando 🟪🟪🟪 por cada 🟠 da <span style="color:#e65a19">Ação</span> que quer realizar. No entanto, isto apenas pode ser feito no fim de um turno, ou então durante o turno de outro player, se esse player permitir. (ex: Um player usa o feitiço &quot;Cloud of Daggers 🟠🟠&quot; durante o turno de outro membro da party, gastando <span style="color:#a37ec4">6</span>🟪)</p>
+<h2 id="span-style-color-rgb-163-126-196-reacoes-span-span-style-color-rgb-163-126-196-span" tabindex="-1"><span style="color:#a37ec4">Reações</span><span style="color:#a37ec4">:</span></h2>
+<h3 id="esquiva" tabindex="-1">Esquiva:</h3>
+<p><strong>Custo:</strong> 🟪🟪<br>
+<strong>Acerto:</strong> 1d20+DEX contra a rolagem de ataque do inimigo<br>
+<strong>Efeito:</strong> Caso acerte não leva dano, caso falhe leva metade do dano<br>
+<strong>Efeito Secundário:</strong> Caso acerte, é possível fazer um ataque de acerto garantido, que conta como uma ação fora de turno</p>
+<h3 id="block" tabindex="-1">Block:</h3>
+<p><strong>Custo:</strong> 🟪<br>
+<strong>Acerto:</strong> Garantido<br>
+<strong>Efeito:</strong> 3d4+STR de defesa contra o dano</p>
+<h3 id="magical-block" tabindex="-1">Magical Block:</h3>
+<p><strong>Custo:</strong> 🟪<br>
+<strong>Acerto:</strong> Garantido<br>
+<strong>Efeito:</strong> 3d4+INT de defesa contra o dano</p>
+<h3 id="oportunity-attack" tabindex="-1">Oportunity Attack:</h3>
+<p><strong>Custo</strong>: 🟪 por cada 🟠 do ataque<br>
+<strong>Acerto:</strong> Garantido<br>
+<strong>Condição:</strong> Pode ser ativado contra um inimigo que saia da área imediata do personagem</p>
 </main>
 <aside>
 <div class="sidebar">
@@ -577,25 +485,37 @@ On this page
 <div class="toc-container">
 <nav class="toc">
 <ol>
-<li><a href="#o-universo-de-aylar">O Universo de Aylar</a>
-<ol>
-<li><a href="#o-universo-de-aylar-1">O Universo de Aylar:</a>
-<ol>
-<li><a href="#divindades">Divindades:</a>
+<li><a href="#overview">Overview</a>
 </li>
-<li><a href="#a-regiao-de-khilian">A Região de Khilian:</a>
+<li><a href="#descricao">Descrição:</a>
+</li>
+<li><a href="#span-style-color-rgb-230-90-25-acoes-span">Ações:</a>
 <ol>
-<li><a href="#cidades">Cidades</a>
+<li><a href="#ataques-desarmados">Ataques desarmados:</a>
+</li>
+<li><a href="#movimento">Movimento:</a>
+</li>
+<li><a href="#pulo">Pulo:</a>
+</li>
+<li><a href="#fugir">Fugir:</a>
+</li>
+<li><a href="#equipar-itens">Equipar itens:</a>
+</li>
+<li><a href="#usar-consumiveis">Usar Consumíveis:</a>
+</li>
+<li><a href="#executar-span-style-color-rgb-230-90-25-acoes-span-fora-do-turno">Executar Ações fora do turno:</a>
 </li>
 </ol>
 </li>
-</ol>
-</li>
-<li><a href="#sistema">Sistema:</a>
+<li><a href="#span-style-color-rgb-163-126-196-reacoes-span-span-style-color-rgb-163-126-196-span">Reações:</a>
 <ol>
-<li><a href="#changelogs">Changelogs:</a>
+<li><a href="#esquiva">Esquiva:</a>
 </li>
-</ol>
+<li><a href="#block">Block:</a>
+</li>
+<li><a href="#magical-block">Magical Block:</a>
+</li>
+<li><a href="#oportunity-attack">Oportunity Attack:</a>
 </li>
 </ol>
 </li>
@@ -605,8 +525,8 @@ On this page
 </div>
 <div class="backlinks">
 <div class="backlink-title" style="margin:4px 0!important">Pages mentioning this page</div>
-<div class="backlink-list"><div class="backlink-card">
-<span class="no-backlinks-message">No other pages mentions this page</span>
+<div class="backlink-list"><div class="backlink-card"><i icon-name="link"></i><a href="/" data-note-icon="" class="backlink">O Universo de Aylar</a>
+</div><div class="backlink-card"><i icon-name="link"></i><a href="/00 - Sistema/00 - Changelogs/Changelog v0.2.0/" data-note-icon="" class="backlink">Changelog v0.2.0</a>
 </div></div>
 </div>
 </div>
@@ -620,6 +540,9 @@ On this page
 <iframe style="display:none;height:0;width:0" id="link-preview-iframe" src="">
 </iframe>
 <script>var opacityTimeout,contentTimeout,transitionDurationMs=100,iframe=document.getElementById("link-preview-iframe"),tooltipWrapper=document.getElementById("tooltip-wrapper"),tooltipContent=document.getElementById("tooltip-content"),linkHistories={};function hideTooltip(){opacityTimeout=setTimeout((function(){tooltipWrapper.style.opacity=0,contentTimeout=setTimeout((function(){tooltipContent.innerHTML="",tooltipWrapper.style.display="none"}),transitionDurationMs+1)}),transitionDurationMs)}function showTooltip(t){var e=t.target,o=e.getClientRects()[e.getClientRects().length-1],i=window.pageYOffset||document.documentElement.scrollTop,n=t.target.getAttribute("href");if(-1===n.indexOf("http")||-1!==n.indexOf(window.location.host)){let t=n.split("#")[0];linkHistories[t]?(tooltipContent.innerHTML=linkHistories[t],tooltipWrapper.style.display="block",setTimeout((function(){if(tooltipWrapper.style.opacity=1,-1!=n.indexOf("#")){let t=n.split("#")[1];const e=tooltipWrapper.querySelector(`[id='${t}']`);e.classList.add("referred"),e.scrollIntoView({behavior:"smooth"},!0)}else tooltipWrapper.scroll(0,0)}),1)):(iframe.src=t,iframe.onload=function(){tooltipContentHtml="",tooltipContentHtml+='<div style="font-weight: bold; unicode-bidi: plaintext;">'+iframe.contentWindow.document.querySelector("h1").innerHTML+"</div>",tooltipContentHtml+=iframe.contentWindow.document.querySelector(".content").innerHTML,tooltipContent.innerHTML=tooltipContentHtml,linkHistories[t]=tooltipContentHtml,tooltipWrapper.style.display="block",tooltipWrapper.scrollTop=0,setTimeout((function(){if(tooltipWrapper.style.opacity=1,-1!=n.indexOf("#")){let t=n.split("#")[1];const e=tooltipWrapper.querySelector(`[id='${t}']`);e.classList.add("referred"),console.log(e),e.scrollIntoView({behavior:"smooth"},!0)}else tooltipWrapper.scroll(0,0)}),1)}),tooltipWrapper.style.left=o.left-tooltipWrapper.offsetWidth/2+o.width/2+"px",window.innerHeight-o.top<tooltipWrapper.offsetHeight?tooltipWrapper.style.top=o.top+i-tooltipWrapper.offsetHeight-10+"px":window.innerHeight-o.top>tooltipWrapper.offsetHeight&&(tooltipWrapper.style.top=o.top+i+35+"px"),o.left+o.width/2<tooltipWrapper.offsetWidth/2?tooltipWrapper.style.left="10px":document.body.clientWidth-o.left-o.width/2<tooltipWrapper.offsetWidth/2&&(tooltipWrapper.style.left=document.body.clientWidth-tooltipWrapper.offsetWidth-20+"px")}}function setupListeners(t){t.addEventListener("mouseleave",(function(t){hideTooltip()})),tooltipWrapper.addEventListener("mouseleave",(function(t){hideTooltip()})),t.addEventListener("mouseenter",(function(t){clearTimeout(opacityTimeout),clearTimeout(contentTimeout),showTooltip(t)})),tooltipWrapper.addEventListener("mouseenter",(function(t){clearTimeout(opacityTimeout),clearTimeout(contentTimeout)}))}window.addEventListener("load",(function(t){document.querySelectorAll(".internal-link").forEach(setupListeners),document.querySelectorAll(".backlink-card a").forEach(setupListeners)}))</script>
+<script>window.location.hash&&document.getElementById(window.location.hash.slice(1)).classList.add("referred"),window.addEventListener("hashchange",(e=>{const t=e.oldURL.split("#");t[1]&&document.getElementById(t[1]).classList.remove("referred");const n=e.newURL.split("#");n[1]&&document.getElementById(n[1]).classList.add("referred")}),!1);const url_parts=window.location.href.split("#"),url=url_parts[0],referrence=url_parts[1];document.querySelectorAll(".cm-s-obsidian > *[id]").forEach((function(e){e.ondblclick=function(e){const t=url+"#"+e.target.id;navigator.clipboard.writeText(t)}}))</script>
+<script src="https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js"></script>
+<script defer="defer">TIMESTAMP_FORMAT="dd, MMM, yyyy hh:mm",document.querySelectorAll(".human-date").forEach((function(e){date=e.getAttribute("data-date")||e.innerText,parsed_date=luxon.DateTime.fromISO(date),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromSQL(date)),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromHTML(date)),e.innerHTML=parsed_date.toFormat(TIMESTAMP_FORMAT)}))</script>
 <script>lucide.createIcons({attrs:{class:["svg-icon"]}})</script>
 </body>
 </html>

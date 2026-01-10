@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo Pós Reconstituição/","tags":["religião","khilian","aylar"],"created":"2025-09-05T20:47:20.061+01:00","updated":"2026-01-10T03:50:30.257+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Generalismo Pós Reconstituição.md","permalink":"/A Região de Khilian/Correntes religiosas/Generalismo Pós Reconstituição/","tags":["religião","khilian","aylar"],"created":"2025-09-05T20:47:20.061+01:00","updated":"2026-01-10T03:50:30.257+00:00"}
 ---
 
 ## Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Ações, Reações e Ações Livres/","tags":["mecânica","aylar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-10T01:47:34.615+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Ações, Reações e Ações Livres.md","permalink":"/00 - Sistema/Ações/Ações, Reações e Ações Livres/","tags":["mecânica","aylar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-10T01:47:34.615+00:00"}
 ---
 
 ## Overview

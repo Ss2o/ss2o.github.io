@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/O Mundo/","title":"O Mundo","tags":["doc-histórico","khilian","aylar"],"created":"2025-02-25T18:08:49.342+00:00","updated":"2026-01-10T02:45:59.728+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Documentos Históricos/O Mundo.md","permalink":"/A Região de Khilian/Documentos Históricos/O Mundo/","title":"O Mundo","tags":["doc-histórico","khilian","aylar"],"created":"2025-02-25T18:08:49.342+00:00","updated":"2026-01-10T02:45:59.728+00:00"}
 ---
 
 ## Overview

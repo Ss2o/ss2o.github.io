@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Portis/","tags":["cidade","khilian","aylar"],"created":"2025-02-08T14:10:06.146+00:00","updated":"2026-01-10T13:48:27.374+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Cidades/Portis.md","permalink":"/A Região de Khilian/Cidades/Portis/","tags":["cidade","khilian","aylar"],"created":"2025-02-08T14:10:06.146+00:00","updated":"2026-01-10T13:48:27.374+00:00"}
 ---
 
 ## Overview

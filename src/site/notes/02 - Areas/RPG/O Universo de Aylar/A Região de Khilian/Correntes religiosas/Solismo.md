@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Solismo/","tags":["religião","khilian","aylar"],"created":"2025-02-08T14:18:51.945+00:00","updated":"2026-01-10T03:50:35.966+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Solismo.md","permalink":"/A Região de Khilian/Correntes religiosas/Solismo/","tags":["religião","khilian","aylar"],"created":"2025-02-08T14:18:51.945+00:00","updated":"2026-01-10T03:50:35.966+00:00"}
 ---
 
 ## Overview

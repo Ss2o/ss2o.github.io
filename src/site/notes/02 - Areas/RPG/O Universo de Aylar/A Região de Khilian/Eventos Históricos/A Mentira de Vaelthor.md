@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Mentira de Vaelthor/","tags":["khilian","evento-histórico","aylar"],"created":"2025-09-19T01:21:26.441+01:00","updated":"2026-01-10T02:46:11.614+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Eventos Históricos/A Mentira de Vaelthor.md","permalink":"/A Região de Khilian/Eventos Históricos/A Mentira de Vaelthor/","tags":["khilian","evento-histórico","aylar"],"created":"2025-09-19T01:21:26.441+01:00","updated":"2026-01-10T02:46:11.614+00:00"}
 ---
 
 ## Overview

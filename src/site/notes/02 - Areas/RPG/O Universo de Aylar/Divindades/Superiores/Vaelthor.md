@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Divindades/Superiores/Vaelthor.md","permalink":"/Divindades/Superiores/Vaelthor/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:07.021+00:00","updated":"2026-01-10T03:20:43.303+00:00"}
+{"dg-publish":true,"dg-path":"Divindades/Superiores/Vaelthor.md","permalink":"/Divindades/Superiores/Vaelthor/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:07.021+00:00","updated":"2026-01-10T14:01:29.966+00:00"}
 ---
 
 ## Overview
@@ -10,7 +10,7 @@
 > Vaelthor
 
 **Títulos:** Deus da Lua,Deus da Noite,Deus da Escuridão,Deus do Caos,Deus da Liberdade
-**Correntes Associadas:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Libercaoticismo\|Libercaoticismo]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo Clássico\|Generalismo Clássico]]
+**Correntes Associadas:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Libercaoticismo\|Libercaoticismo]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Clássico\|Generalismo Clássico]]
 
 
 ## História

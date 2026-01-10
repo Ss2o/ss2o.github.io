@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Echo Arya.md","permalink":"/A Região de Khilian/Player Characters/Echo Arya/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-06T01:29:02.427+01:00","updated":"2026-01-10T02:36:58.586+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Echo Arya.md","permalink":"/A Região de Khilian/Player Characters/Echo Arya/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-06T01:29:02.427+01:00","updated":"2026-01-10T13:58:01.781+00:00"}
 ---
 
 ## Overview
@@ -15,7 +15,7 @@
 **Nascimento:** 22 AR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]]
 **Classe:** Bardo
 **Espécie:** Changeling
-**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo Clássico\|Generalismo Clássico]]
+**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Clássico\|Generalismo-Clássico]]
 
 ## Backstory
 

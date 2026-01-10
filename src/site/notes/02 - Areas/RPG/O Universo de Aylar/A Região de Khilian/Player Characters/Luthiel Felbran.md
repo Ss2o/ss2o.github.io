@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Luthiel Felbran.md","permalink":"/A Região de Khilian/Player Characters/Luthiel Felbran/","tags":["player-character","khilian","trieto-caótico","aylar"],"created":"2025-09-05T22:15:48.535+01:00","updated":"2026-01-10T02:37:42.538+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Luthiel Felbran.md","permalink":"/A Região de Khilian/Player Characters/Luthiel Felbran/","tags":["player-character","khilian","trieto-caótico","aylar"],"created":"2025-09-05T22:15:48.535+01:00","updated":"2026-01-10T13:58:01.805+00:00"}
 ---
 
 ## Overview
@@ -15,7 +15,7 @@
 **Nascimento:** 14 DR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Faunia\|Faunia]]
 **Classe:** Bardo-Rogue
 **Espécie:** Vulpin
-**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo Clássico\|Generalismo Clássico]]
+**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Clássico\|Generalismo-Clássico]]
 
 Conhecido por ser amigável com todos e extremente confiavel em suas habilidades.
 ## Backstory

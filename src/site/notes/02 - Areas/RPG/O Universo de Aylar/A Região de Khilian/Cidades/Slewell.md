@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Cidades/Slewell.md","permalink":"/A Região de Khilian/Cidades/Slewell/","tags":["cidade","khilian","aylar"],"created":"2025-09-05T21:15:34.674+01:00","updated":"2026-01-10T13:59:48.330+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Cidades/Slewell.md","permalink":"/A Região de Khilian/Cidades/Slewell/","tags":["cidade","khilian","aylar"],"created":"2025-09-05T21:15:34.674+01:00","updated":"2026-01-10T14:28:18.979+00:00"}
 ---
 
 ## Overview
@@ -9,8 +9,8 @@
 > 
 
 **Região:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Nosferatu\|Nosferatu]]
-**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Libercaoticismo\|Libercaoticismo]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Clássico\|Generalismo-Clássico]]
-**Cultura:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Culturas/Cultura-Nosferatum\|Cultura-Nosferatum]]
+**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Libercaoticismo\|Libercaoticismo]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Clássico\|Generalismo Clássico]]
+**Cultura:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Culturas/Cultura-Nosferatum\|Cultura Nosferatum]]
 **Etnias Principais:** Humana
 **Geografia:** Beira Rio
 

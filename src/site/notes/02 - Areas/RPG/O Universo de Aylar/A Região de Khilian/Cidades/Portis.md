@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Cidades/Portis.md","permalink":"/A Região de Khilian/Cidades/Portis/","tags":["cidade","khilian","aylar"],"created":"2025-02-08T14:10:06.146+00:00","updated":"2026-01-10T13:58:54.673+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Cidades/Portis.md","permalink":"/A Região de Khilian/Cidades/Portis/","tags":["cidade","khilian","aylar"],"created":"2025-02-08T14:10:06.146+00:00","updated":"2026-01-10T14:27:18.389+00:00"}
 ---
 
 ## Overview
@@ -10,7 +10,7 @@
 
 **Região:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khishuri\|Khishuri]]
 **Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Aeonismo\|Aeonismo]]
-**Cultura:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Culturas/Cultura-Ekhaliana\|Cultura-Ekhaliana]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Culturas/Cultura-Khishuriana\|Cultura-Khishuriana]]
+**Cultura:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Culturas/Cultura-Ekhaliana\|Cultura Ekhaliana]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Culturas/Cultura-Khishuriana\|Cultura Khishuriana]]
 **Etnias Principais:** Humana,Animais Antropomorfos
 **Geografia:** Foz do Rio
 

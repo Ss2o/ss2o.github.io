@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Cidades/Ekhalis.md","permalink":"/A Região de Khilian/Cidades/Ekhalis/","tags":["cidade","khilian","aylar"],"created":"2026-01-10T13:57:13.823+00:00","updated":"2026-01-10T13:58:17.717+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Cidades/Ekhalis.md","permalink":"/A Região de Khilian/Cidades/Ekhalis/","tags":["cidade","khilian","aylar"],"created":"2026-01-10T13:57:13.823+00:00","updated":"2026-01-10T14:28:01.132+00:00"}
 ---
 
 ## Overview
@@ -9,8 +9,8 @@
 > 
 
 **Região:** Ekhalis
-**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Pós-Reconstituição\|Generalismo-Pós-Reconstituição]]
-**Cultura:** `= this.culture `
+**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Pós-Reconstituição\|Generalismo Pós-Reconstituição]]
+**Cultura:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Culturas/Cultura-Ekhaliana\|Cultura Ekhaliana]]
 **Etnias Principais:** Antropomórfica (Pós Reconstituição),Humana,Élfica
 **Geografia:** Beira Rio
 

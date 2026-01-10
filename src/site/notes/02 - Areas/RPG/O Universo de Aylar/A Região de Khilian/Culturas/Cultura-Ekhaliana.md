@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Culturas/Cultura-Ekhaliana.md","permalink":"/A Região de Khilian/Culturas/Cultura-Ekhaliana/","tags":["cultura","khilian","aylar"],"created":"2025-02-08T16:10:07.592+00:00","updated":"2026-01-10T13:58:51.621+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Culturas/Cultura-Ekhaliana.md","permalink":"/A Região de Khilian/Culturas/Cultura-Ekhaliana/","tags":["cultura","khilian","aylar"],"created":"2025-02-08T16:10:07.592+00:00","updated":"2026-01-10T14:56:42.877+00:00"}
 ---
 
 ## Overview
 
-**Incidência:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]]
+**Incidência:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Portis\|Portis]]
 
 A cultura Ekhaliana é considerada por historiadores como um resultado da alta mistura étnica e populacional que ocorreu na cidade de [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]] desde a sua criação. É principalmente uma mistura de culturas Humanas e Élficas. Principalmente na própria cidade de [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]], uma veia predominante desta cultura presa pela ordem social, pelo valor do trabalho manual e pelo amor à comunidade. Esta cultura é visível inclusive na classe governante, que se mostra em geral bondosa com o Povo, considerando que este é o verdadeiro Senhor da Cidade, pelo seu número e pela sua imprescindibilidade para o bom funcionamento da Cidade.

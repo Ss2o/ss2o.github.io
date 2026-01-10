@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Documentos Históricos/E Depois da Criação.md","permalink":"/A Região de Khilian/Documentos Históricos/E Depois da Criação/","title":"E Depois da Criação?","tags":["doc-histórico","khilian","aylar"],"created":"2025-09-21T18:35:53.058+01:00","updated":"2026-01-10T03:11:15.695+00:00"}
+{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/E Depois da Criação/","title":"E Depois da Criação?","tags":["doc-histórico","khilian","aylar"],"created":"2025-09-21T18:35:53.058+01:00","updated":"2026-01-10T03:11:15.695+00:00"}
 ---
 
 ## Overview

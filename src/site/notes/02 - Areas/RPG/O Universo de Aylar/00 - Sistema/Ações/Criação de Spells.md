@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Criação de Spells.md","permalink":"/00 - Sistema/Ações/Criação de Spells/","tags":["mecânica","aylar"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-10T01:47:50.077+00:00"}
+{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Criação de Spells/","tags":["mecânica","aylar"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-10T01:47:50.077+00:00"}
 ---
 
 ## Overview

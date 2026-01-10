@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Ratosk Steelwhisker.md","permalink":"/A Região de Khilian/Player Characters/Ratosk Steelwhisker/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:08:46.702+01:00","updated":"2026-01-10T02:37:48.064+00:00"}
+{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Player Characters/Ratosk Steelwhisker/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:08:46.702+01:00","updated":"2026-01-10T02:37:48.064+00:00"}
 ---
 
 ## Overview

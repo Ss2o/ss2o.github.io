@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Eventos Históricos/A Reconstituição.md","permalink":"/A Região de Khilian/Eventos Históricos/A Reconstituição/","tags":["evento-histórico","khilian","aylar"],"created":"2025-02-08T14:14:59.817+00:00","updated":"2026-01-10T03:02:35.662+00:00"}
+{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Reconstituição/","tags":["evento-histórico","khilian","aylar"],"created":"2025-02-08T14:14:59.817+00:00","updated":"2026-01-10T03:02:35.662+00:00"}
 ---
 
 ## Overview

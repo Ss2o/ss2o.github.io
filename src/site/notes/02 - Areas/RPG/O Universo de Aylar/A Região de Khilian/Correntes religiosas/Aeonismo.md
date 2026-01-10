@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Aeonismo.md","permalink":"/A Região de Khilian/Correntes religiosas/Aeonismo/","tags":["religião","khilian","aylar"],"created":"2025-02-08T14:09:18.964+00:00","updated":"2026-01-10T03:50:23.962+00:00"}
+{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Aeonismo/","tags":["religião","khilian","aylar"],"created":"2025-02-08T14:09:18.964+00:00","updated":"2026-01-10T03:50:23.962+00:00"}
 ---
 
 ## Overview

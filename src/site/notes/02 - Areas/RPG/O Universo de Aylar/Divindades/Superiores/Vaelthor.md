@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Divindades/Superiores/Vaelthor.md","permalink":"/Divindades/Superiores/Vaelthor/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:07.021+00:00","updated":"2026-01-10T03:20:43.303+00:00"}
+{"dg-publish":true,"permalink":"/02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Vaelthor/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:07.021+00:00","updated":"2026-01-10T03:20:43.303+00:00"}
 ---
 
 ## Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Culturas/Cultura-Nosferatum.md","permalink":"/A Região de Khilian/Culturas/Cultura-Nosferatum/","tags":["cultura","khilian","aylar"],"created":"2025-09-05T21:19:51.719+01:00","updated":"2026-01-11T05:06:57.019+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Culturas/Cultura-Nosferatum.md","permalink":"/A Região de Khilian/Culturas/Cultura-Nosferatum/","title":"Cultura Nosferatum","tags":["cultura","khilian","aylar"],"created":"2025-09-05T21:19:51.719+01:00","updated":"2026-01-11T14:44:13.962+00:00"}
 ---
 
 ## Overview

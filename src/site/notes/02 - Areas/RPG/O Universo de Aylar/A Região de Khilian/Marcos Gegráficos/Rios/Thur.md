@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/Rios/Thur.md","permalink":"/A Região de Khilian/Marcos Gegráficos/Rios/Thur/","tags":["rio","khilian","#marco-geográfico","aylar"],"created":"2025-02-08T14:28:49.068+00:00","updated":"2026-01-11T05:09:04.403+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/Rios/Thur.md","permalink":"/A Região de Khilian/Marcos Gegráficos/Rios/Thur/","tags":["rio","khilian","#marco-geográfico","aylar"],"created":"2025-02-08T14:28:49.068+00:00","updated":"2026-01-11T17:50:27.719+00:00"}
 ---
 
 ## Overview

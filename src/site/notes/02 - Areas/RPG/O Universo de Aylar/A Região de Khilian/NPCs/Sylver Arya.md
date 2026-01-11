@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Sylver Arya.md","permalink":"/A Região de Khilian/NPCs/Sylver Arya/","tags":["khilian","NPC","aylar"],"created":"2025-02-08T13:30:49.467+00:00","updated":"2026-01-11T14:36:29.973+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Sylver Arya.md","permalink":"/A Região de Khilian/NPCs/Sylver Arya/","tags":["khilian","NPC","aylar"],"created":"2025-02-08T13:30:49.467+00:00","updated":"2026-01-11T17:59:59.361+00:00"}
 ---
 
 

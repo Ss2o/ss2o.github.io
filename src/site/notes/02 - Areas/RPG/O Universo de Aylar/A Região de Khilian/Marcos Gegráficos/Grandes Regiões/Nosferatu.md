@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Nosferatu.md","permalink":"/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Nosferatu/","tags":["região","khilian","#marco-geográfico","aylar"],"created":"2025-09-05T21:00:48.162+01:00","updated":"2026-01-11T05:09:08.162+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Nosferatu.md","permalink":"/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Nosferatu/","tags":["região","khilian","#marco-geográfico","aylar"],"created":"2025-09-05T21:00:48.162+01:00","updated":"2026-01-11T17:46:12.091+00:00"}
 ---
 
 ## Overview

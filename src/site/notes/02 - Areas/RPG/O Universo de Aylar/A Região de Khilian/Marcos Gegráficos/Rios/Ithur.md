@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/Rios/Ithur.md","permalink":"/A Região de Khilian/Marcos Gegráficos/Rios/Ithur/","tags":["rio","khilian","#marco-geográfico","aylar"],"created":"2025-02-08T14:29:36.986+00:00","updated":"2026-01-11T05:08:56.827+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/Rios/Ithur.md","permalink":"/A Região de Khilian/Marcos Gegráficos/Rios/Ithur/","tags":["rio","khilian","#marco-geográfico","aylar"],"created":"2025-02-08T14:29:36.986+00:00","updated":"2026-01-11T17:50:08.544+00:00"}
 ---
 
 ## Overview

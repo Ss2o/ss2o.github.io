@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Divindades/Superiores/Vaelthor.md","permalink":"/Divindades/Superiores/Vaelthor/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:07.021+00:00","updated":"2026-01-11T04:29:04.856+00:00"}
+{"dg-publish":true,"dg-path":"Divindades/Superiores/Vaelthor.md","permalink":"/Divindades/Superiores/Vaelthor/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:07.021+00:00","updated":"2026-01-11T04:32:55.525+00:00"}
 ---
 
 ## Overview

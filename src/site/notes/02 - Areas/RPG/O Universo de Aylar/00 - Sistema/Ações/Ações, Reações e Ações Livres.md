@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Ações, Reações e Ações Livres.md","permalink":"/00 - Sistema/Ações/Ações, Reações e Ações Livres/","tags":["mecânica","aylar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-11T06:00:42.487+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Ações, Reações e Ações Livres.md","permalink":"/00 - Sistema/Ações/Ações, Reações e Ações Livres/","tags":["mecânica","aylar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-11T20:30:45.753+00:00"}
 ---
 
 ## Overview
@@ -14,7 +14,7 @@ A tabela de <span style="color:rgb(230, 90, 25)">Action Points</span> e <span st
 
 Existem ainda <span style="color:rgb(146, 208, 80)">Ações Livres</span>, ações específicas sem custo, que podem ser executadas a qualquer altura, inclusive durante o combate, desde que se reúnam as condições descritas no texto das mesmas (ex: [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Forçar Dados\|Forçar Dados]] é uma <span style="color:rgb(146, 208, 80)">Ação Livre</span>, mas só pode ser usada quando um dado for rodado).
 
-<span style="color:rgb(230, 90, 25)">Ações</span> específicas de cada personagem, como spells ou ataques, têm o seu custo visível à frente do nome da <span style="color:rgb(230, 90, 25)">Ação</span> (ex: "Cloud of Daggers 🟠🟠" é um spell com um custo de <span style="color:rgb(230, 90, 25)">2</span> <span style="color:rgb(230, 90, 25)">Action Points</span>). Note-se que 🟠 e 🟪 não substituem os outros custos potencialmente associados a uma <span style="color:rgb(230, 90, 25)">Ação</span> (Spell Slots, componentes, etc...). As restantes <span style="color:rgb(230, 90, 25)">Ações</span> e <span style="color:rgb(163, 126, 196)">Reações</span> genéricas, que todos os personagens podem realizar, ficam aqui sumarizadas:
+<span style="color:rgb(230, 90, 25)">Ações</span> específicas de cada personagem, como spells ou ataques, têm o seu custo visível à frente do nome da <span style="color:rgb(230, 90, 25)">Ação</span> na ficha do personagem (ex: "Cloud of Daggers 🟠🟠" é um spell com um custo de <span style="color:rgb(230, 90, 25)">2</span> <span style="color:rgb(230, 90, 25)">Action Points</span>). Note-se que 🟠 e 🟪 não substituem os outros custos potencialmente associados a uma <span style="color:rgb(230, 90, 25)">Ação</span> (Spell Slots, componentes, etc...). As restantes <span style="color:rgb(230, 90, 25)">Ações</span> e <span style="color:rgb(163, 126, 196)">Reações</span> genéricas, que todos os personagens podem realizar, ficam aqui sumarizadas:
 ## <span style="color:rgb(230, 90, 25)">Ações</span>
 ### Ataques desarmados:
 **Custo:** 🟠

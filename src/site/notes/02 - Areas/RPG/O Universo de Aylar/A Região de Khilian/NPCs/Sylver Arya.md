@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Sylver Arya.md","permalink":"/A Região de Khilian/NPCs/Sylver Arya/","tags":["khilian","NPC","aylar"],"created":"2025-02-08T13:30:49.467+00:00","updated":"2026-01-11T17:59:59.361+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Sylver Arya.md","permalink":"/A Região de Khilian/NPCs/Sylver Arya/","tags":["khilian","NPC","aylar"],"created":"2025-02-08T13:30:49.467+00:00","updated":"2026-01-11T20:23:56.861+00:00"}
 ---
 
 
@@ -13,5 +13,5 @@
 **Status:** Morto (Velhice - 7 AR)
 **Nascimento:** 101 AR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]]
 
-Autor de _[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/O Mundo\|O Mundo]]_, viveu uma vida pacata, no Octante Sudeste da sua cidade natal de [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]]. Dedicou a sua vida a estudar a História d'O Mundo e dos seus [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/00 - Os Deuses\|Deuses]], reunindo relatos dos mais antigos entre os Elfos, manuscritos
+Autor de _[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/O Mundo\|O Mundo]]_, viveu uma vida pacata, no [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis#Octante Leste\|Octante Leste]] da sua cidade natal de [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]]. Dedicou a sua vida a estudar a História d'O Mundo e dos seus [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/00 - Os Deuses\|Deuses]], reunindo relatos dos mais antigos entre os Elfos, manuscritos
 

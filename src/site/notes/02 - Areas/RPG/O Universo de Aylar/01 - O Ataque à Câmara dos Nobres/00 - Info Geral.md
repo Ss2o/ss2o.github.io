@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"01 - O Ataque à Câmara dos Nobres/00 - Info Geral.md","permalink":"/01 - O Ataque à Câmara dos Nobres/00 - Info Geral/","title":"O Ataque à Câmara dos Nobres","tags":["campanha"],"created":"2026-01-11T05:43:03.742+00:00","updated":"2026-01-11T05:47:13.520+00:00"}
+{"dg-publish":true,"dg-path":"01 - O Ataque à Câmara dos Nobres/00 - Info Geral.md","permalink":"/01 - O Ataque à Câmara dos Nobres/00 - Info Geral/","title":"O Ataque à Câmara dos Nobres","tags":["campanha"],"created":"2026-01-11T05:43:03.742+00:00","updated":"2026-01-11T06:01:52.460+00:00"}
 ---
 
 ## Overview
@@ -7,7 +7,7 @@
 **Data:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Reconstituição#Sistema de Datas\|Ano 0]]
 **Local:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Marcos Gegráficos/A Grande Região de Khilian\|A Grande Região de Khilian]]
 
-## Personagens:
+## Personagens
 | Character Portrait                                                                            | Personagem                                                                                             | Raça       | Classe         | Player |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- | -------------- | ------ |
 | <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FAsmodeus%20Swordniffle.png height=150> | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Asmodeus Swordniffle\|Asmodeus Swordniffle]] | Corvum     | Wizard         | André  |

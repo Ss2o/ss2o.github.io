@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Criação de Spells.md","permalink":"/00 - Sistema/Ações/Criação de Spells/","tags":["mecânica","aylar"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-11T05:01:42.986+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Criação de Spells.md","permalink":"/00 - Sistema/Ações/Criação de Spells/","tags":["mecânica","aylar"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-11T06:00:59.261+00:00"}
 ---
 
 ## Overview
 
 **Tipo:** <span style="color:rgb(230, 90, 25)">Ação</span>
 **Custo:** 🟠 (ou mais) + Spell Slot equivalente ao nível do feitiço (decidido pelo DM)
-## Descrição:
+## Descrição
 
 Uma vez por cada turno, alguns dos players  podem gastar 🟠 para criar um feitiço. O player deve utilizar no máximo 3 palavras para definir o título do feitiço, além de rodar 1d20+X (sendo X = 2 x 🟠 extra) para ver o quão bem sucedida é a criação do feitiço. Os efeitos deste feitiço serão definidos pelo DM com base no valor do dado. Com base nos efeitos o DM decide também o nível do feitiço.
 
 É possível ainda usar o dobro da quantidade de Spell Slots para tornar o feitiço permanentemente executável.
 
-## Exemplos:
+## Exemplos
 
 "Explodir Goblin" 🟠, Dado (1d20): 1
 Efeito: Cria uma explosão à volta de um goblin aleatório, mas todos os goblins são imunes a essa explosão

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Asmodeus Swordniffle.md","permalink":"/A Região de Khilian/Player Characters/Asmodeus Swordniffle/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:02:16.806+01:00","updated":"2026-01-10T02:36:45.948+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Asmodeus Swordniffle.md","permalink":"/A Região de Khilian/Player Characters/Asmodeus Swordniffle/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:02:16.806+01:00","updated":"2026-01-11T04:55:17.324+00:00"}
 ---
 
 ## Overview

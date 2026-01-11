@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Myrio Arya.md","permalink":"/A Região de Khilian/NPCs/Myrio Arya/","tags":["khilian","#NPC","aylar"],"created":"2025-02-25T18:08:49.378+00:00","updated":"2026-01-10T13:58:36.546+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Myrio Arya.md","permalink":"/A Região de Khilian/NPCs/Myrio Arya/","tags":["khilian","#NPC","aylar"],"created":"2025-02-25T18:08:49.378+00:00","updated":"2026-01-11T04:58:15.195+00:00"}
 ---
 
 ## Overview

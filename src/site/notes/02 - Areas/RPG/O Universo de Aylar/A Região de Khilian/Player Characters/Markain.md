@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Markain.md","permalink":"/A Região de Khilian/Player Characters/Markain/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:11:57.571+01:00","updated":"2026-01-10T02:37:44.338+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Markain.md","permalink":"/A Região de Khilian/Player Characters/Markain/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:11:57.571+01:00","updated":"2026-01-11T04:54:22.739+00:00"}
 ---
 
 ## Overview

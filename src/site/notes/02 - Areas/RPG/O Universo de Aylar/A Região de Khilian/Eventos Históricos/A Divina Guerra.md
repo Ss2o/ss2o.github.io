@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Eventos Históricos/A Divina Guerra.md","permalink":"/A Região de Khilian/Eventos Históricos/A Divina Guerra/","tags":["evento-histórico","khilian","aylar"],"created":"2026-01-10T16:29:27.797+00:00","updated":"2026-01-11T18:51:50.879+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Eventos Históricos/A Divina Guerra.md","permalink":"/A Região de Khilian/Eventos Históricos/A Divina Guerra/","tags":["evento-histórico","khilian","aylar"],"created":"2026-01-10T16:29:27.797+00:00","updated":"2026-01-11T20:24:50.886+00:00"}
 ---
 
 ## Overview
 
-**Data:** ~ 4730-4310 AR
+**Data:** ~ 4730 - 4310 AR
 
 A Divina Guerra foi travada entre [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Vaelthor\|Vaelthor]] e os seus irmãos [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Helisara\|Helisara]], [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Sylara\|Sylara]] e [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Durnovar\|Durnovar]], tendo durado vários séculos. A Guerra teve início após a [[#A Primeira Batalha dos Deuses]], tendo sido despoletada pel'[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Traição de Vaelthor\|A Traição de Vaelthor]], prolongando-se até à [[#A Segunda Batalha dos Deuses|Segunda Batalha dos Deuses]], tendo esta terminado na derrota de [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Vaelthor\|Vaelthor]] e na consolidação de [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Helisara\|Helisara]] como Rainha dos Deuses.
 

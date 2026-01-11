@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","title":"O Universo de Aylar","hide":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-11T05:47:44.749+00:00"}
+{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","title":"O Universo de Aylar","hide":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-11T06:27:06.547+00:00"}
 ---
 
 # O Universo de Aylar
@@ -24,9 +24,18 @@ Campanhas Ativas: [[02 - Areas/RPG/O Universo de Aylar/02 - Trieto Caótico/00 -
 
 { .block-language-dataview}
 
-### A Região de Khilian
+### A Grande Região de Khilian
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/A Região de Khilian/Marcos Gegráficos/A Grande Região de Khilian/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
 
 ![Mapa de Khilian.png](/img/user/02%20-%20Areas/RPG/O%20Universo%20de%20Aylar/A%20Regi%C3%A3o%20de%20Khilian/Mapas/Mapa%20de%20Khilian.png)
+
+Khilian, significando "Grande Região" é a área geográfica delimitada maioritariamente a norte pelo Grande Mar, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khimaru\|Khimaru]], a este pela Grande Cordilheira, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khikali\|Khikali]], a Sul e Sudeste pelos Rios [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Marcos Gegráficos/Rios/Thur\|Thur]] e [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Marcos Gegráficos/Rios/Ithur\|Ithur]], e a oeste pelo Grande Deserto, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khithari\|Khithari]]. Inclui também a [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Ilha de Montserrat\|Ilha de Montserrat]].
+
 
 #### Cidades
 | Backdrop                                                            | Cidade                                                                                 | Região                                                                                                               | Religião                                                                                                                                                                                                                                                                      | Cultura                                                                                                                                                                                                                                                 | Situação Geográfica | Etnias Principais                                                                   |
@@ -37,6 +46,13 @@ Campanhas Ativas: [[02 - Areas/RPG/O Universo de Aylar/02 - Trieto Caótico/00 -
 | <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FSlewell.jpg> | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Slewell\|Slewell]] | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Nosferatu\|Nosferatu]] | <ul><li>[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Libercaoticismo.md\\|Libercaoticismo]]</li><li>[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Clássico.md\\|Generalismo Clássico]]</li></ul> | <ul><li>[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Culturas/Cultura-Nosferatum.md\\|Cultura Nosferatum]]</li></ul>                                                                                                                        | Beira Rio           | <ul><li>Humana</li></ul>                                                            |
 
 { .block-language-dataview}
+
+
+
+
+
+
+</div></div>
 
 
 ## Sistema 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Divindades/Superiores/Helisara.md","permalink":"/Divindades/Superiores/Helisara/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:06.992+00:00","updated":"2026-01-11T14:33:39.334+00:00"}
+{"dg-publish":true,"dg-path":"Divindades/Superiores/Helisara.md","permalink":"/Divindades/Superiores/Helisara/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:06.992+00:00","updated":"2026-01-11T18:34:49.429+00:00"}
 ---
 
 ## Overview

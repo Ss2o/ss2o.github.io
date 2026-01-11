@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"01 - O Ataque à Câmara dos Nobres/00 - Info Geral.md","permalink":"/01 - O Ataque à Câmara dos Nobres/00 - Info Geral/","title":"O Ataque à Câmara dos Nobres","tags":["campanha"],"created":"2026-01-11T05:43:03.742+00:00","updated":"2026-01-11T16:46:58.267+00:00"}
+{"dg-publish":true,"dg-path":"01 - O Ataque à Câmara dos Nobres/00 - Info Geral.md","permalink":"/01 - O Ataque à Câmara dos Nobres/00 - Info Geral/","title":"O Ataque à Câmara dos Nobres","tags":["campanha"],"created":"2026-01-11T05:43:03.742+00:00","updated":"2026-01-11T19:07:29.681+00:00"}
 ---
 
 ## Overview

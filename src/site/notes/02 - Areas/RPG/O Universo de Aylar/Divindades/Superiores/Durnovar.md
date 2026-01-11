@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Divindades/Superiores/Durnovar.md","permalink":"/Divindades/Superiores/Durnovar/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:07.053+00:00","updated":"2026-01-11T05:12:59.897+00:00"}
+{"dg-publish":true,"dg-path":"Divindades/Superiores/Durnovar.md","permalink":"/Divindades/Superiores/Durnovar/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:07.053+00:00","updated":"2026-01-11T18:34:45.315+00:00"}
 ---
 
 ## Overview

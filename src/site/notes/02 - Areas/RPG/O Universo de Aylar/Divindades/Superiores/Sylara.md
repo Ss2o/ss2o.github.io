@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Divindades/Superiores/Sylara.md","permalink":"/Divindades/Superiores/Sylara/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:07.069+00:00","updated":"2026-01-11T05:13:07.847+00:00"}
+{"dg-publish":true,"dg-path":"Divindades/Superiores/Sylara.md","permalink":"/Divindades/Superiores/Sylara/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:07.069+00:00","updated":"2026-01-11T18:35:04.142+00:00"}
 ---
 
 ## Overview

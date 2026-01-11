@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Ações, Reações e Ações Livres.md","permalink":"/00 - Sistema/Ações/Ações, Reações e Ações Livres/","tags":["mecânica","aylar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-11T20:37:43.832+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Ações, Reações e Ações Livres.md","permalink":"/00 - Sistema/Ações/Ações, Reações e Ações Livres/","tags":["mecânica","aylar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-11T20:47:02.045+00:00"}
 ---
 
 ## Overview
@@ -37,7 +37,7 @@ Existem ainda <span style="color:rgb(146, 208, 80)">Ações Livres</span>, açõ
 **Custo:** 🟪🟪
 **Acerto:** 1d20+DEX contra a rolagem de ataque do inimigo
 **Efeito:** Caso acerte não leva dano, caso falhe leva metade do dano
-**Efeito Secundário:** Caso acerte, é possível fazer um ataque de acerto garantido, que conta como uma ação fora de turno (ex: um [[#Ataques desarmados|Ataque Desarmado]] com um custo de 🟪🟪🟪) 
+**Efeito Secundário:** Caso acerte, é possível fazer um ataque de acerto garantido, que conta como uma ação fora de turno (ex: um [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Ações, Reações e Ações Livres#Ataques Desarmados\|Ataque Desarmado]] com um custo de 🟪🟪🟪) 
 
 ### Block:
 **Custo:** 🟪

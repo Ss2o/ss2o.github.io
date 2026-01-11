@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Criação de Spells.md","permalink":"/00 - Sistema/Ações/Criação de Spells/","tags":["mecânica","aylar"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-11T20:40:42.816+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Criação de Spells.md","permalink":"/00 - Sistema/Ações/Criação de Spells/","tags":["mecânica","aylar"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-11T20:43:10.846+00:00"}
 ---
 
 ## Overview
@@ -8,24 +8,24 @@
 **Custo:** 🟠 (+ uma certa quantidade opcional de 🟠 extra) + Spell Slot equivalente ao nível do feitiço (decidido pelo DM)
 ## Descrição
 
-Uma vez por cada turno, alguns dos players  podem gastar 🟠 para criar um feitiço. O player deve utilizar no máximo 3 palavras para definir o título do feitiço, além de rodar 1d20+X (sendo X = 2 x a quantidade de 🟠 extra) para ver o quão bem sucedida é a criação do feitiço. Os efeitos deste feitiço serão definidos pelo DM com base no valor do dado. Com base nos efeitos o DM decide também o nível do feitiço.
+Uma vez por cada turno, alguns dos players  podem gastar 🟠 para criar um feitiço. O player deve utilizar no máximo 3 palavras para definir o nome do feitiço, além de rodar 1d20+X (sendo X = 2 x a quantidade de 🟠 extra) para ver o quão bem sucedida é a criação do feitiço. Os efeitos deste feitiço serão definidos pelo DM com base no valor do dado e no nome do feitiço. Com base nos efeitos o DM decide também o nível do feitiço.
 
 É possível ainda usar o dobro da quantidade de Spell Slots para tornar o feitiço permanentemente executável.
 
 ## Exemplos
 
-"Explodir Goblin" 🟠, Dado (1d20): 1
+`Explodir Goblin 🟠`, Dado (1d20): 1
 Efeito: Cria uma explosão à volta de um goblin aleatório, mas todos os goblins são imunes a essa explosão
 Nível: 1 
 
-"Iluminar Todas Salas" 🟠🟠🟠, Dado (1d20+4): 24
+`Iluminar Todas Salas 🟠🟠🟠`, Dado (1d20+4): 24
 Efeito: Ilumina todas as salas de uma dungeon com uma luz tão forte que torna todos os inimigos cegos temporariamente.
 Nível: 3
 
-"Abrir Porta" 🟠🟠, Dado (1d20+2): 15
+`Abrir Porta 🟠🟠`, Dado (1d20+2): 15
 Efeito: Abre qualquer porta que esteja à frente do caster, desde que esta não esteja trancada com um feitiço de nível superior (>1).
 Nível: 1
 
-"Matar" <span style="color:rgb(230, 90, 25)">6</span>🟠, Dado (1d20+10): 30
+`Matar`<span style="color:rgb(230, 90, 25)">6</span>🟠, Dado (1d20+10): 30
 Efeito: Mata instantaneamente qualquer criatura desejada.
 Nível: 9

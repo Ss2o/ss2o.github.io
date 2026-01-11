@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Documentos Históricos/O Mundo.md","permalink":"/A Região de Khilian/Documentos Históricos/O Mundo/","title":"O Mundo","tags":["doc-histórico","khilian","aylar"],"created":"2025-02-25T18:08:49.342+00:00","updated":"2026-01-10T02:45:59.728+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Documentos Históricos/O Mundo.md","permalink":"/A Região de Khilian/Documentos Históricos/O Mundo/","title":"O Mundo","tags":["doc-histórico","khilian","aylar"],"created":"2025-02-25T18:08:49.342+00:00","updated":"2026-01-11T05:07:53.285+00:00"}
 ---
 
 ## Overview
@@ -9,6 +9,7 @@
 **Data de publicação:** 53 AR
 
 # O Mundo
+
 No começo, havia o Nada. Então [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Vaelion\|Vaelion]], o Pai dos Deuses, Deus do Equilíbrio e da Neutralidade, criou dois Filhos, à sua imagem. Em simultâneo, gerou [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Helisara\|Helisara]], Deusa do Sol, do Dia, da Luz, da Ordem, e [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Vaelthor\|Vaelthor]], Deus da Lua, da Noite, da Escuridão, do Caos e da Liberdade. 
 [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Helisara\|Helisara]] e [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Vaelthor\|Vaelthor]] criaram O Mundo, árido, seco, estático e vazio. Por amor à sua criação, imploraram ao seu Pai que lhes concedesse mais poder, para que pudessem popular O Mundo, e vê-lo crescer. [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Vaelion\|Vaelion]], com medo de conceder a um apenas ser poder a mais, decidiu gerar dois outros Filhos: [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Sylara\|Sylara]], Deusa da Vida, das Flores, da Natureza, Deusa da Puberdade e do Crescimento, e [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Durnovar\|Durnovar]], Deus da Terra, da Produção, do Magma, da Mineração, da Experiência e da Velhice. E [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Sylara\|Sylara]] deu Vida à superfície d'O Mundo. Criou as plantas e os animais, puros e bons. E [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Durnovar\|Durnovar]] fez Viver o Centro d'O Mundo. Fez O Mundo girar e aquecer a pedra, e escondeu lindos e brilhantes segredos nas profundezas da terra.
 Mas [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/Vaelthor\|Vaelthor]] viu O Mundo, seu e de seus irmãos, e viu-o restringido, contido, e quis libertá-lo. Em segredo, deu aos animais os seus instintos, e libertou-os da bondade. Viu as plantas pequenas, contidas no seu canto, deixando que o Sol atingisse todos, e fez delas árvores altas e magnânimas, para que se pudessem espalhar e crescer. E viu o Magma no Centro d'O Mundo, preso num mar de rocha, e libertou-o na superfície. E os segredos brilhantes do seu irmão, trouxe-os ao de cima, para que todos os pudessem ver.

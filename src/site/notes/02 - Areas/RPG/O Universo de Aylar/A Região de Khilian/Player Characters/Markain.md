@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Markain.md","permalink":"/A Região de Khilian/Player Characters/Markain/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:11:57.571+01:00","updated":"2026-01-11T04:54:22.739+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Markain.md","permalink":"/A Região de Khilian/Player Characters/Markain/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:11:57.571+01:00","updated":"2026-01-11T05:12:00.606+00:00"}
 ---
 
 ## Overview
@@ -20,8 +20,3 @@
 ## Backstory
 Última restante de um Reino de elfos há muito esquecido, foi a protetora do rei e o seu braço direito em diversas batalhas. Markain foi a única sobrevivente de uma gigantesca batalha ente o seu reino e uma grande tribo de dragonborn, restando nela apenas o desejo de vingança por essa raça.
 
-
-
-
-
-## Notas Importantes

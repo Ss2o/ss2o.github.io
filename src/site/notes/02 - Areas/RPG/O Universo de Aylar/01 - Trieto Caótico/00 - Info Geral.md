@@ -10,9 +10,9 @@
 ## Personagens:
 | Character Portrait                                                                      | Personagem                                                                                                       | Raça   | Classe      | Player |
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------ | ----------- | ------ |
-| <img src=img/user/03%20-%20Resources%2FRPG%2FImages%2FThornwick%20Quill.png height=150> | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Player Characters/Thornwick Quill\|Thornwick Quill]] | Hedge  | Bardo       | Cassis |
-| <img src=img/user/03%20-%20Resources%2FRPG%2FImages%2FRocket%20Racoon.png height=150>   | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Player Characters/Rocket Racoon\|Rocket Racoon]]     | Mapach | Artificer   | Cross  |
 | <img src=img/user/03%20-%20Resources%2FRPG%2FImages%2FLuthiel%20Felbran.png height=150> | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Player Characters/Luthiel Felbran\|Luthiel Felbran]] | Vulpin | Bardo-Rogue | André  |
+| <img src=img/user/03%20-%20Resources%2FRPG%2FImages%2FRocket%20Racoon.png height=150>   | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Player Characters/Rocket Racoon\|Rocket Racoon]]     | Mapach | Artificer   | Cross  |
+| <img src=img/user/03%20-%20Resources%2FRPG%2FImages%2FThornwick%20Quill.png height=150> | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Player Characters/Thornwick Quill\|Thornwick Quill]] | Hedge  | Bardo       | Cassis |
 
 { .block-language-dataview}
 

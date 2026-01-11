@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Mercurii.md","permalink":"/A Região de Khilian/Player Characters/Mercurii/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:07:20.980+01:00","updated":"2026-01-11T04:54:14.423+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Mercurii.md","permalink":"/A Região de Khilian/Player Characters/Mercurii/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:07:20.980+01:00","updated":"2026-01-11T05:12:15.410+00:00"}
 ---
 
 ## Overview
@@ -17,10 +17,4 @@
 **Espécie:** Changeling
 **Religião:** Unknown
 
-## Backstory
 
-
-
-
-
-## Notas Importantes

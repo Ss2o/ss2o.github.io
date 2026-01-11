@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Myrio Arya.md","permalink":"/A Região de Khilian/NPCs/Myrio Arya/","tags":["khilian","#NPC","aylar"],"created":"2025-02-25T18:08:49.378+00:00","updated":"2026-01-11T04:58:15.195+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Myrio Arya.md","permalink":"/A Região de Khilian/NPCs/Myrio Arya/","tags":["khilian","#NPC","aylar"],"created":"2025-02-25T18:08:49.378+00:00","updated":"2026-01-11T05:10:06.503+00:00"}
 ---
 
 ## Overview
@@ -19,5 +19,3 @@ Filho de [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/NPCs/Sylver A
 Cartógrafo e aventureiro de renome, foi o primeiro [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Culturas/Cultura-Ekhaliana\|Ekhaliano]] a descobrir a cidade de [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Faunia\|Faunia]], que rapidamente se tornou das suas favoritas. Foi também o primeiro em recente memória a visitar e cartografar o Grande Deserto, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khithari\|Khithari]], e a cidade de [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Tharirun\|Tharirun]]. Foi em [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Tharirun\|Tharirun]] que provou pela primeira vez o gosto amargo da quase morte, após ser atacado e escorraçado pelo povo local, os [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Espécies/Mithiashi\|Mithiashi]], que se demonstrou hostil perante os "Povos Verdes", nome depreciativo que utilizam para denominar todos os estrangeiros a [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khithari\|Khithari]].
 
 
-
-## Notas Importantes

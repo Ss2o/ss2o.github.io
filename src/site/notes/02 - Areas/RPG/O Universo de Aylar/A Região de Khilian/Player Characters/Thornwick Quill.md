@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Thornwick Quill.md","permalink":"/A Região de Khilian/Player Characters/Thornwick Quill/","tags":["player-character","khilian","trieto-caótico","aylar"],"created":"2025-09-05T22:14:34.608+01:00","updated":"2026-01-11T04:53:29.181+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Thornwick Quill.md","permalink":"/A Região de Khilian/Player Characters/Thornwick Quill/","tags":["player-character","khilian","trieto-caótico","aylar"],"created":"2025-09-05T22:14:34.608+01:00","updated":"2026-01-11T05:12:28.230+00:00"}
 ---
 
 ## Overview
@@ -16,11 +16,3 @@
 **Classe:** Bardo
 **Espécie:** Hedge
 **Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Sylarismo\|Sylarismo]]
-
-## Backstory
-
-
-
-
-
-## Notas Importantes

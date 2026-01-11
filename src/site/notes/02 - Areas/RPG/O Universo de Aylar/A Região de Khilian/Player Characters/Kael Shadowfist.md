@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Kael Shadowfist.md","permalink":"/A Região de Khilian/Player Characters/Kael Shadowfist/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:10:36.606+01:00","updated":"2026-01-11T04:54:42.665+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Kael Shadowfist.md","permalink":"/A Região de Khilian/Player Characters/Kael Shadowfist/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:10:36.606+01:00","updated":"2026-01-11T05:11:53.958+00:00"}
 ---
 
 ## Overview
@@ -17,10 +17,3 @@
 **Espécie:** Tortle
 **Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Durnovarismo\|Durnovarismo]]
 
-## Backstory
-
-
-
-
-
-## Notas Importantes

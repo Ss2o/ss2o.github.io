@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Divindades/Superiores/Helisara.md","permalink":"/Divindades/Superiores/Helisara/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:06.992+00:00","updated":"2026-01-11T04:49:47.280+00:00"}
+{"dg-publish":true,"dg-path":"Divindades/Superiores/Helisara.md","permalink":"/Divindades/Superiores/Helisara/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:06.992+00:00","updated":"2026-01-11T05:13:03.708+00:00"}
 ---
 
 ## Overview
@@ -12,14 +12,3 @@
 **Títulos:** Deusa do Sol,Deusa da Luz,Deusa do Dia,Deusa da Ordem
 **Correntes Associadas:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Solismo\|Solismo]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Clássico\|Generalismo Clássico]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Pós-Reconstituição\|Generalismo Pós-Reconstituição]]
 
-
-## História
-
-
-
-## Aparência
-
-
-
-
-## Notas Importantes

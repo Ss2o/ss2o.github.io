@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Vitrum Notam.md","permalink":"/A Região de Khilian/Player Characters/Vitrum Notam/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:00:55.131+01:00","updated":"2026-01-11T04:53:40.993+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Vitrum Notam.md","permalink":"/A Região de Khilian/Player Characters/Vitrum Notam/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:00:55.131+01:00","updated":"2026-01-11T05:12:33.632+00:00"}
 ---
 
 ## Overview
@@ -16,11 +16,3 @@
 **Classe:** Artificer
 **Espécie:** Kalashtar
 **Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Durnovarismo\|Durnovarismo]]
-
-## Backstory
-
-
-
-
-
-## Notas Importantes

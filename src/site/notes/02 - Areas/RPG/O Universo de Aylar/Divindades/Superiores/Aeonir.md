@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Divindades/Superiores/Aeonir.md","permalink":"/Divindades/Superiores/Aeonir/","tags":["divindade","aylar"],"created":"2025-02-08T13:47:28.985+00:00","updated":"2026-01-11T04:47:54.852+00:00"}
+{"dg-publish":true,"dg-path":"Divindades/Superiores/Aeonir.md","permalink":"/Divindades/Superiores/Aeonir/","tags":["divindade","aylar"],"created":"2025-02-08T13:47:28.985+00:00","updated":"2026-01-11T05:12:53.292+00:00"}
 ---
 
 ## Overview
@@ -12,14 +12,3 @@
 **Títulos:** Deus do Tempo,O Último Filho,O Grande Neutralizador,O Único e Verdadeiro Deus
 **Correntes Associadas:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Aeonismo\|Aeonismo]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Clássico\|Generalismo Clássico]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Pós-Reconstituição\|Generalismo Pós-Reconstituição]]
 
-
-## História
-
-
-
-## Aparência
-
-
-
-
-## Notas Importantes

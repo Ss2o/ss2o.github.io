@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Divindades/Superiores/Durnovar.md","permalink":"/Divindades/Superiores/Durnovar/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:07.053+00:00","updated":"2026-01-11T04:49:22.927+00:00"}
+{"dg-publish":true,"dg-path":"Divindades/Superiores/Durnovar.md","permalink":"/Divindades/Superiores/Durnovar/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:07.053+00:00","updated":"2026-01-11T05:12:59.897+00:00"}
 ---
 
 ## Overview
@@ -12,13 +12,3 @@
 **Títulos:** Deus da Terra,Deus da Produção,Deus do Magma,Deus da Mineração,Deus da Experiência,Deus da Velhice
 **Correntes Associadas:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Durnovarismo\|Durnovarismo]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Clássico\|Generalismo Clássico]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Pós-Reconstituição\|Generalismo Pós-Reconstituição]]
 
-## História
-
-
-
-## Aparência
-
-
-
-
-## Notas Importantes

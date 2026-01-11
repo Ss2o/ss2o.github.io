@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Rocket Racoon.md","permalink":"/A Região de Khilian/Player Characters/Rocket Racoon/","tags":["player-character","khilian","trieto-caótico","aylar"],"created":"2025-09-05T22:17:31.235+01:00","updated":"2026-01-11T04:53:50.720+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Player Characters/Rocket Racoon.md","permalink":"/A Região de Khilian/Player Characters/Rocket Racoon/","tags":["player-character","khilian","trieto-caótico","aylar"],"created":"2025-09-05T22:17:31.235+01:00","updated":"2026-01-11T05:12:24.424+00:00"}
 ---
 
 ## Overview
@@ -16,11 +16,3 @@
 **Classe:** Artificer
 **Espécie:** Mapach
 **Religião:** Unknown
-
-## Backstory
-
-
-
-
-
-## Notas Importantes

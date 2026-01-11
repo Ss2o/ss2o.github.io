@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Divindades/Superiores/Vaelion.md","permalink":"/Divindades/Superiores/Vaelion/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:07.005+00:00","updated":"2026-01-11T00:12:12.848+00:00"}
+{"dg-publish":true,"dg-path":"Divindades/Superiores/Vaelion.md","permalink":"/Divindades/Superiores/Vaelion/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:07.005+00:00","updated":"2026-01-11T04:28:52.397+00:00"}
 ---
 
 ## Overview

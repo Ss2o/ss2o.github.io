@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Ações, Reações e Ações Livres.md","permalink":"/00 - Sistema/Ações/Ações, Reações e Ações Livres/","tags":["mecânica","aylar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-11T20:30:45.753+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Ações, Reações e Ações Livres.md","permalink":"/00 - Sistema/Ações/Ações, Reações e Ações Livres/","tags":["mecânica","aylar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-11T20:37:43.832+00:00"}
 ---
 
 ## Overview
@@ -14,9 +14,9 @@ A tabela de <span style="color:rgb(230, 90, 25)">Action Points</span> e <span st
 
 Existem ainda <span style="color:rgb(146, 208, 80)">Ações Livres</span>, ações específicas sem custo, que podem ser executadas a qualquer altura, inclusive durante o combate, desde que se reúnam as condições descritas no texto das mesmas (ex: [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Forçar Dados\|Forçar Dados]] é uma <span style="color:rgb(146, 208, 80)">Ação Livre</span>, mas só pode ser usada quando um dado for rodado).
 
-<span style="color:rgb(230, 90, 25)">Ações</span> específicas de cada personagem, como spells ou ataques, têm o seu custo visível à frente do nome da <span style="color:rgb(230, 90, 25)">Ação</span> na ficha do personagem (ex: "Cloud of Daggers 🟠🟠" é um spell com um custo de <span style="color:rgb(230, 90, 25)">2</span> <span style="color:rgb(230, 90, 25)">Action Points</span>). Note-se que 🟠 e 🟪 não substituem os outros custos potencialmente associados a uma <span style="color:rgb(230, 90, 25)">Ação</span> (Spell Slots, componentes, etc...). As restantes <span style="color:rgb(230, 90, 25)">Ações</span> e <span style="color:rgb(163, 126, 196)">Reações</span> genéricas, que todos os personagens podem realizar, ficam aqui sumarizadas:
+<span style="color:rgb(230, 90, 25)">Ações</span> específicas de cada personagem, como spells ou ataques, têm o seu custo visível à frente do nome da <span style="color:rgb(230, 90, 25)">Ação</span> na ficha do personagem (ex: `Cloud of Daggers 🟠🟠` é um spell com um custo de <span style="color:rgb(230, 90, 25)">2</span> <span style="color:rgb(230, 90, 25)">Action Points</span>). Note-se que 🟠 e 🟪 não substituem os outros custos potencialmente associados a uma <span style="color:rgb(230, 90, 25)">Ação</span> (Spell Slots, componentes, etc...). As restantes <span style="color:rgb(230, 90, 25)">Ações</span> e <span style="color:rgb(163, 126, 196)">Reações</span> genéricas, que todos os personagens podem realizar, ficam aqui sumarizadas:
 ## <span style="color:rgb(230, 90, 25)">Ações</span>
-### Ataques desarmados:
+### Ataques Desarmados:
 **Custo:** 🟠
 **Acerto:** Garantido
 **Dano:** 1d4 + STR
@@ -37,17 +37,17 @@ Existem ainda <span style="color:rgb(146, 208, 80)">Ações Livres</span>, açõ
 **Custo:** 🟪🟪
 **Acerto:** 1d20+DEX contra a rolagem de ataque do inimigo
 **Efeito:** Caso acerte não leva dano, caso falhe leva metade do dano
-**Efeito Secundário:** Caso acerte, é possível fazer um ataque de acerto garantido, que conta como uma ação fora de turno
+**Efeito Secundário:** Caso acerte, é possível fazer um ataque de acerto garantido, que conta como uma ação fora de turno (ex: um [[#Ataques desarmados|Ataque Desarmado]] com um custo de 🟪🟪🟪) 
 
 ### Block:
 **Custo:** 🟪
 **Acerto:** Garantido
-**Efeito:** 3d4+STR de defesa contra o dano
+**Efeito:** 3d4+STR de defesa contra o dano físico
 
 ### Magical Block:
 **Custo:** 🟪
 **Acerto:** Garantido
-**Efeito:** 3d4+INT de defesa contra o dano
+**Efeito:** 3d4+INT de defesa contra o dano mágico
 
 ### Oportunity Attack:
 **Custo**: 🟪 por cada 🟠 do ataque
@@ -55,4 +55,4 @@ Existem ainda <span style="color:rgb(146, 208, 80)">Ações Livres</span>, açõ
 **Condição:** Pode ser ativado contra um inimigo que saia da área imediata do personagem 
 
 ## Executar <span style="color:rgb(230, 90, 25)">Ações</span> fora do turno
-É possível que um personagem execute uma <span style="color:rgb(230, 90, 25)">Ação</span> fora do seu turno, gastando 🟪🟪🟪 por cada 🟠 da <span style="color:rgb(230, 90, 25)">Ação</span> que quer realizar. No entanto, isto apenas pode ser feito no fim de um turno, ou então durante o turno de outro player, se esse player permitir. (ex: Um player usa o feitiço "Cloud of Daggers 🟠🟠" durante o turno de outro membro da party, gastando <span style="color:rgb(163, 126, 196)">6</span>🟪)
+É possível que um personagem execute uma <span style="color:rgb(230, 90, 25)">Ação</span> fora do seu turno, gastando 🟪🟪🟪 por cada 🟠 da <span style="color:rgb(230, 90, 25)">Ação</span> que quer realizar. No entanto, isto apenas pode ser feito durante o turno de outro player, se esse player permitir, ou então no fim de um turno qualquer. (ex: Um player usa o feitiço `Cloud of Daggers 🟠🟠` durante o turno de outro membro da party, gastando <span style="color:rgb(163, 126, 196)">6</span>🟪)

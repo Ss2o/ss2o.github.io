@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","title":"O Universo de Aylar","hide":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-11T05:39:03.354+00:00"}
+{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","title":"O Universo de Aylar","hide":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-11T05:47:44.749+00:00"}
 ---
 
 # O Universo de Aylar
 
 Bem vindos ao Universo de Aylar, um lugar onde terão acesso direto a uma parte do meu Vault do Obsidian, organizado num formato de Wiki, para fácil acesso a informações sobre o Sistema e o Universo dos TTRPGs que (ocasionalmente) jogamos.
 
-Campanhas Passadas: **O Ataque à Câmara dos Nobres**
-Campanhas Ativas: [[02 - Areas/RPG/O Universo de Aylar/01 - Trieto Caótico/00 - Info Geral\|Trieto Caótico]]
+Campanhas Passadas: [[02 - Areas/RPG/O Universo de Aylar/01 - O Ataque à Câmara dos Nobres/00 - Info Geral\|O Ataque à Câmara dos Nobres]]
+Campanhas Ativas: [[02 - Areas/RPG/O Universo de Aylar/02 - Trieto Caótico/00 - Info Geral\|Trieto Caótico]]
 
 ## O Universo de Aylar
 

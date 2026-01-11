@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Documentos Históricos/00 - Convenções Históricas.md","permalink":"/A Região de Khilian/Documentos Históricos/00 - Convenções Históricas/","title":"Convenções Históricas","tags":["khilian","aylar"],"created":"2026-01-11T13:50:01.445+00:00","updated":"2026-01-11T22:41:55.699+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Documentos Históricos/00 - Convenções Históricas.md","permalink":"/A Região de Khilian/Documentos Históricos/00 - Convenções Históricas/","title":"Convenções Históricas","tags":["khilian","aylar"],"created":"2026-01-11T13:50:01.445+00:00","updated":"2026-01-11T22:48:15.936+00:00"}
 ---
 
 # Sistema de Datas
@@ -10,7 +10,7 @@ Desde os primórdios da civilização em [[02 - Areas/RPG/O Universo de Aylar/A 
 - **A Era da Guerra:** Ano d'[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Traição de Vaelthor\|A Traição de Vaelthor]] - Ano do fim d'[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Divina Guerra\|A Divina Guerra]] (4730 - 4310 [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/00 - Convenções Históricas#Sistema Pós- A Reconstituição Reconstituição\|AR]]);
 - **A Era da Paz:** Ano seguinte ao fim d'[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Divina Guerra\|A Divina Guerra]] - Ano d'[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Reconstituição\|A Reconstituição]] (4309 [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/00 - Convenções Históricas#Sistema Pós- A Reconstituição Reconstituição\|AR]] - [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/00 - Convenções Históricas#Sistema Pós- A Reconstituição Reconstituição\|Ano 0]]).
 
-Assim, o ano 4728 [[#Sistema Pós- A Reconstituição Reconstituição|AR]], por exemplo, era conhecido como "O Ano 2 da Era da Guerra" ou "2 EG", e o ano 4000 [[#Sistema Pós- A Reconstituição Reconstituição|AR]] era conhecido como "O Ano 309 da Era da Paz" ou "309 EP".
+Assim, o ano 4728 [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/00 - Convenções Históricas#Sistema Pós- A Reconstituição Reconstituição\|AR]], por exemplo, era conhecido como "O Ano 2 da Era da Guerra" ou "2 EG", e o ano 4000 [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/00 - Convenções Históricas#Sistema Pós- A Reconstituição Reconstituição\|AR]] era conhecido como "O Ano 309 da Era da Paz" ou "309 EP".
 
 O uso da "Era da Criação", no entanto, era meramente simbólico. Uma vez que esta Era tem duração e ano de início completamente desconhecidos (ainda que muitos tenham tentado estimá-los), e não possui eventos significativos com datação precisa, o uso do termo "Era da Criação" era apenas usado para denotar genericamente tudo o que é anterior à [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Divina Guerra\|Divina Guerra]].
 

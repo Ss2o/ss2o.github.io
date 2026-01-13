@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Ações, Reações e Ações Livres.md","permalink":"/00 - Sistema/Ações/Ações, Reações e Ações Livres/","tags":["mecânica","aylar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-13T02:38:17.662+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Ações, Reações e Ações Livres.md","permalink":"/00 - Sistema/Ações/Ações, Reações e Ações Livres/","tags":["mecânica","aylar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-13T02:43:31.898+00:00"}
 ---
 
 ## Overview
 
 **Tipo:** Mecânica
 **Custo:** 🟠 ou 🟪
+**Última Modificação:** [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/changelog-v0.2.0\|v0.2.0]]
 ## Descrição
 
 <span style="color:rgb(230, 90, 25)">Ações</span> e <span style="color:rgb(163, 126, 196)">Reações</span> realizadas durante um combate (ou outro momento à base de turnos) são baseadas em <span style="color:rgb(230, 90, 25)">Action Points</span> 🟠 e <span style="color:rgb(163, 126, 196)">Reaction Points</span> 🟪. Cada personagem possui uma certa quantidade de 🟠 e 🟪, restaurados automaticamente no início do seu turno. 🟠 servem única e exclusivamente para realizar ações durante o turno de um personagem, enquanto que 🟪 servem apenas para realizar ações fora do mesmo. 

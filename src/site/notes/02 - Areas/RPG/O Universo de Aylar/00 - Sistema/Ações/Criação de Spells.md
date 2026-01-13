@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Criação de Spells.md","permalink":"/00 - Sistema/Ações/Criação de Spells/","tags":["mecânica","aylar"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-13T02:38:17.698+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Criação de Spells.md","permalink":"/00 - Sistema/Ações/Criação de Spells/","tags":["mecânica","aylar"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-13T02:43:35.730+00:00"}
 ---
 
 ## Overview
 
 **Tipo:** <span style="color:rgb(230, 90, 25)">Ação</span>
 **Custo:** 🟠 (+ uma certa quantidade opcional de 🟠 extra) + Spell Slot equivalente ao nível do feitiço (decidido pelo DM)
+**Última Modificação:** [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/changelog-v0.2.0\|v0.2.0]]
 ## Descrição
 
 Uma vez por cada turno, alguns dos players  podem gastar 🟠 para criar um feitiço. O player deve utilizar no máximo 3 palavras para definir o nome do feitiço, além de rodar 1d20+X (sendo X = 2 x a quantidade de 🟠 extra) para ver o quão bem sucedida é a criação do feitiço. Os efeitos deste feitiço serão definidos pelo DM com base no valor do dado e no nome do feitiço. Com base nos efeitos o DM decide também o nível do feitiço.

@@ -10,10 +10,11 @@ body {
     //  h1 {
     //   color: black;
     //  }
-
-	.callout {
-	float: right
-	}	
+	@media screen and (min-width: 400px){
+		.callout {
+		float: right
+		}	
+	}
 }
 
 

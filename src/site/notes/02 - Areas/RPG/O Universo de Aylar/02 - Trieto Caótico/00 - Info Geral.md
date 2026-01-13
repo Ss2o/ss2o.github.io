@@ -10,8 +10,8 @@
 ## Personagens
 | Character Portrait                                                                      | Personagem                                                                                   | Raça   | Classe      | Player |
 | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------ | ----------- | ------ |
-| <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FThornwick%20Quill.png width=100> | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Thornwick Quill\|Thornwick Quill]] | Hedge  | Bardo       | Cassis |
 | <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FRocket%20Racoon.png width=100>   | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Rocket Racoon\|Rocket Racoon]]     | Mapach | Artificer   | Cross  |
+| <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FThornwick%20Quill.png width=100> | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Thornwick Quill\|Thornwick Quill]] | Hedge  | Bardo       | Cassis |
 | <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FLuthiel%20Felbran.png width=100> | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Luthiel Felbran\|Luthiel Felbran]] | Vulpin | Bardo-Rogue | André  |
 
 { .block-language-dataview}

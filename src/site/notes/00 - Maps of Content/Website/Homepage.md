@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","title":"O Universo de Aylar","hide":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-13T02:22:11.911+00:00"}
+{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","title":"O Universo de Aylar","hide":true,"tags":["gardenEntry"],"created":"2026-01-13T03:31:42.583+00:00","updated":"2026-01-13T02:22:11.911+00:00"}
 ---
 
 # O Universo de Aylar
@@ -42,9 +42,9 @@ Campanhas Ativas: [[02 - Areas/RPG/O Universo de Aylar/02 - Trieto Caótico/00 -
 | Evento                                                                                                                                      | Data                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Reconstituição\|A Reconstituição]]                         | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/00 - Convenções Históricas\|Ano 0]]                                              |
-| [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/O Ataque à Câmara dos Nobres\|O Ataque à Câmara dos Nobres]] | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/00 - Convenções Históricas#Sistema Pós- A Reconstituição Reconstituição\|Ano 0]] |
-| [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Traição de Vaelthor\|A Traição de Vaelthor]]               | ~ 4730 AR                                                                                                                                                          |
 | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Divina Guerra\|A Divina Guerra]]                           | ~ 4730 - 4310 AR                                                                                                                                                   |
+| [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Traição de Vaelthor\|A Traição de Vaelthor]]               | ~ 4730 AR                                                                                                                                                          |
+| [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/O Ataque à Câmara dos Nobres\|O Ataque à Câmara dos Nobres]] | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/00 - Convenções Históricas#Sistema Pós- A Reconstituição Reconstituição\|Ano 0]] |
 
 { .block-language-dataview}
 
@@ -79,7 +79,7 @@ Campanhas Ativas: [[02 - Areas/RPG/O Universo de Aylar/02 - Trieto Caótico/00 -
 ### Changelogs
 | Versão                                                                                                             | Data de Publicação |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------ |
-| <ul><li>[[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/changelog-v0.2.0.md\\|v0.2.0]]</li></ul> | 09/01/2026 18:22   |
+| <ul><li>[[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/changelog-v0.2.0.md\\|v0.2.0]]</li></ul> | 13/01/2026 03:31   |
 
 { .block-language-dataview}
 

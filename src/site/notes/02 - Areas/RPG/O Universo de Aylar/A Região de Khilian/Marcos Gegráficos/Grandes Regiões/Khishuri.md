@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khishuri.md","permalink":"/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khishuri/","tags":["região","khilian","#marco-geográfico","aylar"],"created":"2025-09-05T20:59:40.298+01:00","updated":"2026-01-11T17:45:57.476+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khishuri.md","permalink":"/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khishuri/","tags":["região","khilian","#marco-geográfico","aylar"],"created":"2026-01-12T21:51:29.489+00:00","updated":"2026-01-11T17:45:57.475+00:00"}
 ---
 
 ## Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Culturas/Cultura-Ekhaliana.md","permalink":"/A Região de Khilian/Culturas/Cultura-Ekhaliana/","title":"Cultura Ekhaliana","tags":["cultura","khilian","aylar"],"created":"2025-02-08T16:10:07.592+00:00","updated":"2026-01-11T22:36:14.419+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Culturas/Cultura-Ekhaliana.md","permalink":"/A Região de Khilian/Culturas/Cultura-Ekhaliana/","title":"Cultura Ekhaliana","tags":["cultura","khilian","aylar"],"created":"2026-01-12T21:51:20.837+00:00","updated":"2026-01-11T22:36:14.419+00:00"}
 ---
 
 ## Overview

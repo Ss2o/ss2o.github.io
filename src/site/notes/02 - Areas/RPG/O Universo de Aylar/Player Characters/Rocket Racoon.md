@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Player Characters/Rocket Racoon.md","permalink":"/Player Characters/Rocket Racoon/","tags":["player-character","khilian","trieto-caótico","aylar"],"created":"2025-09-05T22:17:31.235+01:00","updated":"2026-01-11T05:43:10.313+00:00"}
+{"dg-publish":true,"dg-path":"Player Characters/Rocket Racoon.md","permalink":"/Player Characters/Rocket Racoon/","tags":["player-character","khilian","trieto-caótico","aylar"],"created":"2026-01-12T21:51:41.385+00:00","updated":"2026-01-11T05:43:10.312+00:00"}
 ---
 
 ## Overview

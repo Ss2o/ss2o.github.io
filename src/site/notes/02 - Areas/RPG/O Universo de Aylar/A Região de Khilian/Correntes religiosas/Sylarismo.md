@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Sylarismo.md","permalink":"/A Região de Khilian/Correntes religiosas/Sylarismo/","tags":["religião","khilian","aylar"],"created":"2025-02-08T16:05:19.304+00:00","updated":"2026-01-10T20:39:43.556+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Sylarismo.md","permalink":"/A Região de Khilian/Correntes religiosas/Sylarismo/","tags":["religião","khilian","aylar"],"created":"2026-01-10T21:40:22.183+00:00","updated":"2026-01-10T20:39:43.556+00:00"}
 ---
 
 ## Overview

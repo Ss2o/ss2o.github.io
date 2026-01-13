@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Libercaoticismo.md","permalink":"/A Região de Khilian/Correntes religiosas/Libercaoticismo/","tags":["religião","khilian","aylar"],"created":"2025-02-08T16:20:37.761+00:00","updated":"2026-01-11T22:19:07.119+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Libercaoticismo.md","permalink":"/A Região de Khilian/Correntes religiosas/Libercaoticismo/","tags":["religião","khilian","aylar"],"created":"2026-01-12T21:51:19.197+00:00","updated":"2026-01-11T22:19:07.119+00:00"}
 ---
 
 ## Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Documentos Históricos/00 - Convenções Históricas.md","permalink":"/A Região de Khilian/Documentos Históricos/00 - Convenções Históricas/","title":"Convenções Históricas","tags":["khilian","aylar"],"created":"2026-01-11T13:50:01.445+00:00","updated":"2026-01-11T22:48:15.936+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Documentos Históricos/00 - Convenções Históricas.md","permalink":"/A Região de Khilian/Documentos Históricos/00 - Convenções Históricas/","title":"Convenções Históricas","tags":["khilian","aylar"],"created":"2026-01-12T21:51:22.061+00:00","updated":"2026-01-11T22:48:15.935+00:00"}
 ---
 
 # Sistema de Datas

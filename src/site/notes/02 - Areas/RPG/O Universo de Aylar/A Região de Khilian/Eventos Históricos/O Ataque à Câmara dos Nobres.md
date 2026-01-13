@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Eventos Históricos/O Ataque à Câmara dos Nobres.md","permalink":"/A Região de Khilian/Eventos Históricos/O Ataque à Câmara dos Nobres/","tags":["evento-histórico","khilian","aylar"],"created":"2026-01-11T19:08:14.764+00:00","updated":"2026-01-11T20:44:06.790+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Eventos Históricos/O Ataque à Câmara dos Nobres.md","permalink":"/A Região de Khilian/Eventos Históricos/O Ataque à Câmara dos Nobres/","tags":["evento-histórico","khilian","aylar"],"created":"2026-01-12T21:51:27.289+00:00","updated":"2026-01-11T20:44:06.790+00:00"}
 ---
 
 ## Overview

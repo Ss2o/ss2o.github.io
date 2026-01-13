@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Ações, Reações e Ações Livres.md","permalink":"/00 - Sistema/Ações/Ações, Reações e Ações Livres/","tags":["mecânica","aylar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-13T02:43:31.898+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Ações, Reações e Ações Livres.md","permalink":"/00 - Sistema/Ações/Ações, Reações e Ações Livres/","tags":["mecânica","aylar"],"created":"2026-01-13T03:31:43.595+00:00","updated":"2026-01-13T10:35:00.043+00:00"}
 ---
 
 ## Overview
@@ -44,11 +44,13 @@ Existem ainda <span style="color:rgb(146, 208, 80)">Ações Livres</span>, açõ
 **Custo:** 🟪
 **Acerto:** Garantido
 **Efeito:** 3d4+STR de defesa contra o dano físico
+**Condição:** Só é possível usar um block por ataque sofrido (ex: se o inimigo fizer 3 ataques, só é possível usar até 3 blocks)
 
 ### Magical Block:
 **Custo:** 🟪
 **Acerto:** Garantido
 **Efeito:** 3d4+INT de defesa contra o dano mágico
+**Condição:** Só é possível usar um block por ataque sofrido (ex: se o inimigo fizer 3 ataques, só é possível usar até 3 blocks)
 
 ### Oportunity Attack:
 **Custo**: 🟪 por cada 🟠 do ataque

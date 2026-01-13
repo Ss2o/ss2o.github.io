@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Paternalismo.md","permalink":"/A Região de Khilian/Correntes religiosas/Paternalismo/","tags":["religião","khilian","aylar"],"created":"2025-02-08T15:04:17.456+00:00","updated":"2026-01-11T23:10:42.757+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Paternalismo.md","permalink":"/A Região de Khilian/Correntes religiosas/Paternalismo/","tags":["religião","khilian","aylar"],"created":"2026-01-12T21:51:19.185+00:00","updated":"2026-01-11T23:10:42.757+00:00"}
 ---
 
 ## Overview

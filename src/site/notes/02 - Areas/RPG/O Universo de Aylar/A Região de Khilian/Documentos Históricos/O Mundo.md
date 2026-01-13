@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Documentos Históricos/O Mundo.md","permalink":"/A Região de Khilian/Documentos Históricos/O Mundo/","title":"O Mundo","tags":["doc-histórico","khilian","aylar"],"created":"2025-02-25T18:08:49.342+00:00","updated":"2026-01-11T20:57:19.235+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Documentos Históricos/O Mundo.md","permalink":"/A Região de Khilian/Documentos Históricos/O Mundo/","title":"O Mundo","tags":["doc-histórico","khilian","aylar"],"created":"2026-01-12T21:51:24.481+00:00","updated":"2026-01-11T20:57:19.235+00:00"}
 ---
 
 ## Overview

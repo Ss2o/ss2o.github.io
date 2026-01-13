@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Generalismo-Clássico.md","permalink":"/A Região de Khilian/Correntes religiosas/Generalismo-Clássico/","tags":["religião","khilian","aylar"],"created":"2025-02-25T18:08:49.442+00:00","updated":"2026-01-11T22:16:07.724+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Generalismo-Clássico.md","permalink":"/A Região de Khilian/Correntes religiosas/Generalismo-Clássico/","tags":["religião","khilian","aylar"],"created":"2026-01-12T21:51:17.881+00:00","updated":"2026-01-11T22:16:07.724+00:00"}
 ---
 
 ## Overview

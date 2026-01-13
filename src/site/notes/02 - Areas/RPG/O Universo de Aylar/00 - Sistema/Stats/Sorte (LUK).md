@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Stats/Sorte (LUK).md","permalink":"/00 - Sistema/Stats/Sorte (LUK)/","tags":["mecânica","aylar"],"created":"2026-01-09T01:00:44.594+00:00","updated":"2026-01-13T02:43:45.466+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Stats/Sorte (LUK).md","permalink":"/00 - Sistema/Stats/Sorte (LUK)/","tags":["mecânica","aylar"],"created":"2026-01-13T03:31:45.255+00:00","updated":"2026-01-13T02:43:45.466+00:00"}
 ---
 
 ## Overview

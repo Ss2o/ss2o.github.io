@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Cidades/Ekhalis.md","permalink":"/A Região de Khilian/Cidades/Ekhalis/","tags":["cidade","khilian","aylar"],"created":"2026-01-10T13:57:13.823+00:00","updated":"2026-01-11T20:52:12.047+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Cidades/Ekhalis.md","permalink":"/A Região de Khilian/Cidades/Ekhalis/","tags":["cidade","khilian","aylar"],"created":"2026-01-12T21:51:13.505+00:00","updated":"2026-01-11T20:52:12.047+00:00"}
 ---
 
 ## Overview

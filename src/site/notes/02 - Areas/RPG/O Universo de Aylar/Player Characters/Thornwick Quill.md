@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Player Characters/Thornwick Quill.md","permalink":"/Player Characters/Thornwick Quill/","tags":["player-character","khilian","trieto-caótico","aylar"],"created":"2025-09-05T22:14:34.608+01:00","updated":"2026-01-11T05:43:10.280+00:00"}
+{"dg-publish":true,"dg-path":"Player Characters/Thornwick Quill.md","permalink":"/Player Characters/Thornwick Quill/","tags":["player-character","khilian","trieto-caótico","aylar"],"created":"2026-01-12T21:51:42.493+00:00","updated":"2026-01-11T05:43:10.279+00:00"}
 ---
 
 ## Overview

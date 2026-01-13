@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Steuen Gouriard.md","permalink":"/A Região de Khilian/NPCs/Steuen Gouriard/","tags":["NPC","aylar","#khilian"],"created":"2026-01-11T19:29:25.421+00:00","updated":"2026-01-11T20:23:11.022+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Steuen Gouriard.md","permalink":"/A Região de Khilian/NPCs/Steuen Gouriard/","tags":["NPC","aylar","#khilian"],"created":"2026-01-12T21:51:34.069+00:00","updated":"2026-01-11T20:23:11.022+00:00"}
 ---
 
 ## Overview

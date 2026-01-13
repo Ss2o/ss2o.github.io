@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Player Characters/Mercurii.md","permalink":"/Player Characters/Mercurii/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:07:20.980+01:00","updated":"2026-01-11T05:45:16.388+00:00"}
+{"dg-publish":true,"dg-path":"Player Characters/Mercurii.md","permalink":"/Player Characters/Mercurii/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2026-01-12T21:51:41.609+00:00","updated":"2026-01-11T05:45:16.388+00:00"}
 ---
 
 ## Overview

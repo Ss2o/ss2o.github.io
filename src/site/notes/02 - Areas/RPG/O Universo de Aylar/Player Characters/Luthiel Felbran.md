@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Player Characters/Luthiel Felbran.md","permalink":"/Player Characters/Luthiel Felbran/","tags":["player-character","khilian","trieto-caótico","aylar"],"created":"2025-09-05T22:15:48.535+01:00","updated":"2026-01-11T05:43:10.242+00:00"}
+{"dg-publish":true,"dg-path":"Player Characters/Luthiel Felbran.md","permalink":"/Player Characters/Luthiel Felbran/","tags":["player-character","khilian","trieto-caótico","aylar"],"created":"2026-01-12T21:51:40.029+00:00","updated":"2026-01-11T05:43:10.242+00:00"}
 ---
 
 ## Overview

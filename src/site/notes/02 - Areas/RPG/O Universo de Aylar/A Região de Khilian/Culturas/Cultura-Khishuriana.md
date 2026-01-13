@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Culturas/Cultura-Khishuriana.md","permalink":"/A Região de Khilian/Culturas/Cultura-Khishuriana/","title":"Cultura Khishuriana","tags":["cultura","khilian","aylar"],"created":"2025-09-05T19:56:00.218+01:00","updated":"2026-01-11T22:37:43.961+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Culturas/Cultura-Khishuriana.md","permalink":"/A Região de Khilian/Culturas/Cultura-Khishuriana/","title":"Cultura Khishuriana","tags":["cultura","khilian","aylar"],"created":"2026-01-12T21:51:20.629+00:00","updated":"2026-01-11T22:37:43.960+00:00"}
 ---
 
 ## Overview

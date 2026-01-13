@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","title":"O Universo de Aylar","hide":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-11T20:38:21.922+00:00"}
+{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","title":"O Universo de Aylar","hide":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-13T02:22:11.911+00:00"}
 ---
 
 # O Universo de Aylar
@@ -77,9 +77,9 @@ Campanhas Ativas: [[02 - Areas/RPG/O Universo de Aylar/02 - Trieto Caótico/00 -
 { .block-language-dataview}
 
 ### Changelogs
-| Changelog                                                                                                 | Versão                                                                                          | Data de Publicação |
-| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------ |
-| [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/Changelog v0.2.0\|Changelog v0.2.0]] | [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/Changelog v0.2.0\|v0.2.0]] | 09/01/2026 18:22   |
+| Versão                                                                                                             | Data de Publicação |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------ |
+| <ul><li>[[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/Changelog v0.2.0.md\\|v0.2.0]]</li></ul> | 09/01/2026 18:22   |
 
 { .block-language-dataview}
 

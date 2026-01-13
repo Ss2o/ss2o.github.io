@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Criação de Spells.md","permalink":"/00 - Sistema/Ações/Criação de Spells/","tags":["mecânica","aylar"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-13T02:43:35.730+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Criação de Spells.md","permalink":"/00 - Sistema/Ações/Criação de Spells/","tags":["mecânica","aylar"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-13T17:18:40.101+00:00"}
 ---
 
 ## Overview
 
-**Tipo:** <span style="color:rgb(230, 90, 25)">Ação</span>
+**Tipo:** <span style="color:rgb(255, 99, 39)">Ação</span>
 **Custo:** 🟠 (+ uma certa quantidade opcional de 🟠 extra) + Spell Slot equivalente ao nível do feitiço (decidido pelo DM)
 **Última Modificação:** [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/changelog-v0.2.0\|v0.2.0]]
 ## Descrição

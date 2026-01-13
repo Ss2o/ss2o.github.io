@@ -62,24 +62,24 @@ Campanhas Ativas: [[02 - Areas/RPG/O Universo de Aylar/02 - Trieto Caótico/00 -
 ### Stats
 | Mecânica                                                                              | Versão da Última Modificação                                                                    |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Stats/Sorte (LUK)\|Sorte (LUK)]] | [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/Changelog v0.2.0\|v0.2.0]] |
+| [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Stats/Sorte (LUK)\|Sorte (LUK)]] | [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/changelog-v0.2.0\|v0.2.0]] |
 
 { .block-language-dataview}
 
 ### Ações
 | Mecânica                                                                                                                  | Versão da Última Modificação                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Ações, Reações e Ações Livres\|Ações, Reações e Ações Livres]] | [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/Changelog v0.2.0\|v0.2.0]] |
-| [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Criação de Spells\|Criação de Spells]]                         | [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/Changelog v0.2.0\|v0.2.0]] |
-| [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Critical Hits\|Critical Hits]]                                 | [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/Changelog v0.2.0\|v0.2.0]] |
-| [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Forçar Dados\|Forçar Dados]]                                   | [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/Changelog v0.2.0\|v0.2.0]] |
+| [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Ações, Reações e Ações Livres\|Ações, Reações e Ações Livres]] | [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/changelog-v0.2.0\|v0.2.0]] |
+| [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Criação de Spells\|Criação de Spells]]                         | [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/changelog-v0.2.0\|v0.2.0]] |
+| [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Critical Hits\|Critical Hits]]                                 | [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/changelog-v0.2.0\|v0.2.0]] |
+| [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Forçar Dados\|Forçar Dados]]                                   | [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/changelog-v0.2.0\|v0.2.0]] |
 
 { .block-language-dataview}
 
 ### Changelogs
 | Versão                                                                                                             | Data de Publicação |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------ |
-| <ul><li>[[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/Changelog v0.2.0.md\\|v0.2.0]]</li></ul> | 09/01/2026 18:22   |
+| <ul><li>[[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/changelog-v0.2.0.md\\|v0.2.0]]</li></ul> | 09/01/2026 18:22   |
 
 { .block-language-dataview}
 

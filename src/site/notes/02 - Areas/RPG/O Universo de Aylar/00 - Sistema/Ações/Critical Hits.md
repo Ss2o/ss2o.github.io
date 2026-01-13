@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Critical Hits.md","permalink":"/00 - Sistema/Ações/Critical Hits/","tags":["mecânica","aylar"],"created":"2026-01-09T00:54:23.592+00:00","updated":"2026-01-13T02:13:58.745+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Critical Hits.md","permalink":"/00 - Sistema/Ações/Critical Hits/","tags":["mecânica","aylar"],"created":"2026-01-09T00:54:23.592+00:00","updated":"2026-01-13T02:38:17.723+00:00"}
 ---
 
 ## Overview

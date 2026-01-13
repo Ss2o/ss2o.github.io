@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Forçar Dados.md","permalink":"/00 - Sistema/Ações/Forçar Dados/","tags":["mecânica","aylar"],"created":"2026-01-06T20:34:07.617+00:00","updated":"2026-01-13T02:14:09.543+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Forçar Dados.md","permalink":"/00 - Sistema/Ações/Forçar Dados/","tags":["mecânica","aylar"],"created":"2026-01-06T20:34:07.617+00:00","updated":"2026-01-13T02:38:17.748+00:00"}
 ---
 
 ## Overview

@@ -1,8 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","title":"O Universo de Aylar","hide":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-13T15:46:24.861+00:00"}
+{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","title":"O Universo de Aylar","hide":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-13T16:54:07.616+00:00"}
 ---
 
 # O Universo de Aylar
+
+[![Aeonir.jpeg|150](/img/user/03%20-%20Resources/RPG/Images/Aeonir.jpeg)
+](Aeonir)
+
+
+
+
+
 Bem vindos ao Universo de Aylar, um lugar onde terão acesso direto a uma parte do meu Vault do Obsidian, organizado num formato de Wiki, para fácil acesso a informações sobre o Sistema e o Universo dos TTRPGs que (ocasionalmente) jogamos. (Dica: quando o texto está [[00 - Maps of Content/Website/Homepage\|assim]], significa que é um link em que podem clicar para saber mais informaçóes!)
 
 Campanhas Passadas: [[02 - Areas/RPG/O Universo de Aylar/01 - O Ataque à Câmara dos Nobres/00 - Info Geral\|O Ataque à Câmara dos Nobres]]

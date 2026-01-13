@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Criação de Spells.md","permalink":"/00 - Sistema/Ações/Criação de Spells/","tags":["mecânica","aylar"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-11T20:43:10.846+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Criação de Spells.md","permalink":"/00 - Sistema/Ações/Criação de Spells/","tags":["mecânica","aylar"],"created":"2025-11-16T20:04:20.829+00:00","updated":"2026-01-13T02:07:32.058+00:00"}
 ---
 
 ## Overview
@@ -26,6 +26,6 @@ Nível: 3
 Efeito: Abre qualquer porta que esteja à frente do caster, desde que esta não esteja trancada com um feitiço de nível superior (>1).
 Nível: 1
 
-`Matar`<span style="color:rgb(230, 90, 25)">6</span>🟠, Dado (1d20+10): 30
+`Matar 6🟠`, Dado (1d20+10): 30
 Efeito: Mata instantaneamente qualquer criatura desejada.
 Nível: 9

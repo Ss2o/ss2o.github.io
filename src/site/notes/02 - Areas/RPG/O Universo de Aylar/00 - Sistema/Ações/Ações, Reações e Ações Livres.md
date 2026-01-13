@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Ações, Reações e Ações Livres.md","permalink":"/00 - Sistema/Ações/Ações, Reações e Ações Livres/","tags":["mecânica","aylar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-11T20:47:02.045+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Ações, Reações e Ações Livres.md","permalink":"/00 - Sistema/Ações/Ações, Reações e Ações Livres/","tags":["mecânica","aylar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-13T02:08:07.916+00:00"}
 ---
 
 ## Overview
@@ -55,4 +55,4 @@ Existem ainda <span style="color:rgb(146, 208, 80)">Ações Livres</span>, açõ
 **Condição:** Pode ser ativado contra um inimigo que saia da área imediata do personagem 
 
 ## Executar <span style="color:rgb(230, 90, 25)">Ações</span> fora do turno
-É possível que um personagem execute uma <span style="color:rgb(230, 90, 25)">Ação</span> fora do seu turno, gastando 🟪🟪🟪 por cada 🟠 da <span style="color:rgb(230, 90, 25)">Ação</span> que quer realizar. No entanto, isto apenas pode ser feito durante o turno de outro player, se esse player permitir, ou então no fim de um turno qualquer. (ex: Um player usa o feitiço `Cloud of Daggers 🟠🟠` durante o turno de outro membro da party, gastando <span style="color:rgb(163, 126, 196)">6</span>🟪)
+É possível que um personagem execute uma <span style="color:rgb(230, 90, 25)">Ação</span> fora do seu turno, gastando 🟪🟪🟪 por cada 🟠 da <span style="color:rgb(230, 90, 25)">Ação</span> que quer realizar. No entanto, isto apenas pode ser feito durante o turno de outro player, se esse player permitir, ou então no fim de um turno qualquer. (ex: Um player usa o feitiço `Cloud of Daggers 🟠🟠` durante o turno de outro membro da party, gastando 6🟪)

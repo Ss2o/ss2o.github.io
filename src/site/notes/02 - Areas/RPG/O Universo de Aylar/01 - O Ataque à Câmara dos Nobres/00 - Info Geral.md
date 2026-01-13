@@ -11,12 +11,12 @@
 | Character Portrait                                                                           | Personagem                                                                                             | Raça       | Classe         | Player |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- | -------------- | ------ |
 | <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FVitrum%20Notam.png width=100>         | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Vitrum Notam\|Vitrum Notam]]                 | Kalashtar  | Artificer      | André  |
+| <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FRatosk%20Steelwhisker.png width=100>  | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Ratosk Steelwhisker\|Ratosk Steelwhisker]]   | Jerbeen    | Fighter        | Cassis |
 | <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FMercurii.png width=100>               | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Mercurii\|Mercurii]]                         | Changeling | Warlock        | Vasco  |
 | <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FMarkain.png width=100>                | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Markain\|Markain]]                           | Elfo       | Paladin        | Fita   |
 | <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FKael%20Shadowfist.png width=100>      | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Kael Shadowfist\|Kael Shadowfist]]           | Tortle     | Monk-Barbarian | Cross  |
-| <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FEcho%20Arya.png width=100>            | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Echo Arya\|Echo Arya]]                       | Changeling | Bardo          | Cassis |
 | <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FAsmodeus%20Swordniffle.png width=100> | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Asmodeus Swordniffle\|Asmodeus Swordniffle]] | Corvum     | Wizard         | André  |
-| <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FRatosk%20Steelwhisker.png width=100>  | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Ratosk Steelwhisker\|Ratosk Steelwhisker]]   | Jerbeen    | Fighter        | Cassis |
+| <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FEcho%20Arya.png width=100>            | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Echo Arya\|Echo Arya]]                       | Changeling | Bardo          | Cassis |
 
 { .block-language-dataview}
 

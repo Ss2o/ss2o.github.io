@@ -10,6 +10,15 @@ body {
     //  h1 {
     //   color: black;
     //  }
+	.callout {
+	    --callout-color: transparent;
+	}
+
+	.callout.title {
+		color: transparent;
+	}
+	
+	
 	@media screen and (min-width: 400px){
 		.callout {
 		float: right

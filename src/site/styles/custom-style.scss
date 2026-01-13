@@ -10,11 +10,11 @@ body {
     //  h1 {
     //   color: black;
     //  }
-	.callout {
+	.callout[data-callout="info"] {
 	    --callout-color: transparent;
 	}
 
-	.callout-is-collapsible {
+	.callout.is-collapsible {
 	    --callout-color: transparent;
 	}
 

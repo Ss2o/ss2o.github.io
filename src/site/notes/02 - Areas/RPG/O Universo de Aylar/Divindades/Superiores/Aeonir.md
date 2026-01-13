@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Divindades/Superiores/Aeonir.md","permalink":"/Divindades/Superiores/Aeonir/","tags":["divindade","aylar"],"created":"2025-02-08T13:47:28.985+00:00","updated":"2026-01-13T18:33:42.186+00:00"}
+{"dg-publish":true,"dg-path":"Divindades/Superiores/Aeonir.md","permalink":"/Divindades/Superiores/Aeonir/","tags":["divindade","aylar"],"created":"2025-02-08T13:47:28.985+00:00","updated":"2026-01-13T18:59:12.896+00:00"}
 ---
 
-> [!blank-container|float-right|] 
+> [!INFO|float-right|] 
  > | Aparência Verdadeira |
  > |----------------------|
  > |![03 - Resources/RPG/Images/Aeonir.jpeg|250](/img/user/03%20-%20Resources/RPG/Images/Aeonir.jpeg)|

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Documentos Históricos/A Divina Guerra.md","permalink":"/A Região de Khilian/Documentos Históricos/A Divina Guerra/","title":"A Divina Guerra","tags":["doc-histórico","khilian","aylar"],"created":"2026-01-12T21:51:23.037+00:00","updated":"2026-01-11T23:27:53.191+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Documentos Históricos/A Divina Guerra.md","permalink":"/A Região de Khilian/Documentos Históricos/A Divina Guerra/","title":"A Divina Guerra","tags":["doc-histórico","khilian","aylar"],"created":"2026-01-11T17:55:17.182+00:00","updated":"2026-01-11T23:27:53.192+00:00"}
 ---
 
 ## Overview

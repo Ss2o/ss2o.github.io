@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Player Characters/Kael Shadowfist.md","permalink":"/Player Characters/Kael Shadowfist/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2026-01-12T21:51:39.709+00:00","updated":"2026-01-11T05:44:59.450+00:00"}
+{"dg-publish":true,"dg-path":"Player Characters/Kael Shadowfist.md","permalink":"/Player Characters/Kael Shadowfist/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:10:36.606+01:00","updated":"2026-01-11T05:44:59.450+00:00"}
 ---
 
 ## Overview

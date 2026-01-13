@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Cidades/Slewell.md","permalink":"/A Região de Khilian/Cidades/Slewell/","tags":["cidade","khilian","aylar"],"created":"2026-01-12T21:51:15.913+00:00","updated":"2026-01-11T20:58:48.967+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Cidades/Slewell.md","permalink":"/A Região de Khilian/Cidades/Slewell/","tags":["cidade","khilian","aylar"],"created":"2025-09-05T21:15:34.674+01:00","updated":"2026-01-11T20:58:48.967+00:00"}
 ---
 
 ## Overview

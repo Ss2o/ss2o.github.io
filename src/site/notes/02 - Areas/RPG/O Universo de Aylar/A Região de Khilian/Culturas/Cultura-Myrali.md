@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Culturas/Cultura-Myrali.md","permalink":"/A Região de Khilian/Culturas/Cultura-Myrali/","title":"Cultura Myrali","tags":["cultura","khilian","aylar"],"created":"2026-01-12T21:51:21.781+00:00","updated":"2026-01-11T20:59:08.292+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Culturas/Cultura-Myrali.md","permalink":"/A Região de Khilian/Culturas/Cultura-Myrali/","title":"Cultura Myrali","tags":["cultura","khilian","aylar"],"created":"2025-09-05T21:19:51.719+01:00","updated":"2026-01-11T20:59:08.293+00:00"}
 ---
 
 ## Overview

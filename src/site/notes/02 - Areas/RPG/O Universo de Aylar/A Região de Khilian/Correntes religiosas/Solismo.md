@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Solismo.md","permalink":"/A Região de Khilian/Correntes religiosas/Solismo/","tags":["religião","khilian","aylar"],"created":"2026-01-12T21:51:19.229+00:00","updated":"2026-01-11T22:25:47.572+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Solismo.md","permalink":"/A Região de Khilian/Correntes religiosas/Solismo/","tags":["religião","khilian","aylar"],"created":"2025-02-08T14:18:51.945+00:00","updated":"2026-01-11T22:25:47.573+00:00"}
 ---
 
 ## Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"00 - Sistema/00 - Changelogs/changelog-v0.2.0.md","dg-permalink":"changelog-v0.2.0","permalink":"/changelog-v0.2.0/","title":"Changelog v0.2.0","tags":["#changelog","#aylar"],"created":"2026-01-13T03:31:43.731+00:00","updated":"2026-01-13T02:38:38.628+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/00 - Changelogs/changelog-v0.2.0.md","dg-permalink":"changelog-v0.2.0","permalink":"/changelog-v0.2.0/","title":"Changelog v0.2.0","tags":["#changelog","#aylar"],"created":"2026-01-09T18:22:54.916+00:00","updated":"2026-01-13T02:38:38.628+00:00"}
 ---
 
 ## Stats:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Eventos Históricos/A Divina Guerra.md","permalink":"/A Região de Khilian/Eventos Históricos/A Divina Guerra/","tags":["evento-histórico","khilian","aylar"],"created":"2026-01-12T21:51:25.669+00:00","updated":"2026-01-11T23:35:26.888+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Eventos Históricos/A Divina Guerra.md","permalink":"/A Região de Khilian/Eventos Históricos/A Divina Guerra/","tags":["evento-histórico","khilian","aylar"],"created":"2026-01-10T16:29:27.797+00:00","updated":"2026-01-11T23:35:26.888+00:00"}
 ---
 
 ## Overview

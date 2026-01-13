@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Eventos Históricos/A Reconstituição.md","permalink":"/A Região de Khilian/Eventos Históricos/A Reconstituição/","tags":["evento-histórico","khilian","aylar"],"created":"2026-01-12T21:51:26.265+00:00","updated":"2026-01-11T19:09:19.492+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Eventos Históricos/A Reconstituição.md","permalink":"/A Região de Khilian/Eventos Históricos/A Reconstituição/","tags":["evento-histórico","khilian","aylar"],"created":"2025-02-08T14:14:59.817+00:00","updated":"2026-01-11T19:09:19.492+00:00"}
 ---
 
 ## Overview

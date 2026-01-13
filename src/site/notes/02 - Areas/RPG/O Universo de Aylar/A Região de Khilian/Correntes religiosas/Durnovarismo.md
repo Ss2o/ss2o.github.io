@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Durnovarismo.md","permalink":"/A Região de Khilian/Correntes religiosas/Durnovarismo/","tags":["religião","khilian","aylar"],"created":"2026-01-12T21:51:17.341+00:00","updated":"2026-01-11T22:14:32.965+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Durnovarismo.md","permalink":"/A Região de Khilian/Correntes religiosas/Durnovarismo/","tags":["religião","khilian","aylar"],"created":"2025-09-22T18:14:04.241+01:00","updated":"2026-01-11T22:14:32.966+00:00"}
 ---
 
 ## Overview

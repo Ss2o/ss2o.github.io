@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Eventos Históricos/A Traição de Vaelthor.md","permalink":"/A Região de Khilian/Eventos Históricos/A Traição de Vaelthor/","tags":["khilian","evento-histórico","aylar"],"created":"2026-01-12T21:51:26.949+00:00","updated":"2026-01-11T23:14:53.255+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Eventos Históricos/A Traição de Vaelthor.md","permalink":"/A Região de Khilian/Eventos Históricos/A Traição de Vaelthor/","tags":["khilian","evento-histórico","aylar"],"created":"2025-09-19T01:21:26.441+01:00","updated":"2026-01-11T23:14:53.256+00:00"}
 ---
 
 ## Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Player Characters/Ratosk Steelwhisker.md","permalink":"/Player Characters/Ratosk Steelwhisker/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2026-01-12T21:51:41.281+00:00","updated":"2026-01-12T00:22:52.376+00:00"}
+{"dg-publish":true,"dg-path":"Player Characters/Ratosk Steelwhisker.md","permalink":"/Player Characters/Ratosk Steelwhisker/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:08:46.702+01:00","updated":"2026-01-12T00:22:52.377+00:00"}
 ---
 
 ## Overview

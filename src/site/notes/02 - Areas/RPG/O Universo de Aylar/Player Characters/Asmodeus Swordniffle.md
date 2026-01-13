@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Player Characters/Asmodeus Swordniffle.md","permalink":"/Player Characters/Asmodeus Swordniffle/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2026-01-12T21:51:38.545+00:00","updated":"2026-01-11T05:44:43.067+00:00"}
+{"dg-publish":true,"dg-path":"Player Characters/Asmodeus Swordniffle.md","permalink":"/Player Characters/Asmodeus Swordniffle/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:02:16.806+01:00","updated":"2026-01-11T05:44:43.067+00:00"}
 ---
 
 ## Overview

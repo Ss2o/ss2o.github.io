@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Generalismo-Pós-Reconstituição.md","permalink":"/A Região de Khilian/Correntes religiosas/Generalismo-Pós-Reconstituição/","tags":["religião","khilian","aylar"],"created":"2026-01-12T21:51:17.869+00:00","updated":"2026-01-11T19:20:31.441+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Correntes religiosas/Generalismo-Pós-Reconstituição.md","permalink":"/A Região de Khilian/Correntes religiosas/Generalismo-Pós-Reconstituição/","tags":["religião","khilian","aylar"],"created":"2025-09-05T20:47:20.061+01:00","updated":"2026-01-11T19:20:31.442+00:00"}
 ---
 
 ## Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Sistema/Ações/Ações, Reações e Ações Livres.md","permalink":"/Sistema/Ações/Ações, Reações e Ações Livres/","tags":["mecânica","aylar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-13T02:08:07.916+00:00"}
+{"dg-publish":true,"dg-path":"00 - Sistema/Ações/Ações, Reações e Ações Livres.md","permalink":"/00 - Sistema/Ações/Ações, Reações e Ações Livres/","tags":["mecânica","aylar"],"created":"2026-01-09T01:12:26.157+00:00","updated":"2026-01-13T02:13:48.716+00:00"}
 ---
 
 ## Overview

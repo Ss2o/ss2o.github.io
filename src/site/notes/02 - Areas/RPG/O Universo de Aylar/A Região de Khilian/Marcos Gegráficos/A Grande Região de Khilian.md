@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/A Grande Região de Khilian.md","permalink":"/A Região de Khilian/Marcos Gegráficos/A Grande Região de Khilian/","tags":["khilian","aylar"],"created":"2025-02-08T15:14:12.034+00:00","updated":"2026-01-11T20:27:15.468+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/A Grande Região de Khilian.md","permalink":"/A Região de Khilian/Marcos Gegráficos/A Grande Região de Khilian/","tags":["khilian","aylar"],"created":"2025-02-08T15:14:12.034+00:00","updated":"2026-01-13T15:50:08.324+00:00"}
 ---
 
 ![Mapa de Khilian.png](/img/user/02%20-%20Areas/RPG/O%20Universo%20de%20Aylar/A%20Regi%C3%A3o%20de%20Khilian/Mapas/Mapa%20de%20Khilian.png)
@@ -20,10 +20,10 @@ Khilian, significando "Grande Região" é a área geográfica delimitada maiorit
 ## NPCs
 | Character Portrait                                                                      | Personagem                                                                                          | Status                     | Raça       | Nascimento                                                                                     |
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------- | ---------- | ---------------------------------------------------------------------------------------------- |
-| <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FLyro%20Vestfall.png width=100>   | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/NPCs/Lyro Vestfall\|Lyro Vestfall]]     | Morto (Assassinato, Ano 0) | Humano     | 43 AR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]]  |
 | <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FMyrio%20Arya.jpeg width=100>     | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/NPCs/Myrio Arya\|Myrio Arya]]           | Vivo                       | Changeling | 32 AR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]]  |
 | <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FSylver%20Arya.jpeg width=100>    | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/NPCs/Sylver Arya\|Sylver Arya]]         | Morto (Velhice - 7 AR)     | Changeling | 101 AR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]] |
 | <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FSteuen%20Gouriard.png width=100> | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/NPCs/Steuen Gouriard\|Steuen Gouriard]] | Morto (Velhice - 23 DR)    | Humano     | 67 AR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]]  |
+| <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FLyro%20Vestfall.png width=100>   | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/NPCs/Lyro Vestfall\|Lyro Vestfall]]     | Morto (Assassinato, Ano 0) | Humano     | 43 AR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]]  |
 
 { .block-language-dataview}
 

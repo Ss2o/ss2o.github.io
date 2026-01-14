@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","title":"O Universo de Aylar","hide":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-14T01:50:13.587+00:00"}
+{"dg-publish":true,"dg-path":"Homepage.md","permalink":"/Homepage/","title":"O Universo de Aylar","hide":true,"tags":["gardenEntry"],"created":"2026-01-09T15:16:24.558+00:00","updated":"2026-01-14T02:10:30.196+00:00"}
 ---
 
 # O Universo de Aylar
@@ -12,12 +12,6 @@ Campanhas Ativas: [[02 - Areas/RPG/O Universo de Aylar/02 - Trieto Caótico/00 -
 ## O Universo de Aylar
 
 ### Divindades
-| Cover                                                   | Name                                                                             |
-| ------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| ![[03 - Resources/RPG/Images/DEFAULT.png\|DEFAULT.png]] | [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/DEFAULT\|DEFAULT]] |
-
-{ .block-language-dataview}
-
 | Forma Verdadeira                                                                 | Nome Verdadeiro                                                                    | Títulos                                                                                                                                                                                                   | Correntes Associadas                                                                                                                                                                                                                                                                                                                                                                                                               |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src=/img/user/03%20-%20Resources%2FRPG%2FImages%2FAeonir.jpeg height=150>   | [[02 - Areas/RPG/O Universo de Aylar/Divindades/Superiores/DEFAULT\|DEFAULT]]   | <ul><li>Deus do Tempo</li><li>O Último Filho</li><li>O Grande Neutralizador</li><li>O Único e Verdadeiro Deus</li></ul>                                                                                   | <ul><li>[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Aeonismo.md\\|Aeonismo]]</li><li>[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Clássico.md\\|Generalismo Clássico]]</li><li>[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Pós-Reconstituição.md\\|Generalismo Pós-Reconstituição]]</li></ul>         |

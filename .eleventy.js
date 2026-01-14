@@ -175,6 +175,7 @@ module.exports = function (eleventyConfig) {
       return "";
     }
   });
+   eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
   let markdownLib = markdownIt({
     breaks: true,
     html: true,

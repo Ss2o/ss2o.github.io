@@ -5881,7 +5881,7 @@ body {
     display: flex;
     gap: var(--size-4-1);
     font-size: var(--callout-title-size);
-    color: rgb(var(--callout-color));
+    color: transparent;
     line-height: var(--line-height-tight);
   }
   .callout-content {

@@ -99,6 +99,14 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
+     // Register jsonify filter early so templates rendered during build can use it
+  eleventyConfig.addFilter("jsonify", function (variable) {
+    try {
+      return JSON.stringify(variable);
+    } catch {
+      return '""';
+    }
+  });
   let markdownLib = markdownIt({
     breaks: true,
     html: true,

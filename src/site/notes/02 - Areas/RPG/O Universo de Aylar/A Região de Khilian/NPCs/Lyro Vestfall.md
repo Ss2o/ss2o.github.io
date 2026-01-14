@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Lyro Vestfall.md","permalink":"/A Região de Khilian/NPCs/Lyro Vestfall/","tags":["NPC","aylar","#khilian"],"created":"2026-01-11T19:16:18.592+00:00","updated":"2026-01-11T20:21:55.605+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Lyro Vestfall.md","permalink":"/A Região de Khilian/NPCs/Lyro Vestfall/","tags":["NPC","aylar","#khilian"],"created":"2026-01-11T19:16:18.592+00:00","updated":"2026-01-14T02:24:41.898+00:00"}
 ---
 
 ## Overview
-> [!NOTE|float-right]+ Character Portrait
+> [!NOTE|float-right] Character Portrait
 > 
 > ![03 - Resources/RPG/Images/Lyro Vestfall.png|250](/img/user/03%20-%20Resources/RPG/Images/Lyro%20Vestfall.png)
 > 

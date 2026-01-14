@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Sylver Arya.md","permalink":"/A Região de Khilian/NPCs/Sylver Arya/","tags":["khilian","NPC","aylar"],"created":"2025-02-08T13:30:49.467+00:00","updated":"2026-01-11T20:23:56.861+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Sylver Arya.md","permalink":"/A Região de Khilian/NPCs/Sylver Arya/","tags":["khilian","NPC","aylar"],"created":"2025-02-08T13:30:49.467+00:00","updated":"2026-01-14T02:24:59.750+00:00"}
 ---
 
-
 ## Overview
-> [!NOTE|float-right]+ Character Portrait
+> [!NOTE|float-right] Character Portrait
 > 
 > ![03 - Resources/RPG/Images/Sylver Arya.jpeg|250](/img/user/03%20-%20Resources/RPG/Images/Sylver%20Arya.jpeg)
 > 

@@ -1,5 +1,3 @@
-/* full .eleventy.js contents (unchanged sections omitted for brevity in this message)
-   — the actual file you should copy has the complete content including the added core rule */
 const slugify = require("@sindresorhus/slugify");
 const markdownIt = require("markdown-it");
 const fs = require("fs");
@@ -99,87 +97,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setLiquidOptions({
     dynamicPartials: true,
   });
-     // Register jsonify filter early so templates rendered during build can use it
-  eleventyConfig.addFilter("jsonify", function (variable) {
-    try {
-      return JSON.stringify(variable);
-    } catch {
-      return '""';
-    }
-  });
-
-  eleventyConfig.addFilter("link", function (str) {
-    return (
-      str &&
-      str.replace(/\[\[(.*?\|.*?)\]\]/g, function (match, p1) {
-        //Check if it is an embedded excalidraw drawing or mathjax javascript
-        if (p1.indexOf("],[") > -1 || p1.indexOf('"$"') > -1) {
-          return match;
-        }
-        const [fileLink, linkTitle] = p1.split("|");
-
-        return getAnchorLink(fileLink, linkTitle);
-      })
-    );
-  });
-
-  eleventyConfig.addFilter("taggify", function (str) {
-    return (
-      str &&
-      str.replace(tagRegex, function (match, precede, tag) {
-        return `${precede}<a class="tag" onclick="toggleTagSearch(this)" data-content="${tag}">${tag}</a>`;
-      })
-    );
-  });
-
-  eleventyConfig.addFilter("searchableTags", function (str) {
-    let tags;
-    let match = str && str.match(tagRegex);
-    if (match) {
-      tags = match
-        .map((m) => {
-          return `"${m.split("#")[1]}"`;
-        })
-        .join(", ");
-    }
-    if (tags) {
-      return `${tags},`;
-    } else {
-      return "";
-    }
-  });
-
-  eleventyConfig.addFilter("hideDataview", function (str) {
-    return (
-      str &&
-      str.replace(/\(\S+\:\:(.*)\)/g, function (_, value) {
-        return value.trim();
-      })
-    );
-  });
-
-  // Optional/defensive: register validJson and dateToZulu early if templates rely on them
-  eleventyConfig.addFilter("validJson", function (variable) {
-    if (Array.isArray(variable)) {
-      return variable.map((x) => x.replaceAll("\\", "\\\\")).join(",");
-    } else if (typeof variable === "string") {
-      return variable.replaceAll("\\", "\\\\");
-    }
-    return variable;
-  });
-
-  eleventyConfig.addFilter("dateToZulu", function (date) {
-    try {
-      return new Date(date).toISOString("dd-MM-yyyyTHH:mm:ssZ");
-    } catch {
-      return "";
-    }
-  });
-   eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
-   eleventyConfig.addPlugin(tocPlugin, {
-    ul: true,
-    tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
-  });
   let markdownLib = markdownIt({
     breaks: true,
     html: true,
@@ -191,79 +108,34 @@ module.exports = function (eleventyConfig) {
     .use(require("markdown-it-mark"))
     .use(require("markdown-it-footnote"))
     .use(function (md) {
-      //
-      // NEW: obsidian wiki-image preprocessing rule
-      //
-      // Convert Obsidian-style image embeds (e.g. ![[path/to/image.png]]) into standard markdown
-      // image syntax before parsing so markdown-it will emit <img> tags and downstream transforms
-      // (picture transform) can act on them.
-      //
-      md.core.ruler.push("obsidian_wiki_images", function (state) {
-        try {
-          let src = state.src || "";
-          // resolver tries common repository locations; add more candidates if needed
-          function resolveToPublicPath(wikiPath) {
-            if (!wikiPath) return null;
-            let p = wikiPath.trim();
-            // strip leading ./ or /
-            if (p.startsWith("./")) p = p.substring(2);
-            if (p.startsWith("/")) p = p.substring(1);
-            const candidates = [
-              `./src/site/${p}`,
-              `./src/site/img/${p}`,
-              `./src/site/img/user/${p}`,
-              `./src/site/attachments/${p}`,
-              `./src/site/assets/${p}`,
-              `./src/site/img/${p.split("/").pop()}`,
-              `./src/site/${p.split("/").pop()}`
-            ];
-            for (const c of candidates) {
-              try {
-                if (fs.existsSync(c) && fs.statSync(c).isFile()) {
-                  const publicPath = c.replace(/^\.\/src\/site/, "");
-                  return publicPath.startsWith("/") ? encodeURI(publicPath) : encodeURI("/" + publicPath);
-                }
-              } catch (_) {}
-            }
-            return null;
-          }
-
-          // image embed: ![[path|alt]] or ![[path]]
-          src = src.replace(/!\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, function (_m, wikiPath, alt) {
-            const resolved = resolveToPublicPath(wikiPath);
-            if (resolved) {
-              const safeAlt = alt ? alt.replace(/"/g, '\\"') : "";
-              return `!["${safeAlt}"](${resolved})`;
-            }
-            // if not resolved, leave as-is but remove wiki syntax so it becomes a normal image attempt
-            // This prevents raw text like `![[...` from appearing
-            return `![](${wikiPath})`;
-          });
-
-          // Also handle percent-encoded variants like %5B%5Bname%5D%5D
-          src = src.replace(/!\%5B%5B([^\%|]+)(?:\%7C([^\%]+))?\%5D%5D/gi, function (_m, wikiPathEnc, altEnc) {
-            let wikiPath = decodeURIComponent(wikiPathEnc);
-            let alt = altEnc ? decodeURIComponent(altEnc) : undefined;
-            const resolved = resolveToPublicPath(wikiPath);
-            if (resolved) {
-              const safeAlt = alt ? alt.replace(/"/g, '\\"') : "";
-              return `!["${safeAlt}"](${resolved})`;
-            }
-            return `![](${wikiPath})`;
-          });
-
-          state.src = src;
-        } catch (e) {
-          // don't break build if something goes wrong
-        }
-      });
-
-      // existing hashtag open renderer rule (unchanged)
       md.renderer.rules.hashtag_open = function (tokens, idx) {
         return '<a class="tag" onclick="toggleTagSearch(this)">';
       };
-
-      // [rest of the markdown-it customizations unchanged — fences, images, links, etc.]
+    })
+    .use(require("markdown-it-mathjax3"), {
+      tex: {
+        inlineMath: [["$", "$"]],
+      },
+      options: {
+        skipHtmlTags: { "[-]": ["pre"] },
+      },
+    })
+    .use(require("markdown-it-attrs"))
+    .use(require("markdown-it-task-checkbox"), {
+      disabled: true,
+      divWrap: false,
+      divClass: "checkbox",
+      idPrefix: "cbx_",
+      ulClass: "task-list",
+      liClass: "task-list-item",
+    })
+    .use(require("markdown-it-plantuml"), {
+      openMarker: "```plantuml",
+      closeMarker: "```",
+    })
+    .use(namedHeadingsFilter)
+    .use(function (md) {
+      //https://github.com/DCsunset/markdown-it-mermaid-plugin
       const origFenceRule =
         md.renderer.rules.fence ||
         function (tokens, idx, options, env, self) {
@@ -311,7 +183,11 @@ module.exports = function (eleventyConfig) {
               }
             }
           }
-          const foldDiv = collapsible ? `<div class="callout-fold"><i icon-name="chevron-down"></i></div>` : "";
+          const foldDiv = collapsible ? `<div class="callout-fold">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-chevron-down">
+              <polyline points="6 9 12 15 18 9"></polyline>
+          </svg>
+          </div>` : "";
           const titleDiv = titleLine
             ? `<div class="callout-title"><div class="callout-title-inner">${titleLine}</div>${foldDiv}</div>`
             : "";
@@ -394,12 +270,294 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.setLibrary("md", markdownLib);
 
-  /* remainder of file unchanged — transforms, filters, plugins, returns config */
   eleventyConfig.addFilter("isoDate", function (date) {
     return date && date.toISOString();
   });
 
-  /* ... rest of file omitted here for readability (unchanged) ... */
+  eleventyConfig.addFilter("link", function (str) {
+    return (
+      str &&
+      str.replace(/\[\[(.*?\|.*?)\]\]/g, function (match, p1) {
+        //Check if it is an embedded excalidraw drawing or mathjax javascript
+        if (p1.indexOf("],[") > -1 || p1.indexOf('"$"') > -1) {
+          return match;
+        }
+        const [fileLink, linkTitle] = p1.split("|");
+
+        return getAnchorLink(fileLink, linkTitle);
+      })
+    );
+  });
+
+  eleventyConfig.addFilter("taggify", function (str) {
+    return (
+      str &&
+      str.replace(tagRegex, function (match, precede, tag) {
+        return `${precede}<a class="tag" onclick="toggleTagSearch(this)" data-content="${tag}">${tag}</a>`;
+      })
+    );
+  });
+
+  eleventyConfig.addFilter("searchableTags", function (str) {
+    let tags;
+    let match = str && str.match(tagRegex);
+    if (match) {
+      tags = match
+        .map((m) => {
+          return `"${m.split("#")[1]}"`;
+        })
+        .join(", ");
+    }
+    if (tags) {
+      return `${tags},`;
+    } else {
+      return "";
+    }
+  });
+
+  eleventyConfig.addFilter("hideDataview", function (str) {
+    return (
+      str &&
+      str.replace(/\(\S+\:\:(.*)\)/g, function (_, value) {
+        return value.trim();
+      })
+    );
+  });
+
+  eleventyConfig.addTransform("dataview-js-links", function (str) {
+    const parsed = parse(str);
+    for (const dataViewJsLink of parsed.querySelectorAll("a[data-href].internal-link")) {
+      const notePath = dataViewJsLink.getAttribute("data-href");
+      const title = dataViewJsLink.innerHTML;
+      const {attributes, innerHTML} = getAnchorAttributes(notePath, title);
+      for (const key in attributes) {
+        dataViewJsLink.setAttribute(key, attributes[key]);
+      }
+      dataViewJsLink.innerHTML = innerHTML;
+    }
+
+    return str && parsed.innerHTML;
+  });
+
+  eleventyConfig.addTransform("callout-block", function (str) {
+    const parsed = parse(str);
+
+    const transformCalloutBlocks = (
+      blockquotes = parsed.querySelectorAll("blockquote")
+    ) => {
+      for (const blockquote of blockquotes) {
+        transformCalloutBlocks(blockquote.querySelectorAll("blockquote"));
+
+        let content = blockquote.innerHTML;
+
+        let titleDiv = "";
+        let calloutType = "";
+        let calloutMetaData = "";
+        let isCollapsable;
+        let isCollapsed;
+        const calloutMeta = /\[!([\w-]*)\|?(\s?.*)\](\+|\-){0,1}(\s?.*)/;
+        if (!content.match(calloutMeta)) {
+          continue;
+        }
+
+        content = content.replace(
+          calloutMeta,
+          function (metaInfoMatch, callout, metaData, collapse, title) {
+            isCollapsable = Boolean(collapse);
+            isCollapsed = collapse === "-";
+            const titleText = title.replace(/(<\/{0,1}\w+>)/, "")
+              ? title
+              : `${callout.charAt(0).toUpperCase()}${callout
+                .substring(1)
+                .toLowerCase()}`;
+            const fold = isCollapsable
+              ? `<div class="callout-fold"><i icon-name="chevron-down"></i></div>`
+              : ``;
+
+            calloutType = callout;
+            calloutMetaData = metaData;
+            titleDiv = `<div class="callout-title"><div class="callout-title-inner">${titleText}</div>${fold}</div>`;
+            return "";
+          }
+        );
+
+        /* Hacky fix for callouts with only a title:
+        This will ensure callout-content isn't produced if
+        the callout only has a title, like this:
+        ```md
+        > [!info] i only have a title
+        ```
+        Not sure why content has a random <p> tag in it,
+        */
+        if (content === "\n<p>\n") {
+          content = "";
+        }
+        let contentDiv = content ? `\n<div class="callout-content">${content}</div>` : "";
+
+        blockquote.tagName = "div";
+        blockquote.classList.add("callout");
+        blockquote.classList.add(isCollapsable ? "is-collapsible" : "");
+        blockquote.classList.add(isCollapsed ? "is-collapsed" : "");
+        blockquote.setAttribute("data-callout", calloutType.toLowerCase());
+        calloutMetaData && blockquote.setAttribute("data-callout-metadata", calloutMetaData);
+        blockquote.innerHTML = `${titleDiv}${contentDiv}`;
+      }
+    };
+
+    transformCalloutBlocks();
+
+    return str && parsed.innerHTML;
+  });
+
+  function fillPictureSourceSets(src, cls, alt, meta, width, imageTag) {
+    imageTag.tagName = "picture";
+    let html = `<source
+      media="(max-width:480px)"
+      srcset="${meta.webp[0].url}"
+      type="image/webp"
+      />
+      <source
+      media="(max-width:480px)"
+      srcset="${meta.jpeg[0].url}"
+      />
+      `
+    if (meta.webp && meta.webp[1] && meta.webp[1].url) {
+      html += `<source
+        media="(max-width:1920px)"
+        srcset="${meta.webp[1].url}"
+        type="image/webp"
+        />`
+    }
+    if (meta.jpeg && meta.jpeg[1] && meta.jpeg[1].url) {
+      html += `<source
+        media="(max-width:1920px)"
+        srcset="${meta.jpeg[1].url}"
+        />`
+    }
+    html += `<img
+      class="${cls.toString()}"
+      src="${src}"
+      alt="${alt}"
+      width="${width}"
+      />`;
+    imageTag.innerHTML = html;
+  }
+
+
+  eleventyConfig.addTransform("picture", function (str) {
+    if(process.env.USE_FULL_RESOLUTION_IMAGES === "true"){
+      return str;
+    }
+    const parsed = parse(str);
+    for (const imageTag of parsed.querySelectorAll(".cm-s-obsidian img")) {
+      const src = imageTag.getAttribute("src");
+      if (src && src.startsWith("/") && !src.endsWith(".svg")) {
+        const cls = imageTag.classList.value;
+        const alt = imageTag.getAttribute("alt");
+        const width = imageTag.getAttribute("width") || '';
+
+        try {
+          const meta = transformImage(
+            "./src/site" + decodeURI(imageTag.getAttribute("src")),
+            cls.toString(),
+            alt,
+            ["(max-width: 480px)", "(max-width: 1024px)"]
+          );
+
+          if (meta) {
+            fillPictureSourceSets(src, cls, alt, meta, width, imageTag);
+          }
+        } catch {
+          // Make it fault tolarent.
+        }
+      }
+    }
+    return str && parsed.innerHTML;
+  });
+
+  eleventyConfig.addTransform("table", function (str) {
+    const parsed = parse(str);
+    for (const t of parsed.querySelectorAll(".cm-s-obsidian > table")) {
+      let inner = t.innerHTML;
+      t.tagName = "div";
+      t.classList.add("table-wrapper");
+      t.innerHTML = `<table>${inner}</table>`;
+    }
+
+    for (const t of parsed.querySelectorAll(
+      ".cm-s-obsidian > .block-language-dataview > table"
+    )) {
+      t.classList.add("dataview");
+      t.classList.add("table-view-table");
+      t.querySelector("thead")?.classList.add("table-view-thead");
+      t.querySelector("tbody")?.classList.add("table-view-tbody");
+      t.querySelectorAll("thead > tr")?.forEach((tr) => {
+        tr.classList.add("table-view-tr-header");
+      });
+      t.querySelectorAll("thead > tr > th")?.forEach((th) => {
+        th.classList.add("table-view-th");
+      });
+    }
+    return str && parsed.innerHTML;
+  });
+
+  eleventyConfig.addTransform("htmlMinifier", (content, outputPath) => {
+    if (
+      (process.env.NODE_ENV === "production" || process.env.ELEVENTY_ENV === "prod") &&
+      outputPath &&
+      outputPath.endsWith(".html")
+    ) {
+      return htmlMinifier.minify(content, {
+        useShortDoctype: true,
+        removeComments: true,
+        collapseWhitespace: true,
+        conservativeCollapse: true,
+        preserveLineBreaks: true,
+        minifyCSS: true,
+        minifyJS: true,
+        keepClosingSlash: true,
+      });
+    }
+    return content;
+  });
+
+  eleventyConfig.addPassthroughCopy("src/site/img");
+  eleventyConfig.addPassthroughCopy("src/site/scripts");
+  eleventyConfig.addPassthroughCopy("src/site/styles/_theme.*.css");
+  eleventyConfig.addPlugin(faviconsPlugin, { outputDir: "dist" });
+  eleventyConfig.addPlugin(tocPlugin, {
+    ul: true,
+    tags: ["h1", "h2", "h3", "h4", "h5", "h6"],
+  });
+
+
+  eleventyConfig.addFilter("dateToZulu", function (date) {
+    try {
+      return new Date(date).toISOString("dd-MM-yyyyTHH:mm:ssZ");
+    } catch {
+      return "";
+    }
+  });
+  
+  eleventyConfig.addFilter("jsonify", function (variable) {
+    return JSON.stringify(variable) || '""';
+  });
+
+  eleventyConfig.addFilter("validJson", function (variable) {
+    if (Array.isArray(variable)) {
+      return variable.map((x) => x.replaceAll("\\", "\\\\")).join(",");
+    } else if (typeof variable === "string") {
+      return variable.replaceAll("\\", "\\\\");
+    }
+    return variable;
+  });
+
+  eleventyConfig.addPlugin(pluginRss, {
+    posthtmlRenderOptions: {
+      closingSingleTag: "slash",
+      singleTags: ["link"],
+    },
+  });
 
   userEleventySetup(eleventyConfig);
 

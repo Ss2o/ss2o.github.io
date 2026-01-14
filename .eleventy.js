@@ -184,7 +184,7 @@ module.exports = function (eleventyConfig) {
             }
           }
           const foldDiv = collapsible ? `<div class="callout-fold">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-chevron-down">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="sv[...]
               <polyline points="6 9 12 15 18 9"></polyline>
           </svg>
           </div>` : "";
@@ -449,26 +449,116 @@ module.exports = function (eleventyConfig) {
       return str;
     }
     const parsed = parse(str);
+
+    // helper to try and resolve Obsidian-style internal links like [[image.png]]
+    function resolveInternalImageSrc(imageTag, originalSrc) {
+      let src = originalSrc || "";
+      try {
+        // decode any percent-encoded sequences
+        src = decodeURIComponent(src);
+      } catch (_) {}
+
+      // if it looks like an Obsidian-style embed [[...]]
+      let match = src.match(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/);
+      if (!match) {
+        // if parent anchor has data-href or href that may contain the internal link
+        const parentLink = imageTag.parentNode && imageTag.parentNode.nodeName === 'A' ? imageTag.parentNode : imageTag.closest && imageTag.closest('a');
+        if (parentLink) {
+          const linkCandidate = parentLink.getAttribute && (parentLink.getAttribute('data-href') || parentLink.getAttribute('href') || parentLink.getAttribute('data-src') || "");
+          if (linkCandidate) {
+            try {
+              const decodedLink = decodeURIComponent(linkCandidate);
+              match = decodedLink.match(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/) || decodedLink.match(/^(?:\.\/)?(.+\.(png|jpg|jpeg|gif|webp))$/i);
+              if (match && match[1]) {
+                // normalize to the file portion
+                src = match[1];
+              } else if (match && match[0]) {
+                src = match[0];
+              }
+            } catch (_) {}
+          }
+        }
+      } else {
+        src = match[1];
+      }
+
+      src = (src || "").trim();
+
+      // normalize leading slashes
+      if (src.startsWith("./")) {
+        src = src.substring(2);
+      }
+      if (src.startsWith("/")) {
+        // remove leading slash for filesystem checks, but keep for final url
+        src = src.substring(1);
+      }
+
+      if (!src) {
+        return null;
+      }
+
+      // try a number of candidate locations under ./src/site
+      const candidates = [
+        `./src/site/${src}`,
+        `./src/site/img/${src}`,
+        `./src/site/attachments/${src}`,
+        `./src/site/assets/${src}`,
+        // try basename under img
+        `./src/site/img/${src.split('/').pop()}`,
+        `./src/site/${src.split('/').pop()}`,
+      ];
+
+      for (const c of candidates) {
+        try {
+          if (fs.existsSync(c) && fs.statSync(c).isFile()) {
+            // build public url by stripping './src/site' prefix
+            const publicPath = c.replace(/^\.\/src\/site/, "");
+            // ensure leading slash
+            return publicPath.startsWith("/") ? publicPath : `/${publicPath}`;
+          }
+        } catch (_) {}
+      }
+
+      // if nothing found, but the original had a leading slash originally, make a best-effort return
+      return originalSrc && originalSrc.startsWith("/") ? originalSrc : null;
+    }
+
     for (const imageTag of parsed.querySelectorAll(".cm-s-obsidian img")) {
-      const src = imageTag.getAttribute("src");
-      if (src && src.startsWith("/") && !src.endsWith(".svg")) {
+      let src = imageTag.getAttribute("src") || "";
+      // if src is an internal-link or looks unusable, try to resolve
+      const looksLikeInternal =
+        !src ||
+        src.includes("[[") ||
+        src.includes("%5B%5B") ||
+        (!src.startsWith("/") && !src.startsWith("http") && !src.startsWith("data:"));
+
+      let resolvedSrc = src;
+      if (looksLikeInternal) {
+        const resolved = resolveInternalImageSrc(imageTag, src);
+        if (resolved) {
+          resolvedSrc = resolved;
+        }
+      }
+
+      // proceed only if resolvedSrc starts with / (public path) and is not an svg
+      if (resolvedSrc && resolvedSrc.startsWith("/") && !resolvedSrc.toLowerCase().endsWith(".svg")) {
         const cls = imageTag.classList.value;
         const alt = imageTag.getAttribute("alt");
         const width = imageTag.getAttribute("width") || '';
 
         try {
           const meta = transformImage(
-            "./src/site" + decodeURI(imageTag.getAttribute("src")),
+            "./src/site" + decodeURI(resolvedSrc),
             cls.toString(),
             alt,
             ["(max-width: 480px)", "(max-width: 1024px)"]
           );
 
           if (meta) {
-            fillPictureSourceSets(src, cls, alt, meta, width, imageTag);
+            fillPictureSourceSets(resolvedSrc, cls, alt, meta, width, imageTag);
           }
         } catch {
-          // Make it fault tolarent.
+          // Make it fault tolerant.
         }
       }
     }

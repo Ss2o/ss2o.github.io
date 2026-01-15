@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Divindades/Superiores/Aeonir.md","permalink":"/Divindades/Superiores/Aeonir/","tags":["divindade","aylar","#test"],"created":"2026-01-14T03:32:07.113+00:00","updated":"2026-01-15T02:39:22.008+00:00"}
+{"dg-publish":true,"dg-path":"Divindades/Superiores/Aeonir.md","permalink":"/Divindades/Superiores/Aeonir/","tags":["divindade","aylar","#test"],"created":"2026-01-14T03:32:07.113+00:00","updated":"2026-01-15T02:44:42.940+00:00"}
 ---
 
 > [!INFO|float-right|] 
  > | Aparência Verdadeira |
  > |----------------------|
- > |![Aeonir.jpeg|250](/img/user/03%20-%20Resources/RPG/Images/Aeonir.jpeg)|
+ > |![250](/img/user/03%20-%20Resources/RPG/Images/Aeonir.jpeg)|
  > |Aeonir|
 ## Overview
 **Títulos:** Deus do Tempo,O Último Filho,O Grande Neutralizador,O Único e Verdadeiro Deus

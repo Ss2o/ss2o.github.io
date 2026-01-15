@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Player Characters/Vitrum Notam.md","permalink":"/Player Characters/Vitrum Notam/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:00:55.131+01:00","updated":"2026-01-11T05:45:32.310+00:00"}
+{"dg-publish":true,"dg-path":"Player Characters/Vitrum Notam.md","permalink":"/Player Characters/Vitrum Notam/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:00:55.131+01:00","updated":"2026-01-14T02:40:10.934+00:00"}
 ---
 
 ## Overview
-> [!NOTE|float-right]+ Character Portrait
+> [!INFO|float-right] Character Portrait
 > 
 > ![03 - Resources/RPG/Images/Vitrum Notam.png|250](/img/user/03%20-%20Resources/RPG/Images/Vitrum%20Notam.png)
 > 

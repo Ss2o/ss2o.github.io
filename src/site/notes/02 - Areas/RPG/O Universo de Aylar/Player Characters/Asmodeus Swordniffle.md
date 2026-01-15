@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Player Characters/Asmodeus Swordniffle.md","permalink":"/Player Characters/Asmodeus Swordniffle/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:02:16.806+01:00","updated":"2026-01-11T05:44:43.067+00:00"}
+{"dg-publish":true,"dg-path":"Player Characters/Asmodeus Swordniffle.md","permalink":"/Player Characters/Asmodeus Swordniffle/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:02:16.806+01:00","updated":"2026-01-14T02:36:33.296+00:00"}
 ---
 
 ## Overview
-> [!NOTE|float-right]+ Character Portrait
+> [!INFO|float-right] Character Portrait
 > 
 > ![03 - Resources/RPG/Images/Asmodeus Swordniffle.png|250](/img/user/03%20-%20Resources/RPG/Images/Asmodeus%20Swordniffle.png)
 > 

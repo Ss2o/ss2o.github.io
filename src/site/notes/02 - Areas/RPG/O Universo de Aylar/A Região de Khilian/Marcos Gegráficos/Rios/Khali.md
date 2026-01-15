@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/Rios/Khali.md","permalink":"/A Região de Khilian/Marcos Gegráficos/Rios/Khali/","tags":["rio","khilian","#marco-geográfico","aylar"],"created":"2025-02-08T14:28:10.400+00:00","updated":"2026-01-11T20:14:58.021+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/Rios/Khali.md","permalink":"/A Região de Khilian/Marcos Gegráficos/Rios/Khali/","tags":["rio","khilian","#marco-geográfico","aylar"],"created":"2025-02-08T14:28:10.400+00:00","updated":"2026-01-14T02:38:14.097+00:00"}
 ---
 
 ## Overview
-> [!NOTE|float-right]+ Khali
+> [!INFO|float-right] Khali
 > 
 > ![Khali.png|350](/img/user/03%20-%20Resources/RPG/Images/Khali.png)
 > 

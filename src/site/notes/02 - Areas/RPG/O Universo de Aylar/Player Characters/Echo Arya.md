@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Player Characters/Echo Arya.md","permalink":"/Player Characters/Echo Arya/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-06T01:29:02.427+01:00","updated":"2026-01-11T05:44:52.626+00:00"}
+{"dg-publish":true,"dg-path":"Player Characters/Echo Arya.md","permalink":"/Player Characters/Echo Arya/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-06T01:29:02.427+01:00","updated":"2026-01-14T02:37:30.199+00:00"}
 ---
 
 ## Overview
-> [!NOTE|float-right]+ Character Portrait
+> [!INFO|float-right] Character Portrait
 > 
 > ![03 - Resources/RPG/Images/Echo Arya.png|250](/img/user/03%20-%20Resources/RPG/Images/Echo%20Arya.png)
 > 

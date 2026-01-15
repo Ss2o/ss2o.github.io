@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Player Characters/Thornwick Quill.md","permalink":"/Player Characters/Thornwick Quill/","tags":["player-character","khilian","trieto-caótico","aylar"],"created":"2025-09-05T22:14:34.608+01:00","updated":"2026-01-11T05:43:10.280+00:00"}
+{"dg-publish":true,"dg-path":"Player Characters/Thornwick Quill.md","permalink":"/Player Characters/Thornwick Quill/","tags":["player-character","khilian","trieto-caótico","aylar"],"created":"2025-09-05T22:14:34.608+01:00","updated":"2026-01-14T02:39:52.462+00:00"}
 ---
 
 ## Overview
-> [!NOTE|float-right]+ Character Portrait
+> [!INFO|float-right] Character Portrait
 > 
 > ![03 - Resources/RPG/Images/Thornwick Quill.png|250](/img/user/03%20-%20Resources/RPG/Images/Thornwick%20Quill.png)
 > 

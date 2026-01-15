@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Myral.md","permalink":"/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Myral/","tags":["região","khilian","#marco-geográfico","aylar"],"created":"2025-09-05T21:00:48.162+01:00","updated":"2026-01-11T20:57:36.496+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Myral.md","permalink":"/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Myral/","tags":["região","khilian","#marco-geográfico","aylar"],"created":"2025-09-05T21:00:48.162+01:00","updated":"2026-01-14T02:39:01.562+00:00"}
 ---
 
 ## Overview
-> [!NOTE|float-right]+ Myral
+> [!INFO|float-right] Myral
 > 
 > ![Myral.png|350](/img/user/03%20-%20Resources/RPG/Images/Myral.png)
 

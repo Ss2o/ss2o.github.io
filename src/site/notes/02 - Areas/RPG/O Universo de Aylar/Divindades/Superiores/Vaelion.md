@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Divindades/Superiores/Vaelion.md","permalink":"/Divindades/Superiores/Vaelion/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:07.005+00:00","updated":"2026-01-14T02:24:33.178+00:00"}
+{"dg-publish":true,"dg-path":"Divindades/Superiores/Vaelion.md","permalink":"/Divindades/Superiores/Vaelion/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:07.005+00:00","updated":"2026-01-14T02:40:02.740+00:00"}
 ---
 
 ## Overview
-> [!NOTE|float-right] Aparência Verdadeira
+> [!INFO|float-right] Aparência Verdadeira
 > 
 > ![03 - Resources/RPG/Images/Vaelion.jpeg|250](/img/user/03%20-%20Resources/RPG/Images/Vaelion.jpeg)
 > 

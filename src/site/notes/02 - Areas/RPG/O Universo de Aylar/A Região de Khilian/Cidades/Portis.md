@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Cidades/Portis.md","permalink":"/A Região de Khilian/Cidades/Portis/","tags":["cidade","khilian","aylar"],"created":"2025-02-08T14:10:06.146+00:00","updated":"2026-01-11T20:53:35.835+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Cidades/Portis.md","permalink":"/A Região de Khilian/Cidades/Portis/","tags":["cidade","khilian","aylar"],"created":"2025-02-08T14:10:06.146+00:00","updated":"2026-01-14T02:39:13.962+00:00"}
 ---
 
 ## Overview
-> [!NOTE|float-right]+ Portis
+> [!INFO|float-right] Portis
 > 
 > ![03 - Resources/RPG/Images/Portis.png|350](/img/user/03%20-%20Resources/RPG/Images/Portis.png)
 > 

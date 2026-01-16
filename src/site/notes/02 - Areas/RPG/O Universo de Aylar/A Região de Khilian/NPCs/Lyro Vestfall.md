@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Lyro Vestfall.md","permalink":"/A Região de Khilian/NPCs/Lyro Vestfall/","tags":["NPC","aylar","#khilian"],"created":"2026-01-11T19:16:18.592+00:00","updated":"2026-01-14T02:38:45.995+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Lyro Vestfall.md","permalink":"/A Região de Khilian/NPCs/Lyro Vestfall/","tags":["NPC","aylar","#khilian"],"created":"2026-01-11T19:16:18.592+00:00","updated":"2026-01-16T01:55:07.541+00:00"}
 ---
 
+> [!INFO|float-right|] 
+> 
+ > 
+ > | Character Portrait |
+ > |----------------------|
+ > |<img src=/img/user/03%20-%20Resources/RPG/Images/Lyro%20Vestfall.png width=250>|
+ > |Lyro Vestfall|
+
 ## Overview
-> [!INFO|float-right] Character Portrait
-> 
-> ![03 - Resources/RPG/Images/Lyro Vestfall.png|250](/img/user/03%20-%20Resources/RPG/Images/Lyro%20Vestfall.png)
-> 
-> Lyro Vestfall
 
 **Status:** Morto (Assassinato, Ano 0)
 **Nascimento:** 43 AR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]]

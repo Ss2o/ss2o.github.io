@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Myrio Arya.md","permalink":"/A Região de Khilian/NPCs/Myrio Arya/","tags":["khilian","#NPC","aylar"],"created":"2025-02-25T18:08:49.378+00:00","updated":"2026-01-14T02:39:09.896+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Myrio Arya.md","permalink":"/A Região de Khilian/NPCs/Myrio Arya/","tags":["khilian","#NPC","aylar"],"created":"2025-02-25T18:08:49.378+00:00","updated":"2026-01-16T01:55:01.470+00:00"}
 ---
 
+> [!INFO|float-right|] 
+> 
+ > 
+ > | Character Portrait |
+ > |----------------------|
+ > |<img src=/img/user/03%20-%20Resources/RPG/Images/Myrio%20Arya.jpeg width=250>|
+ > |Myrio Arya|
+
 ## Overview
-> [!INFO|float-right] Character Portrait
-> 
-> ![03 - Resources/RPG/Images/Myrio Arya.jpeg|250](/img/user/03%20-%20Resources/RPG/Images/Myrio%20Arya.jpeg)
-> 
-> Myrio Arya
 
 **Status:** Vivo
 **Nascimento:** 32 AR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]]

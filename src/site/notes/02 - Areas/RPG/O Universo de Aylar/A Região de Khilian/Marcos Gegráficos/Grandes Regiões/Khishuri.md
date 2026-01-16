@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khishuri.md","permalink":"/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khishuri/","tags":["região","khilian","#marco-geográfico","aylar"],"created":"2025-09-05T20:59:40.298+01:00","updated":"2026-01-14T02:38:29.861+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khishuri.md","permalink":"/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khishuri/","tags":["região","khilian","#marco-geográfico","aylar"],"created":"2025-09-05T20:59:40.298+01:00","updated":"2026-01-16T01:58:39.087+00:00"}
 ---
 
+> [!INFO|float-right|] 
+> 
+ > 
+ > | Localização no mapa |
+ > |----------------------|
+ > |<img src=/img/user/03%20-%20Resources/RPG/Images/Khishuri.png width=250>|
+ > |Região de Khishuri|
+
 ## Overview
-> [!INFO|float-right] Kishuri
-> 
-> ![Khishuri.png|350](/img/user/03%20-%20Resources/RPG/Images/Khishuri.png)
-> 
 
 **Cidades:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Fizora\|Fizora]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Faunia\|Faunia]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Portis\|Portis]],[[Khalami\|Khalami]]
 

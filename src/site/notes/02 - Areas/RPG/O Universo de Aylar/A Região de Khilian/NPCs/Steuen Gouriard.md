@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Steuen Gouriard.md","permalink":"/A Região de Khilian/NPCs/Steuen Gouriard/","tags":["NPC","aylar","#khilian"],"created":"2026-01-11T19:29:25.421+00:00","updated":"2026-01-14T02:39:34.427+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Steuen Gouriard.md","permalink":"/A Região de Khilian/NPCs/Steuen Gouriard/","tags":["NPC","aylar","#khilian"],"created":"2026-01-11T19:29:25.421+00:00","updated":"2026-01-16T01:54:54.992+00:00"}
 ---
 
+> [!INFO|float-right|] 
+> 
+ > 
+ > | Character Portrait |
+ > |----------------------|
+ > |<img src=/img/user/03%20-%20Resources/RPG/Images/Steuen%20Gouriard.png width=250>|
+ > |Steuen Gouriard|
+
 ## Overview
-> [!INFO|float-right] Character Portrait
-> 
-> ![03 - Resources/RPG/Images/Steuen Gouriard.png|250](/img/user/03%20-%20Resources/RPG/Images/Steuen%20Gouriard.png)
-> 
-> Steuen Gouriard
 
 **Status:** Morto (Velhice - 23 DR)
 **Nascimento:** 67 AR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]]

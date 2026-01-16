@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khithari.md","permalink":"/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khithari/","tags":["região","khilian","#marco-geográfico","aylar"],"created":"2025-09-05T20:59:19.626+01:00","updated":"2026-01-14T02:38:33.028+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khithari.md","permalink":"/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khithari/","tags":["região","khilian","#marco-geográfico","aylar"],"created":"2025-09-05T20:59:19.626+01:00","updated":"2026-01-16T01:58:44.227+00:00"}
 ---
 
+> [!INFO|float-right|] 
+> 
+ > 
+ > | Localização no mapa |
+ > |----------------------|
+ > |<img src=/img/user/03%20-%20Resources/RPG/Images/Khithari.png width=250>|
+ > |Região de Khithari|
+
 ## Overview
-> [!INFO|float-right] Kithari
-> 
-> ![Khithari.png|350](/img/user/03%20-%20Resources/RPG/Images/Khithari.png)
-> 
 
 **Cidades:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Tharirun\|Tharirun]]
 

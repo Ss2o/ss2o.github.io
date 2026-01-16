@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Sylver Arya.md","permalink":"/A Região de Khilian/NPCs/Sylver Arya/","tags":["khilian","NPC","aylar"],"created":"2025-02-08T13:30:49.467+00:00","updated":"2026-01-14T02:39:42.957+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Sylver Arya.md","permalink":"/A Região de Khilian/NPCs/Sylver Arya/","tags":["khilian","NPC","aylar"],"created":"2025-02-08T13:30:49.467+00:00","updated":"2026-01-16T01:54:43.601+00:00"}
 ---
 
+> [!INFO|float-right|] 
+> 
+ > 
+ > | Character Portrait |
+ > |----------------------|
+ > |<img src=/img/user/03%20-%20Resources/RPG/Images/Sylver%20Arya.jpeg width=250>|
+ > |Sylver Arya|
+
 ## Overview
-> [!INFO|float-right] Character Portrait
-> 
-> ![03 - Resources/RPG/Images/Sylver Arya.jpeg|250](/img/user/03%20-%20Resources/RPG/Images/Sylver%20Arya.jpeg)
-> 
-> Sylver Arya
 
 **Status:** Morto (Velhice - 7 AR)
 **Nascimento:** 101 AR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]]

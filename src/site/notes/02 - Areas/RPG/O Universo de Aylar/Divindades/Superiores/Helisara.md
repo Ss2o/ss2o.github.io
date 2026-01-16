@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"Divindades/Superiores/Helisara.md","permalink":"/Divindades/Superiores/Helisara/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:06.992+00:00","updated":"2026-01-14T02:37:53.414+00:00"}
+{"dg-publish":true,"dg-path":"Divindades/Superiores/Helisara.md","permalink":"/Divindades/Superiores/Helisara/","tags":["divindade","aylar"],"created":"2025-02-25T00:08:06.992+00:00","updated":"2026-01-16T01:51:48.348+00:00"}
 ---
 
+> [!INFO|float-right|] 
+> 
+ > 
+ > | Aparência Verdadeira |
+ > |----------------------|
+ > |<img src=/img/user/03%20-%20Resources/RPG/Images/Helisara.jpeg width=250>|
+ > |Helisara|
+ > 
 ## Overview
-> [!INFO|float-right] Aparência Verdadeira
-> 
-> ![03 - Resources/RPG/Images/Helisara.jpeg|250](/img/user/03%20-%20Resources/RPG/Images/Helisara.jpeg)
-> 
-> Helisara
 
 **Títulos:** Deusa do Sol,Deusa da Luz,Deusa do Dia,Deusa da Ordem,Deusa dos Céus Limpos,Rainha dos Deuses
 **Correntes Associadas:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Solismo\|Solismo]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Clássico\|Generalismo Clássico]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Pós-Reconstituição\|Generalismo Pós-Reconstituição]]

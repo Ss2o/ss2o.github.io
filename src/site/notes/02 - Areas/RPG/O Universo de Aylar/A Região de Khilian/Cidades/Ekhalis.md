@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/Cidades/Ekhalis.md","permalink":"/A Região de Khilian/Cidades/Ekhalis/","tags":["cidade","khilian","aylar"],"created":"2026-01-10T13:57:13.823+00:00","updated":"2026-01-14T02:37:35.295+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/Cidades/Ekhalis.md","permalink":"/A Região de Khilian/Cidades/Ekhalis/","tags":["cidade","khilian","aylar"],"created":"2026-01-10T13:57:13.823+00:00","updated":"2026-01-16T02:02:41.419+00:00"}
 ---
 
+> [!INFO|float-right|] 
+> 
+ > 
+ > | Backdrop |
+ > |----------------------|
+ > |<img src=/img/user/03%20-%20Resources/RPG/Images/Ekhalis.jpg width=350>|
+ > |Ekhalis|
+
 ## Overview
-> [!INFO|float-right] Ekhalis
-> 
-> ![03 - Resources/RPG/Images/Ekhalis.jpg|350](/img/user/03%20-%20Resources/RPG/Images/Ekhalis.jpg)
-> 
 
 **Região:** Ekhalis
 **Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Pós-Reconstituição\|Generalismo Pós-Reconstituição]]

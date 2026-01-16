@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Divindades/Superiores/Aeonir.md","permalink":"/Divindades/Superiores/Aeonir/","tags":["divindade","#test"],"created":"2026-01-15T13:54:21.079+00:00","updated":"2026-01-16T00:48:03.815+00:00"}
+{"dg-publish":true,"dg-path":"Divindades/Superiores/Aeonir.md","permalink":"/Divindades/Superiores/Aeonir/","tags":["divindade","#test"],"created":"2026-01-15T13:54:21.079+00:00","updated":"2026-01-16T00:51:16.455+00:00"}
 ---
 
 > [!INFO|float-right|] 
@@ -7,6 +7,7 @@
  > |----------------------|
  > |![250](/img/user/03%20-%20Resources/RPG/Images/DEFAULT.png)|
  > |![250](/img/user/03%20-%20Resources/RPG/Images/DEFAULT.png)|
+ > |[[[DEFAULT.png](DEFAULT.png)\|250]]|
  > |![03 - Resources/RPG/Images/DEFAULT.png|250](/img/user/03%20-%20Resources/RPG/Images/DEFAULT.png)|
  > |Some text|
 ## Overview

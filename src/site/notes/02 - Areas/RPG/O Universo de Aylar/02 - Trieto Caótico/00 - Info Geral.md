@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"02 - Trieto Caótico/00 - Info Geral.md","permalink":"/02 - Trieto Caótico/00 - Info Geral/","title":"Trieto Caótico","tags":["campanha"],"created":"2025-09-21T10:56:20.505+01:00","updated":"2026-01-16T02:07:47.655+00:00"}
+{"dg-publish":true,"dg-path":"02 - Trieto Caótico/00 - Info Geral.md","permalink":"/02 - Trieto Caótico/00 - Info Geral/","title":"Trieto Caótico","tags":["campanha","#aylar"],"created":"2025-09-21T10:56:20.505+01:00","updated":"2026-01-16T17:27:55.924+00:00"}
 ---
 
 ## Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"01 - O Ataque à Câmara dos Nobres/00 - Info Geral.md","permalink":"/01 - O Ataque à Câmara dos Nobres/00 - Info Geral/","title":"O Ataque à Câmara dos Nobres","tags":["campanha"],"created":"2026-01-11T05:43:03.742+00:00","updated":"2026-01-16T02:07:54.543+00:00"}
+{"dg-publish":true,"dg-path":"01 - O Ataque à Câmara dos Nobres/00 - Info Geral.md","permalink":"/01 - O Ataque à Câmara dos Nobres/00 - Info Geral/","title":"O Ataque à Câmara dos Nobres","tags":["campanha","#aylar"],"created":"2026-01-11T05:43:03.742+00:00","updated":"2026-01-16T17:27:50.078+00:00"}
 ---
 
 ## Overview
@@ -11,9 +11,9 @@
 | Character Portrait                                                                     | Personagem                                                                                             | Raça       | Classe         | Player |
 | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- | -------------- | ------ |
 | <img src=/img/user/03%20-%20Resources/RPG/Images/Vitrum%20Notam.png width=100>         | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Vitrum Notam\|Vitrum Notam]]                 | Kalashtar  | Artificer      | André  |
+| <img src=/img/user/03%20-%20Resources/RPG/Images/Mercurii.png width=100>               | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Mercurii\|Mercurii]]                         | Changeling | Warlock        | Vasco  |
 | <img src=/img/user/03%20-%20Resources/RPG/Images/Ratosk%20Steelwhisker.png width=100>  | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Ratosk Steelwhisker\|Ratosk Steelwhisker]]   | Jerbeen    | Fighter        | Cassis |
 | <img src=/img/user/03%20-%20Resources/RPG/Images/Markain.png width=100>                | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Markain\|Markain]]                           | Elfo       | Paladin        | Fita   |
-| <img src=/img/user/03%20-%20Resources/RPG/Images/Mercurii.png width=100>               | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Mercurii\|Mercurii]]                         | Changeling | Warlock        | Vasco  |
 | <img src=/img/user/03%20-%20Resources/RPG/Images/Echo%20Arya.png width=100>            | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Echo Arya\|Echo Arya]]                       | Changeling | Bardo          | Cassis |
 | <img src=/img/user/03%20-%20Resources/RPG/Images/Kael%20Shadowfist.png width=100>      | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Kael Shadowfist\|Kael Shadowfist]]           | Tortle     | Monk-Barbarian | Cross  |
 | <img src=/img/user/03%20-%20Resources/RPG/Images/Asmodeus%20Swordniffle.png width=100> | [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Asmodeus Swordniffle\|Asmodeus Swordniffle]] | Corvum     | Wizard         | André  |

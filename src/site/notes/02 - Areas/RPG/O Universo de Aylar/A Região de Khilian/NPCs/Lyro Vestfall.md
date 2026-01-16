@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Lyro Vestfall.md","permalink":"/A Região de Khilian/NPCs/Lyro Vestfall/","tags":["NPC","aylar","#khilian"],"created":"2026-01-11T19:16:18.592+00:00","updated":"2026-01-16T01:55:07.541+00:00"}
+{"dg-publish":true,"dg-path":"A Região de Khilian/NPCs/Lyro Vestfall.md","permalink":"/A Região de Khilian/NPCs/Lyro Vestfall/","tags":["NPC","aylar","#khilian"],"created":"2026-01-11T19:16:18.592+00:00","updated":"2026-01-16T16:44:34.862+00:00"}
 ---
 
 > [!INFO|float-right|] 

@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"Player Characters/Luthiel Felbran.md","permalink":"/Player Characters/Luthiel Felbran/","tags":["player-character","khilian","trieto-caótico","aylar"],"created":"2025-09-05T22:15:48.535+01:00","updated":"2026-01-14T02:38:39.541+00:00"}
+{"dg-publish":true,"dg-path":"Player Characters/Luthiel Felbran.md","permalink":"/Player Characters/Luthiel Felbran/","tags":["player-character","khilian","trieto-caótico","aylar"],"created":"2025-09-05T22:15:48.535+01:00","updated":"2026-01-16T02:06:02.805+00:00"}
 ---
 
+> [!INFO|float-right|] 
+> 
+ > 
+ > | Character Portrait |
+ > |----------------------|
+ > |<img src=/img/user/03%20-%20Resources/RPG/Images/Luthiel%20Felbran.png width=250>|
+ > |Luthiel Felbran|
+
 ## Overview
-> [!INFO|float-right] Character Portrait
-> 
-> ![03 - Resources/RPG/Images/Luthiel Felbran.png|250](/img/user/03%20-%20Resources/RPG/Images/Luthiel%20Felbran.png)
-> 
-> Luthiel Felbran
 
 **Player:** André
 **Campanha:** [[02 - Areas/RPG/O Universo de Aylar/02 - Trieto Caótico/00 - Info Geral\|Trieto Caótico]]

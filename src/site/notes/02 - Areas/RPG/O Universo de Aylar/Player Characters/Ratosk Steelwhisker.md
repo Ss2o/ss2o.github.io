@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"Player Characters/Ratosk Steelwhisker.md","permalink":"/Player Characters/Ratosk Steelwhisker/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:08:46.702+01:00","updated":"2026-01-14T02:39:17.523+00:00"}
+{"dg-publish":true,"dg-path":"Player Characters/Ratosk Steelwhisker.md","permalink":"/Player Characters/Ratosk Steelwhisker/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:08:46.702+01:00","updated":"2026-01-16T02:06:26.841+00:00"}
 ---
 
+> [!INFO|float-right|] 
+> 
+ > 
+ > | Character Portrait |
+ > |----------------------|
+ > |<img src=/img/user/03%20-%20Resources/RPG/Images/Ratosk%20Steelwhisker.png width=250>|
+ > |Ratosk Steelwhisker|
+
 ## Overview
-> [!INFO|float-right] Character Portrait
-> 
-> ![03 - Resources/RPG/Images/Ratosk Steelwhisker.png|250](/img/user/03%20-%20Resources/RPG/Images/Ratosk%20Steelwhisker.png)
-> 
-> Ratosk Steelwhisker
 
 **Player:** Cassis
 **Campanha:** [[02 - Areas/RPG/O Universo de Aylar/01 - O Ataque à Câmara dos Nobres/00 - Info Geral\|O Ataque à Câmara dos Nobres]]

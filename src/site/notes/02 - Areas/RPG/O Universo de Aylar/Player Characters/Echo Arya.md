@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"Player Characters/Echo Arya.md","permalink":"/Player Characters/Echo Arya/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-06T01:29:02.427+01:00","updated":"2026-01-14T02:37:30.199+00:00"}
+{"dg-publish":true,"dg-path":"Player Characters/Echo Arya.md","permalink":"/Player Characters/Echo Arya/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-06T01:29:02.427+01:00","updated":"2026-01-16T02:05:53.786+00:00"}
 ---
 
+> [!INFO|float-right|] 
+> 
+ > 
+ > | Character Portrait |
+ > |----------------------|
+ > |<img src=/img/user/03%20-%20Resources/RPG/Images/Echo%20Arya.png width=250>|
+ > |Echo Arya|
+
 ## Overview
-> [!INFO|float-right] Character Portrait
-> 
-> ![03 - Resources/RPG/Images/Echo Arya.png|250](/img/user/03%20-%20Resources/RPG/Images/Echo%20Arya.png)
-> 
-> Echo Arya
 
 **Player:** Cassis
 **Campanha:** [[02 - Areas/RPG/O Universo de Aylar/01 - O Ataque à Câmara dos Nobres/00 - Info Geral\|O Ataque à Câmara dos Nobres]]

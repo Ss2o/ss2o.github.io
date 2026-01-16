@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"Player Characters/Asmodeus Swordniffle.md","permalink":"/Player Characters/Asmodeus Swordniffle/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:02:16.806+01:00","updated":"2026-01-14T02:36:33.296+00:00"}
+{"dg-publish":true,"dg-path":"Player Characters/Asmodeus Swordniffle.md","permalink":"/Player Characters/Asmodeus Swordniffle/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:02:16.806+01:00","updated":"2026-01-16T02:05:49.041+00:00"}
 ---
 
+> [!INFO|float-right|] 
+> 
+ > 
+ > | Character Portrait |
+ > |----------------------|
+ > |<img src=/img/user/03%20-%20Resources/RPG/Images/Asmodeus%20Swordniffle.png width=250>|
+ > |Asmodeus Swordniffle|
+
 ## Overview
-> [!INFO|float-right] Character Portrait
-> 
-> ![03 - Resources/RPG/Images/Asmodeus Swordniffle.png|250](/img/user/03%20-%20Resources/RPG/Images/Asmodeus%20Swordniffle.png)
-> 
-> Asmodeus Swordniffle
 
 **Player:** André
 **Campanha:** [[02 - Areas/RPG/O Universo de Aylar/01 - O Ataque à Câmara dos Nobres/00 - Info Geral\|O Ataque à Câmara dos Nobres]]

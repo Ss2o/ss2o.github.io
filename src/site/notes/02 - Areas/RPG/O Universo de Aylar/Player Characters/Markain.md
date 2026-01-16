@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"Player Characters/Markain.md","permalink":"/Player Characters/Markain/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:11:57.571+01:00","updated":"2026-01-14T02:38:49.707+00:00"}
+{"dg-publish":true,"dg-path":"Player Characters/Markain.md","permalink":"/Player Characters/Markain/","tags":["player-character","khilian","o-ataque-à-câmara-dos-nobres","aylar"],"created":"2025-09-05T22:11:57.571+01:00","updated":"2026-01-16T02:06:14.762+00:00"}
 ---
 
+> [!INFO|float-right|] 
+> 
+ > 
+ > | Character Portrait |
+ > |----------------------|
+ > |<img src=/img/user/03%20-%20Resources/RPG/Images/Markain.png width=250>|
+ > |Markain|
+
 ## Overview
-> [!INFO|float-right] Character Portrait
-> 
-> ![03 - Resources/RPG/Images/Markain.png|250](/img/user/03%20-%20Resources/RPG/Images/Markain.png)
-> 
-> Markain
 
 **Player:** Fita
 **Campanha:** [[02 - Areas/RPG/O Universo de Aylar/01 - O Ataque à Câmara dos Nobres/00 - Info Geral\|O Ataque à Câmara dos Nobres]]

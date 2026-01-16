@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Divindades/Superiores/Aeonir.md","permalink":"/Divindades/Superiores/Aeonir/","tags":["divindade","aylar"],"created":"2026-01-15T13:54:21.079+00:00","updated":"2026-01-16T01:29:04.492+00:00"}
+{"dg-publish":true,"dg-path":"Divindades/Superiores/Aeonir.md","permalink":"/Divindades/Superiores/Aeonir/","tags":["divindade","aylar"],"created":"2026-01-15T13:54:21.079+00:00","updated":"2026-01-16T01:38:13.872+00:00"}
 ---
 
 > [!INFO|float-right|] 

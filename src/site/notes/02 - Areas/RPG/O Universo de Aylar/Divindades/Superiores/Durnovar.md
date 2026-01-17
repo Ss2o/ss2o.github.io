@@ -13,5 +13,5 @@
 ## Overview
 
 **Títulos:** Deus da Terra,Deus da Produção,Deus do Magma,Deus da Mineração,Deus da Experiência,Deus da Velhice
-**Correntes Associadas:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Durnovarismo\|Durnovarismo]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Clássico\|Generalismo Clássico]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Pós-Reconstituição\|Generalismo Pós-Reconstituição]]
+**Correntes Associadas:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Durnovarismo\|Durnovarismo]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Generalismo-Clássico\|Generalismo Clássico]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Generalismo-Pós-Reconstituição\|Generalismo Pós-Reconstituição]]
 

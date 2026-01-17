@@ -12,5 +12,5 @@
 ## Overview
 
 **Títulos:** Deus do Tempo,O Último Filho,O Grande Neutralizador,O Único e Verdadeiro Deus
-**Correntes Associadas:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Aeonismo\|Aeonismo]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Clássico\|Generalismo Clássico]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Pós-Reconstituição\|Generalismo Pós-Reconstituição]]
+**Correntes Associadas:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Aeonismo\|Aeonismo]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Generalismo-Clássico\|Generalismo Clássico]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Generalismo-Pós-Reconstituição\|Generalismo Pós-Reconstituição]]
 

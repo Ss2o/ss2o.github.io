@@ -13,5 +13,5 @@
 ## Overview
 
 **Títulos:** Pai dos Deuses,Deus do Equilíbrio,Deus da Neutralidade
-**Correntes Associadas:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Paternalismo\|Paternalismo]]
+**Correntes Associadas:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Paternalismo\|Paternalismo]]
 

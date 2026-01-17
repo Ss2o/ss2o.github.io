@@ -13,5 +13,5 @@
 ## Overview
 
 **Títulos:** Deusa da Vida,Deusa das Flores,Deusa da Natureza,Deusa da Puberdade,Deusa do Crescimento
-**Correntes Associadas:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Sylarismo\|Sylarismo]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Clássico\|Generalismo Clássico]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Pós-Reconstituição\|Generalismo Pós-Reconstituição]]
+**Correntes Associadas:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Sylarismo\|Sylarismo]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Generalismo-Clássico\|Generalismo Clássico]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Generalismo-Pós-Reconstituição\|Generalismo Pós-Reconstituição]]
 

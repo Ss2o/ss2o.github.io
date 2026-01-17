@@ -18,4 +18,4 @@
 **Nascimento:** 25 AR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]]
 **Classe:** Artificer
 **Espécie:** Kalashtar
-**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Durnovarismo\|Durnovarismo]]
+**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Durnovarismo\|Durnovarismo]]

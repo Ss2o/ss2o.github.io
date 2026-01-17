@@ -13,7 +13,7 @@
 ## Overview
 
 **Região:** Ekhalis
-**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Pós-Reconstituição\|Generalismo Pós-Reconstituição]]
+**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Generalismo-Pós-Reconstituição\|Generalismo Pós-Reconstituição]]
 **Cultura:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Culturas/Cultura-Ekhaliana\|Cultura Ekhaliana]]
 **Etnias Principais:** Antropomórfica (Pós Reconstituição),Humana,Élfica
 **Geografia:** Beira Rio

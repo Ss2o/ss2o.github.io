@@ -15,7 +15,7 @@
 **Status:** Vivo
 **Nascimento:** 32 AR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Ekhalis\|Ekhalis]]
 
-Filho de [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/NPCs/Sylver Arya\|Sylver Arya]], tio de [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Echo Arya\|Echo Arya]]. Coautor não creditado de _[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/O Mundo\|O Mundo]]_. Autor de _[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/E Depois da Criação\|E Depois da Criação?]]_ e de _[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/A Minha Viagem\| A Minha Viagem]]_. A sua cosmologia apresenta traços do [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Paternalismo\|Paternalismo]]. 
+Filho de [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/NPCs/Sylver Arya\|Sylver Arya]], tio de [[02 - Areas/RPG/O Universo de Aylar/Player Characters/Echo Arya\|Echo Arya]]. Coautor não creditado de _[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/O Mundo\|O Mundo]]_. Autor de _[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/E Depois da Criação\|E Depois da Criação?]]_ e de _[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/A Minha Viagem\| A Minha Viagem]]_. A sua cosmologia apresenta traços do [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Paternalismo\|Paternalismo]]. 
 
 ## História
 

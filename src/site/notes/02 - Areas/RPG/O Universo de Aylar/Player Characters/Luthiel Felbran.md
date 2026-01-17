@@ -18,7 +18,7 @@
 **Nascimento:** 14 DR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Faunia\|Faunia]]
 **Classe:** Bardo-Rogue
 **Espécie:** Vulpin
-**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Clássico\|Generalismo-Clássico]]
+**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Generalismo-Clássico\|Generalismo-Clássico]]
 
 Conhecido por ser amigável com todos e extremente confiavel em suas habilidades.
 ## Backstory

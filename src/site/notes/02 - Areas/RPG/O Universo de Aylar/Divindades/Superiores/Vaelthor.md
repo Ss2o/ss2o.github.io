@@ -13,5 +13,5 @@
 ## Overview
 
 **Títulos:** Deus da Lua,Deus da Noite,Deus da Escuridão,Deus das Tempestades,Deus do Caos,Deus da Liberdade,Vodhulkir,Vodhulkir, O Beholder
-**Correntes Associadas:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Libercaoticismo\|Libercaoticismo]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Generalismo-Clássico\|Generalismo Clássico]]
+**Correntes Associadas:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Libercaoticismo\|Libercaoticismo]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Generalismo-Clássico\|Generalismo Clássico]]
 

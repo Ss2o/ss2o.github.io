@@ -13,7 +13,7 @@
 ## Overview
 
 **Região:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Marcos Gegráficos/Grandes Regiões/Khishuri\|Khishuri]]
-**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Aeonismo\|Aeonismo]]
+**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Aeonismo\|Aeonismo]]
 **Cultura:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Culturas/Cultura-Ekhaliana\|Cultura Ekhaliana]],[[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Culturas/Cultura-Khishuriana\|Cultura Khishuriana]]
 **Etnias Principais:** Humana,Animais Antropomorfos
 **Geografia:** Foz do Rio

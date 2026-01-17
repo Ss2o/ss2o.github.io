@@ -18,5 +18,5 @@
 **Nascimento:** 24 AR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Fizora\|Fizora]]
 **Classe:** Monk-Barbarian
 **Espécie:** Tortle
-**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Durnovarismo\|Durnovarismo]]
+**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Durnovarismo\|Durnovarismo]]
 

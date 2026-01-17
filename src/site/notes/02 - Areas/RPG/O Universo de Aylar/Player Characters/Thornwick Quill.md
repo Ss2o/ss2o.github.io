@@ -18,4 +18,4 @@
 **Nascimento:** 11 DR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Faunia\|Faunia]]
 **Classe:** Bardo
 **Espécie:** Hedge
-**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Sylarismo\|Sylarismo]]
+**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Sylarismo\|Sylarismo]]

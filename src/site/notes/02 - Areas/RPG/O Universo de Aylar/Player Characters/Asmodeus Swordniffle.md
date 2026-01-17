@@ -18,5 +18,5 @@
 **Nascimento:** 28 AR, [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Cidades/Portis\|Portis]]
 **Classe:** Wizard
 **Espécie:** Corvum
-**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes religiosas/Libercaoticismo\|Libercaoticismo]]
+**Religião:** [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Correntes Religiosas/Libercaoticismo\|Libercaoticismo]]
 

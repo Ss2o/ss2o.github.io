@@ -41,10 +41,10 @@ Campanhas Ativas: [[02 - Areas/RPG/O Universo de Aylar/02 - Trieto Caótico/00 -
 #### Eventos Históricos
 | Evento                                                                                                                                      | Data                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Divina Guerra\|A Divina Guerra]]                           | ~ 4730 - 4310 AR                                                                                                                                                   |
 | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/O Ataque à Câmara dos Nobres\|O Ataque à Câmara dos Nobres]] | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/00 - Convenções Históricas#Sistema Pós- A Reconstituição Reconstituição\|Ano 0]] |
-| [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Traição de Vaelthor\|A Traição de Vaelthor]]               | ~ 4730 AR                                                                                                                                                          |
 | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Reconstituição\|A Reconstituição]]                         | [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Documentos Históricos/00 - Convenções Históricas\|Ano 0]]                                              |
+| [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Traição de Vaelthor\|A Traição de Vaelthor]]               | ~ 4730 AR                                                                                                                                                          |
+| [[02 - Areas/RPG/O Universo de Aylar/A Região de Khilian/Eventos Históricos/A Divina Guerra\|A Divina Guerra]]                           | ~ 4730 - 4310 AR                                                                                                                                                   |
 
 { .block-language-dataview}
 
@@ -60,19 +60,14 @@ Campanhas Ativas: [[02 - Areas/RPG/O Universo de Aylar/02 - Trieto Caótico/00 -
 ## Sistema 
 
 ### Stats
-| Mecânica                                                                              | Versão da Última Modificação                                                                    |
-| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Stats/Sorte (LUK)\|Sorte (LUK)]] | [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/changelog-v0.2.0\|v0.2.0]] |
+| Mecânica | Versão da Última Modificação |
+| -------- | ---------------------------- |
 
 { .block-language-dataview}
 
 ### Ações
-| Mecânica                                                                                                                  | Versão da Última Modificação                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Ações, Reações e Ações Livres\|Ações, Reações e Ações Livres]] | [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/changelog-v0.2.0\|v0.2.0]] |
-| [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Criação de Spells\|Criação de Spells]]                         | [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/changelog-v0.2.0\|v0.2.0]] |
-| [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Critical Hits\|Critical Hits]]                                 | [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/changelog-v0.2.0\|v0.2.0]] |
-| [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/Ações/Forçar Dados\|Forçar Dados]]                                   | [[02 - Areas/RPG/O Universo de Aylar/00 - Sistema/00 - Changelogs/changelog-v0.2.0\|v0.2.0]] |
+| Mecânica | Versão da Última Modificação |
+| -------- | ---------------------------- |
 
 { .block-language-dataview}
 
